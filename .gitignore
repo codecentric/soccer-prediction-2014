@@ -1,0 +1,10 @@
+.Rdata
+.Rhistory
+.gradle
+*.iml
+target
+build
+.idea/
+out/
+build/
+.DS_Store

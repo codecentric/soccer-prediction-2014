@@ -1,0 +1,47 @@
+null
+
+
+b_last_1games_points_average_weighted_home_team, b_last_1games_points_average_weighted_away_team, b_last_1games_points_average_weighted_home_minus_away_team,    Computes the weighted averages from the last 1 games. Based on the points   gained (three for win, one for draw).    Points are weighted based on the position of the competing team in the league table    For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when no previous games are known.
+
+
+b_last_3games_points_average_weighted_home_team, b_last_3games_points_average_weighted_away_team, b_last_3games_points_average_weighted_home_minus_away_team,    Computes the weighted averages from the last 3 games. Based on the points   gained (three for win, one for draw).    Points are weighted based on the position of the competing team in the league table    For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when no previous games are known.
+
+
+b_last_10games_points_average_weighted_home_team, b_last_10games_points_average_weighted_away_team, b_last_10games_points_average_weighted_home_minus_away_team,    Computes the weighted averages from the last 10 games. Based on the points   gained (three for win, one for draw).    Points are weighted based on the position of the competing team in the league table    For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when no previous games are known.
+
+
+b_last_1games_goal_average_weighted_home_team, b_last_1games_goal_average_weighted_away_team, b_last_1games_goal_average_weighted_home_minus_away_team,    Computes the weighted averages from the last 1 games. Based on the goals   shot.    Goals are weighted based on the position of the competing team in the league table    For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when no previous games are known.
+
+
+b_last_3games_goal_average_weighted_home_team, b_last_3games_goal_average_weighted_away_team, b_last_3games_goal_average_weighted_home_minus_away_team,    Computes the weighted averages from the last 3 games. Based on the goals   shot.    Goals are weighted based on the position of the competing team in the league table    For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when no previous games are known.
+
+
+b_last_10games_goal_average_weighted_home_team, b_last_10games_goal_average_weighted_away_team, b_last_10games_goal_average_weighted_home_minus_away_team,    Computes the weighted averages from the last 10 games. Based on the goals   shot.    Goals are weighted based on the position of the competing team in the league table    For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when no previous games are known.
+
+
+b_last_1_games_goal_average_home_team, b_last_1_games_goal_average_away_team, b_last_1_games_goal_average_home_minus_away_team, b_last_1_games_goal_average_difference_home_team, b_last_1_games_goal_average_difference_away_team, b_last_1_games_goal_average_difference_home_minus_away_team,    Computes the averages from the last 1 games. Based on the goals   shot and goal difference between the teams     i.e. this can be negative if the competing teams shot more goals.   For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when no previous games are known.
+
+
+b_last_3_games_goal_average_home_team, b_last_3_games_goal_average_away_team, b_last_3_games_goal_average_home_minus_away_team, b_last_3_games_goal_average_difference_home_team, b_last_3_games_goal_average_difference_away_team, b_last_3_games_goal_average_difference_home_minus_away_team,    Computes the averages from the last 3 games. Based on the goals   shot and goal difference between the teams     i.e. this can be negative if the competing teams shot more goals.   For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when no previous games are known.
+
+
+b_last_10_games_goal_average_home_team, b_last_10_games_goal_average_away_team, b_last_10_games_goal_average_home_minus_away_team, b_last_10_games_goal_average_difference_home_team, b_last_10_games_goal_average_difference_away_team, b_last_10_games_goal_average_difference_home_minus_away_team,    Computes the averages from the last 10 games. Based on the goals   shot and goal difference between the teams     i.e. this can be negative if the competing teams shot more goals.   For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when no previous games are known.
+
+
+b_league_positions_weighted_points_league_table_home_team, b_league_positions_weighted_points_league_table_away_team, b_league_positions_weighted_points_league_table_home_minus_away_team, 
+   : prints the league positions in the computed league based on the weighted_points_league_table
+
+
+b_league_positions_points_league_table_home_team, b_league_positions_points_league_table_away_team, b_league_positions_points_league_table_home_minus_away_team, 
+   : prints the league positions in the computed league based on the points_league_table
+
+
+b_last_30days_goal_average_home_team, b_last_30days_goal_average_away_team, b_last_30days_goal_average_home_minus_away_team, b_last_30days_goal_average_difference_home_team, b_last_30days_goal_average_difference_away_team, b_last_30days_goal_average_difference_home_minus_away_team,    Computes the averages from the games in the past 30 days. Based on the goals   shot and goal difference between the teams     i.e. this can be negative if the competing teams shot more goals.   For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when games happened in the specified period.
+
+
+b_last_120days_goal_average_home_team, b_last_120days_goal_average_away_team, b_last_120days_goal_average_home_minus_away_team, b_last_120days_goal_average_difference_home_team, b_last_120days_goal_average_difference_away_team, b_last_120days_goal_average_difference_home_minus_away_team,    Computes the averages from the games in the past 120 days. Based on the goals   shot and goal difference between the teams     i.e. this can be negative if the competing teams shot more goals.   For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when games happened in the specified period.
+
+
+b_last_360days_goal_average_home_team, b_last_360days_goal_average_away_team, b_last_360days_goal_average_home_minus_away_team, b_last_360days_goal_average_difference_home_team, b_last_360days_goal_average_difference_away_team, b_last_360days_goal_average_difference_home_minus_away_team,    Computes the averages from the games in the past 360 days. Based on the goals   shot and goal difference between the teams     i.e. this can be negative if the competing teams shot more goals.   For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when games happened in the specified period.
+
+

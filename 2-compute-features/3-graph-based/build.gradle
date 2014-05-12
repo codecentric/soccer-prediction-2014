@@ -1,0 +1,32 @@
+apply plugin: 'groovy'
+
+sourceCompatibility = 1.5
+version = '1.0'
+
+repositories {
+    mavenCentral()
+    maven {
+        url "http://m2.neo4j.org/content/repositories/releases/"
+    }
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.2.2'
+    compile 'org.neo4j:neo4j:2.0.2'
+    compile 'net.sf.opencsv:opencsv:2.3'
+}
+
+task buildNeo4J (dependsOn: 'classes', type: JavaExec) {
+    main = "BuildNeo4jFromGamesCSV"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+task extractPaths (dependsOn: 'classes', type: JavaExec) {
+    main = "ExtractJsonGameHistory"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+task computeFeatures (dependsOn: 'classes', type: JavaExec) {
+    main = "ComputeGraphFeaturesFromJson"
+    classpath = sourceSets.main.runtimeClasspath
+}
