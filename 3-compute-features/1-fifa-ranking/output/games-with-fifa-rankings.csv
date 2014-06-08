@@ -1489,7 +1489,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1488;1994-06-17;DEU;BOL;;;;;38;Mexiko;Arturo Brizio Carter;;63117;3-5-2 flach;3-5-2;15:00;United States;Weltmeisterschaft 1994;;Gruppe C;;group;;;0;1;;;0;1;0;0;;;1994;WM;Endrunde;1994;1;59;43;35;-42;24;1;0;1
 1489;1994-06-17;ESP;KOR;;;;;34;Dänemark;Peter Mikkelsen;Cotton Bowl;56200;;;19:30;United States;Weltmeisterschaft 1994;;Gruppe C;;group;;;2;2;;;2;2;0;0;;;1994;WM;Endrunde;1994;5;55;;;;;4;;
 1490;1994-06-18;COL;ROU;;;;;39;Syrien;Jamal Al Sharif;;91856;;;19:30;United States;Weltmeisterschaft 1994;;Gruppe A;;group;;;3;1;;;3;1;2;1;;;1994;WM;Endrunde;1994;17;51;7;55;10;-4;1;3;-2
-1491;1994-06-18;ITA;IRL;;;;;38;Niederlande;Mario van der Ende;Giants Stadium;75338;;4-5-1;16:00;United States;Weltmeisterschaft 1994;;Gruppe E;;group;;;1;0;;;1;0;1;0;;;1994;WM;Endrunde;1994;4;56;;;;;12;;
+1491;1994-06-18;ITA;IRL;;;;;38;Niederlande;Mario van der Ende;Giants Stadium;75338;;4-5-1;16:00;United States;Weltmeisterschaft 1994;;Gruppe E;;group;;;1;0;;;1;0;1;0;;;1994;WM;Endrunde;1994;4;56;14;52;-10;4;12;-2;14
 1492;1994-06-18;USA;CHE;;;;;43;Argentinien;Francisco Óscar Lamolina;MetLife Stadium;73425;;;11:30;United States;Weltmeisterschaft 1994;;Gruppe A;;group;;;1;1;;;1;1;1;1;;;1994;WM;Endrunde;1994;23;46;12;53;11;-7;0;-4;4
 1493;1994-06-19;BEL;MAR;;;;;41;Kolumbien;José Joaquín Torres Cadena;Florida Citrus Bowl;61219;;;12:30;United States;Weltmeisterschaft 1994;;Gruppe F;;group;;;0;1;;;0;1;0;1;;;1994;WM;Endrunde;1994;27;43;28;43;-1;0;7;2;5
 1494;1994-06-19;CMR;SWE;;;;;37;Peru;Alberto Tejada Noriega;;93194;;;19:30;United States;Weltmeisterschaft 1994;;Gruppe B;;group;;;2;2;;;2;2;1;1;;;1994;WM;Endrunde;1994;24;45;10;54;14;-9;0;-7;7
@@ -1504,7 +1504,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1503;1994-06-23;ITA;NOR;;;;;38;Deutschland;Hellmut Krug;Giants Stadium;74624;;4-3-1-2;16:00;United States;Weltmeisterschaft 1994;;Gruppe E;;group;;;0;1;;;0;1;0;0;;;1994;WM;Endrunde;1994;4;56;6;55;-2;1;12;-2;14
 1504;1994-06-23;KOR;BOL;;;;;43;Schottland;Leslie Mottram;;53500;;;19:30;United States;Weltmeisterschaft 1994;;Gruppe C;;group;;;0;0;;;0;0;0;0;;;1994;WM;Endrunde;1994;;;43;35;;;;0;
 1505;1994-06-24;BRA;CMR;;;;;38;Mexiko;Arturo Brizio Carter;;83401;;;16:00;United States;Weltmeisterschaft 1994;;Gruppe B;;group;;;0;3;;;0;3;0;1;;;1994;WM;Endrunde;1994;3;58;24;45;-21;13;-2;0;-2
-1506;1994-06-24;MEX;IRL;;;;;43;Schweiz;Kurt Röthlisberger;Florida Citrus Bowl;60790;;;12:30;United States;Weltmeisterschaft 1994;;Gruppe E;;group;;;1;2;;;1;2;0;1;;;1994;WM;Endrunde;1994;16;51;;;;;-3;;
+1506;1994-06-24;MEX;IRL;;;;;43;Schweiz;Kurt Röthlisberger;Florida Citrus Bowl;60790;;;12:30;United States;Weltmeisterschaft 1994;;Gruppe E;;group;;;1;2;;;1;2;0;1;;;1994;WM;Endrunde;1994;16;51;14;52;2;-1;-3;-2;-1
 1507;1994-06-24;SWE;RUS;;;;;43;Frankreich;Joel Quiniou;;71528;;;19:30;United States;Weltmeisterschaft 1994;;Gruppe B;;group;;;1;3;;;1;3;1;1;;;1994;WM;Endrunde;1994;10;54;19;49;-9;5;-7;1;-8
 1508;1994-06-25;ARG;NGA;;;;;44;Schweden;Bo Jonas Hil Karlsson;;54453;;;16:00;United States;Weltmeisterschaft 1994;;Gruppe D;;group;;;1;2;;;1;2;1;2;;;1994;WM;Endrunde;1994;8;55;11;54;-3;1;-2;-4;2
 1509;1994-06-25;BEL;NLD;;;;;43;Brasilien;Renato Marsiglia;Florida Citrus Bowl;62387;;;12:30;United States;Weltmeisterschaft 1994;;Gruppe F;;group;;;0;1;;;0;1;0;0;;;1994;WM;Endrunde;1994;27;43;2;59;25;-16;7;9;-2
@@ -1516,7 +1516,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1515;1994-06-27;BOL;ESP;;;;;37;Costa Rica;Rodrigo Sequeira Badilla;;63100;;;16:00;United States;Weltmeisterschaft 1994;;Gruppe C;;group;;;3;1;;;3;1;1;0;;;1994;WM;Endrunde;1994;43;35;5;55;38;-20;0;4;-4
 1516;1994-06-27;DEU;KOR;;;;;43;Frankreich;Joel Quiniou;;64000;4-4-2 Libero flach;3-5-2;16:00;United States;Weltmeisterschaft 1994;;Gruppe C;;group;;;2;3;;;2;3;0;3;;;1994;WM;Endrunde;1994;1;59;;;;;1;;
 1517;1994-06-28;BRA;SWE;;;;;38;Ungarn;Sándor Puhl;;77217;;;16:00;United States;Weltmeisterschaft 1994;;Gruppe B;;group;;;1;1;;;1;1;0;1;;;1994;WM;Endrunde;1994;3;58;10;54;-7;4;-2;-7;5
-1518;1994-06-28;IRL;NOR;;;;;41;Kolumbien;José Joaquín Torres Cadena;Giants Stadium;76322;;;12:30;United States;Weltmeisterschaft 1994;;Gruppe E;;group;;;0;0;;;0;0;0;0;;;1994;WM;Endrunde;1994;;;6;55;;;;-2;
+1518;1994-06-28;IRL;NOR;;;;;41;Kolumbien;José Joaquín Torres Cadena;Giants Stadium;76322;;;12:30;United States;Weltmeisterschaft 1994;;Gruppe E;;group;;;0;0;;;0;0;0;0;;;1994;WM;Endrunde;1994;14;52;6;55;8;-3;-2;-2;0
 1519;1994-06-28;ITA;MEX;;;;;43;Argentinien;Francisco Óscar Lamolina;Robert F Kennedy Memorial Stadium;52535;;4-3-1-2;12:30;United States;Weltmeisterschaft 1994;;Gruppe E;;group;;;1;1;;;1;1;0;0;;;1994;WM;Endrunde;1994;4;56;16;51;-12;5;12;-3;15
 1520;1994-06-28;RUS;CMR;;;;;39;Syrien;Jamal Al Sharif;;74914;;;16:00;United States;Weltmeisterschaft 1994;;Gruppe B;;group;;;1;6;;;1;6;0;3;;;1994;WM;Endrunde;1994;19;49;24;45;-5;4;1;0;1
 1521;1994-06-29;BEL;SAU;;;;;38;Deutschland;Hellmut Krug;;52959;;;12:30;United States;Weltmeisterschaft 1994;;Gruppe F;;group;;;1;0;;;1;0;1;0;;;1994;WM;Endrunde;1994;27;43;;;;;7;;
@@ -1528,7 +1528,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1527;1994-07-03;ROU;ARG;;;;;41;Italien;Pierluigi Pairetto;;90469;;;13:30;United States;Weltmeisterschaft 1994;;Achtelfinale;;round of 16;;;2;3;;;2;3;1;2;;;1994;WM;Endrunde;1994;7;55;8;55;-1;0;3;-2;5
 1528;1994-07-03;SAU;SWE;;;;;43;Brasilien;Renato Marsiglia;;60277;;;12:00;United States;Weltmeisterschaft 1994;;Achtelfinale;;round of 16;;;3;1;;;3;1;1;0;;;1994;WM;Endrunde;1994;;;10;54;;;;-7;
 1529;1994-07-04;BRA;USA;;;;;44;Frankreich;Joel Quiniou;;84147;;;12:30;United States;Weltmeisterschaft 1994;;Achtelfinale;;round of 16;;;0;1;;;0;1;0;0;;;1994;WM;Endrunde;1994;3;58;23;46;-20;12;-2;0;-2
-1530;1994-07-04;NLD;IRL;;;;;34;Dänemark;Peter Mikkelsen;Florida Citrus Bowl;61355;;;12:00;United States;Weltmeisterschaft 1994;;Achtelfinale;;round of 16;;;0;2;;;0;2;0;2;;;1994;WM;Endrunde;1994;2;59;;;;;9;;
+1530;1994-07-04;NLD;IRL;;;;;34;Dänemark;Peter Mikkelsen;Florida Citrus Bowl;61355;;;12:00;United States;Weltmeisterschaft 1994;;Achtelfinale;;round of 16;;;0;2;;;0;2;0;2;;;1994;WM;Endrunde;1994;2;59;14;52;-12;7;9;-2;11
 1531;1994-07-05;MEX;BGR;;;;;39;Syrien;Jamal Al Sharif;;71030;;;16:30;United States;Weltmeisterschaft 1994;;Achtelfinale;;round of 16;;;1;1;3;1;4;2;;;n.E.;;1994;WM;Endrunde;1994;16;51;29;43;-13;8;-3;0;-3
 1532;1994-07-05;NGA;ITA;;;;;38;Mexiko;Arturo Brizio Carter;Foxboro Stadium;54367;4-4-2;;13:00;United States;Weltmeisterschaft 1994;;Achtelfinale;;round of 16;;;2;1;;;2;1;0;1;;;1994;WM;Endrunde;1994;11;54;4;56;7;-2;-4;12;-16
 1533;1994-07-09;ITA;ESP;;;;;39;Ungarn;Sándor Puhl;Foxboro Stadium;53400;;4-5-1;12:00;United States;Weltmeisterschaft 1994;;Viertelfinale;;quarter final;;;1;2;;;1;2;0;1;;;1994;WM;Endrunde;1994;4;56;5;55;-1;1;12;4;8
@@ -1554,7 +1554,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1553;1994-09-07;ISL;SWE;;;;;;;;;;;;;England;;;;;qualification group;;;1;0;;;1;0;;;;;1996;;Qualifikation;;42;35;3;61;39;-26;-4;7;-11
 1554;1994-09-07;LIE;AUT;;;;;;;;;;;;;England;;;;;qualification group;;;4;0;;;4;0;;;;;1996;;Qualifikation;;151;2;37;38;114;-36;0;-1;1
 1555;1994-09-07;LUX;NLD;;;;;;;;;;;;;England;;;;;qualification group;;;4;0;;;4;0;;;;;1996;;Qualifikation;;116;9;5;60;111;-51;1;-3;4
-1556;1994-09-07;LVA;IRL;;;;;;;;;;;;;England;;;;;qualification group;;;3;0;;;3;0;;;;;1996;;Qualifikation;;86;18;;;;;-1;;
+1556;1994-09-07;LVA;IRL;;;;;;;;;;;;;England;;;;;qualification group;;;3;0;;;3;0;;;;;1996;;Qualifikation;;86;18;13;53;73;-35;-1;1;-2
 1557;1994-09-07;MKD;DNK;;;;;;;;;;;;;England;;;;;qualification group;;;1;1;;;1;1;;;;;1996;;Qualifikation;;;;12;54;;;;-3;
 1558;1994-09-07;NIR;PRT;;;;;;;;;;;;;England;;;;;qualification group;;;2;1;;;2;1;;;;;1996;;Qualifikation;;39;36;25;44;14;-8;2;-3;5
 1559;1994-09-07;NOR;BLR;;;;;;;;;;;;;England;;;;;qualification group;;;0;1;;;0;1;;;;;1996;;Qualifikation;;8;57;142;4;-134;53;-2;0;-2
@@ -1574,7 +1574,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1573;1994-10-12;CHE;SWE;;;;;;;;;;;;;England;;;;;qualification group;;;2;4;;;2;4;;;;;1996;;Qualifikation;;11;55;3;61;8;-6;0;0;0
 1574;1994-10-12;DNK;BEL;;;;;;;;;;;;;England;;;;;qualification group;;;1;3;;;1;3;;;;;1996;;Qualifikation;;13;53;19;50;-6;3;-1;1;-2
 1575;1994-10-12;GRC;FIN;;;;;;;;;;;;;England;;;;;qualification group;;;0;4;;;0;4;;;;;1996;;Qualifikation;;32;41;47;34;-15;7;2;-2;4
-1576;1994-10-12;IRL;LIE;;;;;;;;;;;;;England;;;;;qualification group;;;0;4;;;0;4;;;;;1996;;Qualifikation;;;;154;2;;;;-3;
+1576;1994-10-12;IRL;LIE;;;;;;;;;;;;;England;;;;;qualification group;;;0;4;;;0;4;;;;;1996;;Qualifikation;;12;54;154;2;-142;52;1;-3;4
 1577;1994-10-12;ISR;SVK;;;;;;;;;;;;;England;;;;;qualification group;;;2;2;;;2;2;;;;;1996;;Qualifikation;;48;33;42;36;6;-3;4;1;3
 1578;1994-10-12;MDA;WAL;;;;;;;;;;;;;England;;;;;qualification group;;;2;3;;;2;3;;;;;1996;;Qualifikation;;135;6;34;39;101;-33;14;1;13
 1579;1994-10-12;MKD;ESP;;;;;;;;;;;;;England;;;;;qualification group;;;2;0;;;2;0;;;;;1996;;Qualifikation;;;;6;59;;;;0;
@@ -1601,7 +1601,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1600;1994-11-16;GEO;WAL;;;;;;;;;;;;;England;;;;;qualification group;;;0;5;;;0;5;;;;;1996;;Qualifikation;;106;13;40;37;66;-24;-6;-6;0
 1601;1994-11-16;GRC;SMR;;;;;;;;;;;;;England;;;;;qualification group;;;0;2;;;0;2;;;;;1996;;Qualifikation;;31;42;134;7;-103;35;1;-1;2
 1602;1994-11-16;ITA;HRV;;;;;;;;;;;;;England;;;;;qualification group;;;2;1;;;2;1;;;;;1996;;Qualifikation;;2;62;67;26;-65;36;0;6;-6
-1603;1994-11-16;NIR;IRL;;;;;;;;;;;;;England;;;;;qualification group;;;4;0;;;4;0;;;;;1996;;Qualifikation;;39;37;;;;;6;;
+1603;1994-11-16;NIR;IRL;;;;;;;;;;;;;England;;;;;qualification group;;;4;0;;;4;0;;;;;1996;;Qualifikation;;39;37;11;55;28;-18;6;1;5
 1604;1994-11-16;NLD;CZE;;;;;;;;;;;;;England;;;;;qualification group;;;0;0;;;0;0;;;;;1996;;Qualifikation;;5;60;32;40;-27;20;0;3;-3
 1605;1994-11-16;POL;FRA;;;;;;;;;;;;;England;;;;;qualification group;;;0;0;;;0;0;;;;;1996;;Qualifikation;;36;40;19;51;17;-11;-3;1;-4
 1606;1994-11-16;SCO;RUS;;;;;;;;;;;;;England;;;;;qualification group;;;1;1;;;1;1;;;;;1996;;Qualifikation;;28;43;14;53;14;-10;3;3;0
@@ -1634,7 +1634,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1633;1995-03-29;ESP;BEL;;;;;;;;;;;;;England;;;;;qualification group;;;1;1;;;1;1;;;;;1996;;Qualifikation;;2;61;23;47;-21;14;0;1;-1
 1634;1995-03-29;GEO;DEU;;;;;;;;;;;;;England;;;;;qualification group;;;2;0;;;2;0;;;;;1996;;Qualifikation;;98;17;5;60;93;-43;-6;0;-6
 1635;1995-03-29;HUN;CHE;;;;;;;;;;;;;England;;;;;qualification group;;;2;2;;;2;2;;;;;1996;;Qualifikation;;63;30;11;57;52;-27;-2;-4;2
-1636;1995-03-29;IRL;NIR;;;;;;;;;;;;;England;;;;;qualification group;;;1;1;;;1;1;;;;;1996;;Qualifikation;;;;50;36;;;;-5;
+1636;1995-03-29;IRL;NIR;;;;;;;;;;;;;England;;;;;qualification group;;;1;1;;;1;1;;;;;1996;;Qualifikation;;10;57;50;36;-40;21;-1;-5;4
 1637;1995-03-29;ISR;FRA;;;;;;;;;;;;;England;;;;;qualification group;;;0;0;;;0;0;;;;;1996;;Qualifikation;;40;38;18;52;22;-14;2;1;1
 1638;1995-03-29;LTU;HRV;;;;;;;;;;;;;England;;;;;qualification group;;;0;0;;;0;0;;;;;1996;;Qualifikation;;61;31;64;30;-3;1;-2;-2;0
 1639;1995-03-29;LUX;NOR;;;;;;;;;;;;;England;;;;;qualification group;;;2;0;;;2;0;;;;;1996;;Qualifikation;;127;10;6;59;121;-49;1;2;-1
@@ -1663,7 +1663,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1662;1995-04-26;GRC;RUS;;;;;;;;;;;;;England;;;;;qualification group;;;3;0;;;3;0;;;;;1996;;Qualifikation;;23;46;17;51;6;-5;3;0;3
 1663;1995-04-26;HRV;SVN;;;;;;;;;;;;;England;;;;;qualification group;;;0;2;;;0;2;;;;;1996;;Qualifikation;;56;33;81;23;-25;10;8;8;0
 1664;1995-04-26;HUN;SWE;;;;;;;;;;;;;England;;;;;qualification group;;;0;1;;;0;1;;;;;1996;;Qualifikation;;57;32;5;60;52;-28;6;-1;7
-1665;1995-04-26;IRL;PRT;;;;;;;;;;;;;England;;;;;qualification group;;;0;1;;;0;1;;;;;1996;;Qualifikation;;;;14;54;;;;5;
+1665;1995-04-26;IRL;PRT;;;;;;;;;;;;;England;;;;;qualification group;;;0;1;;;0;1;;;;;1996;;Qualifikation;;11;56;14;54;-3;2;-1;5;-6
 1666;1995-04-26;LTU;ITA;;;;;;;;;;;;;England;;;;;qualification group;;;1;0;;;1;0;;;;;1996;;Qualifikation;;60;31;2;62;58;-31;1;1;0
 1667;1995-04-26;LVA;NIR;;;;;;;;;;;;;England;;;;;qualification group;;;1;0;;;1;0;;;;;1996;;Qualifikation;;73;25;54;35;19;-10;1;-4;5
 1668;1995-04-26;MDA;BGR;;;;;;;;;;;;;England;;;;;qualification group;;;3;0;;;3;0;;;;;1996;;Qualifikation;;112;13;13;55;99;-42;-2;1;-3
@@ -1673,7 +1673,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1672;1995-05-10;ARM;MKD;;;;;;;;;;;;;England;;;;;qualification group;;;2;2;;;2;2;;;;;1996;;Qualifikation;;144;6;;;;;0;;
 1673;1995-05-25;FRO;SMR;;;;;;;;;;;;;England;;;;;qualification group;;;0;3;;;0;3;;;;;1996;;Qualifikation;;137;8;134;8;3;0;-1;0;-1
 1674;1995-06-01;SWE;ISL;;;;;;;;;;;;;England;;;;;qualification group;;;1;1;;;1;1;;;;;1996;;Qualifikation;;6;59;42;38;-36;21;-1;0;-1
-1675;1995-06-03;LIE;IRL;;;;;;;;;;;;;England;;;;;qualification group;;;0;0;;;0;0;;;;;1996;;Qualifikation;;156;3;;;;;0;;
+1675;1995-06-03;LIE;IRL;;;;;;;;;;;;;England;;;;;qualification group;;;0;0;;;0;0;;;;;1996;;Qualifikation;;156;3;10;56;146;-53;0;1;-1
 1676;1995-06-03;PRT;LVA;;;;;;;;;;;;;England;;;;;qualification group;;;2;3;;;2;3;;;;;1996;;Qualifikation;;16;53;76;25;-60;28;-2;-3;1
 1677;1995-06-07;BGR;DEU;;;;;;;;;;;;;England;;;;;qualification group;;;2;3;;;2;3;;;;;1996;;Qualifikation;;12;56;5;59;7;-3;1;-1;2
 1678;1995-06-07;BLR;NLD;;;;;;;;;;;;;England;;;;;qualification group;;;0;1;;;0;1;;;;;1996;;Qualifikation;;113;13;7;58;106;-45;7;0;7
@@ -1692,7 +1692,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1691;1995-06-07;WAL;GEO;;;;;;;;;;;;;England;;;;;qualification group;;;0;1;;;0;1;;;;;1996;;Qualifikation;;43;37;93;20;-50;17;6;7;-1
 1692;1995-06-11;EST;SVN;;;;;;;;;;;;;England;;;;;qualification group;;;3;1;;;3;1;;;;;1996;;Qualifikation;;116;12;84;23;32;-11;-1;-3;2
 1693;1995-06-11;FIN;GRC;;;;;;;;;;;;;England;;;;;qualification group;;;1;2;;;1;2;;;;;1996;;Qualifikation;;38;40;24;45;14;-5;2;-1;3
-1694;1995-06-11;IRL;AUT;;;;;;;;;;;;;England;;;;;qualification group;;;3;1;;;3;1;;;;;1996;;Qualifikation;;;;40;39;;;;7;
+1694;1995-06-11;IRL;AUT;;;;;;;;;;;;;England;;;;;qualification group;;;3;1;;;3;1;;;;;1996;;Qualifikation;;10;56;40;39;-30;17;1;7;-6
 1695;1995-06-11;ISL;HUN;;;;;;;;;;;;;England;;;;;qualification group;;;1;2;;;1;2;;;;;1996;;Qualifikation;;42;38;53;35;-11;3;0;4;-4
 1696;1995-06-11;UKR;HRV;;;;;;;;;;;;;England;;;;;qualification group;;;0;1;;;0;1;;;;;1996;;Qualifikation;;74;25;51;36;23;-11;8;5;3
 1697;1995-08-15;LIE;PRT;;;;;;;;;;;;;England;;;;;qualification group;;;7;0;;;7;0;;;;;1996;;Qualifikation;;152;5;10;53;142;-48;-3;6;-9
@@ -1708,7 +1708,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1707;1995-09-03;HRV;EST;;;;;;;;;;;;;England;;;;;qualification group;;;1;7;;;1;7;;;;;1996;;Qualifikation;;56;35;123;12;-67;23;-3;0;-3
 1708;1995-09-03;PRT;NIR;;;;;;;;;;;;;England;;;;;qualification group;;;1;1;;;1;1;;;;;1996;;Qualifikation;;9;55;55;35;-46;20;1;-1;2
 1709;1995-09-06;ALB;BGR;;;;;;;;;;;;;England;;;;;qualification group;;;1;1;;;1;1;;;;;1996;;Qualifikation;;97;20;12;53;85;-33;-3;-1;-2
-1710;1995-09-06;AUT;IRL;;;;;;;;;;;;;England;;;;;qualification group;;;1;3;;;1;3;;;;;1996;;Qualifikation;;42;39;;;;;0;;
+1710;1995-09-06;AUT;IRL;;;;;;;;;;;;;England;;;;;qualification group;;;1;3;;;1;3;;;;;1996;;Qualifikation;;42;39;16;51;26;-12;0;0;0
 1711;1995-09-06;BEL;DNK;;;;;;;;;;;;;England;;;;;qualification group;;;3;1;;;3;1;;;;;1996;;Qualifikation;;29;45;7;56;22;-11;-1;0;-1
 1712;1995-09-06;CZE;NOR;;;;;;;;;;;;;England;;;;;qualification group;;;0;2;;;0;2;;;;;1996;;Qualifikation;;27;47;2;59;25;-12;3;0;3
 1713;1995-09-06;DEU;GEO;;;;;;;;;;;;;England;;;;;qualification group;;;1;4;;;1;4;;;;;1996;;Qualifikation;;4;58;86;23;-82;35;0;-1;1
@@ -1738,7 +1738,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1737;1995-10-11;CYP;MKD;;;;;;;;;;;;;England;;;;;qualification group;;;1;1;;;1;1;;;;;1996;;Qualifikation;;72;23;;;;;3;;
 1738;1995-10-11;DNK;ESP;;;;;;;;;;;;;England;;;;;qualification group;;;1;1;;;1;1;;;;;1996;;Qualifikation;;13;53;6;59;7;-6;-6;-3;-3
 1739;1995-10-11;GEO;BGR;;;;;;;;;;;;;England;;;;;qualification group;;;1;2;;;1;2;;;;;1996;;Qualifikation;;100;13;14;53;86;-40;-14;-2;-12
-1740;1995-10-11;IRL;LVA;;;;;;;;;;;;;England;;;;;qualification group;;;1;2;;;1;2;;;;;1996;;Qualifikation;;;;70;23;;;;-5;
+1740;1995-10-11;IRL;LVA;;;;;;;;;;;;;England;;;;;qualification group;;;1;2;;;1;2;;;;;1996;;Qualifikation;;12;54;70;23;-58;31;4;-5;9
 1741;1995-10-11;ISL;TUR;;;;;;;;;;;;;England;;;;;qualification group;;;0;0;;;0;0;;;;;1996;;Qualifikation;;37;38;39;37;-2;1;9;-8;17
 1742;1995-10-11;LIE;NIR;;;;;;;;;;;;;England;;;;;qualification group;;;4;0;;;4;0;;;;;1996;;Qualifikation;;154;2;45;35;109;-33;-1;10;-11
 1743;1995-10-11;LTU;EST;;;;;;;;;;;;;England;;;;;qualification group;;;0;5;;;0;5;;;;;1996;;Qualifikation;;58;28;116;10;-58;18;-9;7;-16
@@ -1769,14 +1769,14 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1768;1995-11-15;MDA;GEO;;;;;;;;;;;;;England;;;;;qualification group;;;2;3;;;2;3;;;;;1996;;Qualifikation;;115;14;77;28;38;-14;20;23;-3
 1769;1995-11-15;NIR;AUT;;;;;;;;;;;;;England;;;;;qualification group;;;3;5;;;3;5;;;;;1996;;Qualifikation;;46;38;40;41;6;-3;-1;0;-1
 1770;1995-11-15;NLD;NOR;;;;;;;;;;;;;England;;;;;qualification group;;;0;3;;;0;3;;;;;1996;;Qualifikation;;14;53;4;58;10;-5;-9;4;-13
-1771;1995-11-15;PRT;IRL;;;;;;;;;;;;;England;;;;;qualification group;;;0;3;;;0;3;;;;;1996;;Qualifikation;;17;53;;;;;7;;
+1771;1995-11-15;PRT;IRL;;;;;;;;;;;;;England;;;;;qualification group;;;0;3;;;0;3;;;;;1996;;Qualifikation;;17;53;18;51;-1;2;7;-6;13
 1772;1995-11-15;RUS;FIN;;;;;;;;;;;;;England;;;;;qualification group;;;1;3;;;1;3;;;;;1996;;Qualifikation;;5;57;38;42;-33;15;12;9;3
 1773;1995-11-15;SCO;SMR;;;;;;;;;;;;;England;;;;;qualification group;;;0;5;;;0;5;;;;;1996;;Qualifikation;;26;46;141;8;-115;38;5;-8;13
 1774;1995-11-15;SVK;ROU;;;;;;;;;;;;;England;;;;;qualification group;;;2;0;;;2;0;;;;;1996;;Qualifikation;;33;44;15;53;18;-9;9;-8;17
 1775;1995-11-15;SVN;HRV;;;;;;;;;;;;;England;;;;;qualification group;;;2;1;;;2;1;;;;;1996;;Qualifikation;;73;29;45;38;28;-9;-4;28;-32
 1776;1995-11-15;SWE;TUR;;;;;;;;;;;;;England;;;;;qualification group;;;2;2;;;2;2;;;;;1996;;Qualifikation;;13;54;28;46;-15;8;-10;11;-21
 1777;1995-11-17;SLB;TAH;;;;;;Fidschi;Intaz Shah;Lawson Tama Stadium;15000;;;02:00;;OFC Nations Cup 1996;;1.Runde Hinspiele;;;;;1;0;;;1;0;0;0;;;;OFC Nations Cup;Qualifikation;1996;167;1;157;3;10;-2;-9;-14;5
-1778;1995-12-13;NLD;IRL;;;;;;;;;;;;;England;;;;;qualification play-off;;;0;2;;;0;2;;;;;1996;;Qualifikation;;10;56;;;;;4;;
+1778;1995-12-13;NLD;IRL;;;;;;;;;;;;;England;;;;;qualification play-off;;;0;2;;;0;2;;;;;1996;;Qualifikation;;10;56;21;49;-11;7;4;-3;7
 1779;1996-05-11;TAH;SLB;;;;;33;Neuseeland;Derek Rugg;Stade Pater Te Hono Nui;15000;;;02:00;;OFC Nations Cup 1996;;1.Runde Rückspiele;;;;;1;2;;;1;2;0;0;;;;OFC Nations Cup;Qualifikation;1996;158;5;174;1;-16;4;-3;-2;-1
 1780;1996-06-08;ENG;CHE;;;;;41;Spanien;Manuel Díaz Vega;Wembley Stadium;76600;;4-4-2 Raute;15:00;England;Europameisterschaft 1996;;Gruppe A;;group;;;1;1;;;1;1;0;1;;;1996;EM;Endrunde;1996;24;48;21;50;3;-2;-1;5;-6
 1781;1996-06-09;BGR;ESP;;;;;;;;;;;;;England;;;;;group;;;1;1;;;1;1;;;;;1996;;Endrunde;;28;47;6;57;22;-10;-4;0;-4
@@ -1908,7 +1908,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1907;1998-09-05;CYP;ESP;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;3;;;2;3;;;;;2000;;Qualifikation;;80;35;14;59;66;-24;-2;0;-2
 1908;1998-09-05;FIN;MDA;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;3;;;2;3;;;;;2000;;Qualifikation;;63;39;136;15;-73;24;-1;-3;2
 1909;1998-09-05;GEO;ALB;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;1;;;0;1;;;;;2000;;Qualifikation;;46;45;100;28;-54;17;-2;-3;1
-1910;1998-09-05;IRL;HRV;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;2;;;0;2;;;;;2000;;Qualifikation;;;;4;66;;;;0;
+1910;1998-09-05;IRL;HRV;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;2;;;0;2;;;;;2000;;Qualifikation;;48;44;4;66;44;-22;-1;0;-1
 1911;1998-09-05;ISL;FRA;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;1;;;1;1;;;;;2000;;Qualifikation;;70;38;2;70;68;-32;-1;0;-1
 1912;1998-09-05;LTU;SCO;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;0;;;0;0;;;;;2000;;Qualifikation;;55;43;36;48;19;-5;0;0;0
 1913;1998-09-05;SVK;AZE;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;3;;;0;3;;;;;2000;;Qualifikation;;33;50;102;28;-69;22;-1;7;-8
@@ -1959,7 +1959,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1958;1998-10-14;GRC;GEO;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;3;;;0;3;;;;;2000;;Qualifikation;;66;40;42;45;24;-5;-15;4;-19
 1959;1998-10-14;HRV;MKD;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;3;;;2;3;;;;;2000;;Qualifikation;;4;66;;;;;0;;
 1960;1998-10-14;HUN;ROU;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;1;;;1;1;;;;;2000;;Qualifikation;;59;41;13;59;46;-18;1;0;1
-1961;1998-10-14;IRL;MLT;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;5;;;0;5;;;;;2000;;Qualifikation;;;;124;19;;;;0;
+1961;1998-10-14;IRL;MLT;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;5;;;0;5;;;;;2000;;Qualifikation;;54;41;124;19;-70;22;-6;0;-6
 1962;1998-10-14;ISL;RUS;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;1;;;0;1;;;;;2000;;Qualifikation;;65;40;27;52;38;-12;5;2;3
 1963;1998-10-14;ISR;ESP;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;1;;;2;1;;;;;2000;;Qualifikation;;40;47;14;58;26;-11;2;0;2
 1964;1998-10-14;LIE;AZE;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;2;;;1;2;;;;;2000;;Qualifikation;;165;7;100;29;65;-22;0;2;-2
@@ -1978,7 +1978,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 1977;1998-11-18;MLT;MKD;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;1;;;2;1;;;;;2000;;Qualifikation;;127;19;;;;;-3;;
 1978;1998-11-18;NIR;MDA;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;2;;;2;2;;;;;2000;;Qualifikation;;87;33;116;24;-29;9;7;2;5
 1979;1998-11-18;SMR;CYP;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;0;;;1;0;;;;;2000;;Qualifikation;;180;4;80;35;100;-31;0;-6;6
-1980;1998-11-18;YUG;IRL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;1;;;0;1;;;;;2000;;Qualifikation;;8;64;;;;;0;;
+1980;1998-11-18;YUG;IRL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;1;;;0;1;;;;;2000;;Qualifikation;;8;64;52;43;-44;21;0;2;-2
 1981;1999-02-10;CYP;SMR;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;4;;;0;4;;;;;2000;;Qualifikation;;64;478;153;153;-89;325;14;26;-12
 1982;1999-02-10;MLT;YUG;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;3;0;;;3;0;;;;;2000;;Qualifikation;;123;274;16;643;107;-369;7;-10;17
 1983;1999-03-26;PRT;AZE;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;7;;;0;7;;;;;2000;;Qualifikation;;17;637;101;357;-84;280;0;1;-1
@@ -2050,7 +2050,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2049;1999-06-09;FRO;BIH;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;2;;;2;2;;;;;2000;;Qualifikation;;114;317;;;;;-3;;
 2050;1999-06-09;GRC;LVA;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;1;;;2;1;;;;;2000;;Qualifikation;;37;562;63;482;-26;80;-2;3;-5
 2051;1999-06-09;HUN;SVK;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;0;;;1;0;;;;;2000;;Qualifikation;;44;540;25;596;19;-56;1;1;0
-2052;1999-06-09;IRL;MKD;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;1;;;0;1;;;;;2000;;Qualifikation;;;;;;;;;;
+2052;1999-06-09;IRL;MKD;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;1;;;0;1;;;;;2000;;Qualifikation;;38;557;;;;;8;;
 2053;1999-06-09;LUX;POL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;3;2;;;3;2;;;;;2000;;Qualifikation;;126;260;29;590;97;-330;0;3;-3
 2054;1999-06-09;MDA;FIN;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;0;;;0;0;;;;;2000;;Qualifikation;;100;360;57;501;43;-141;0;0;0
 2055;1999-06-09;PRT;LIE;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;8;;;0;8;;;;;2000;;Qualifikation;;15;670;134;222;-119;448;0;-1;1
@@ -2076,7 +2076,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2075;1999-08-18;SVN;ALB;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;2;;;0;2;;;;;2000;;Qualifikation;;62;493;94;397;-32;96;1;0;1
 2076;1999-08-18;YUG;HRV;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;0;;;0;0;;;;;2000;;Qualifikation;;21;624;7;719;14;-95;-5;0;-5
 2077;1999-08-21;HRV;MLT;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;2;;;1;2;;;;;2000;;Qualifikation;;8;712;123;274;-115;438;-1;-1;0
-2078;1999-09-01;IRL;YUG;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;2;;;1;2;;;;;2000;;Qualifikation;;;;22;620;;;;-1;
+2078;1999-09-01;IRL;YUG;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;2;;;1;2;;;;;2000;;Qualifikation;;38;564;22;620;16;-56;-2;-1;-1
 2079;1999-09-04;ALB;LVA;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;3;3;;;3;3;;;;;2000;;Qualifikation;;95;396;63;490;32;-94;-1;1;-2
 2080;1999-09-04;AUT;ESP;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;3;1;;;3;1;;;;;2000;;Qualifikation;;20;623;7;713;13;-90;0;1;-1
 2081;1999-09-04;AZE;PRT;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;1;;;1;1;;;;;2000;;Qualifikation;;103;368;12;679;91;-311;-4;0;-4
@@ -2086,7 +2086,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2085;1999-09-04;ENG;LUX;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;6;;;0;6;;;;;2000;;Qualifikation;;14;665;128;265;-114;400;0;-2;2
 2086;1999-09-04;FIN;DEU;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;1;;;2;1;;;;;2000;;Qualifikation;;60;497;5;718;55;-221;0;0;0
 2087;1999-09-04;FRO;EST;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;0;;;2;0;;;;;2000;;Qualifikation;;107;350;88;411;19;-61;-3;-2;-1
-2088;1999-09-04;HRV;IRL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;1;;;0;1;;;;;2000;;Qualifikation;;8;712;;;;;-1;;
+2088;1999-09-04;HRV;IRL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;1;;;0;1;;;;;2000;;Qualifikation;;8;712;38;564;-30;148;-1;-2;1
 2089;1999-09-04;ISL;AND;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;3;;;0;3;;;;;2000;;Qualifikation;;48;532;155;152;-107;380;-1;1;-2
 2090;1999-09-04;LIE;HUN;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;0;;;0;0;;;;;2000;;Qualifikation;;133;228;50;530;83;-302;0;-2;2
 2091;1999-09-04;LTU;CZE;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;4;0;;;4;0;;;;;2000;;Qualifikation;;47;533;3;753;44;-220;5;0;5
@@ -2115,7 +2115,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2114;1999-09-08;LUX;SWE;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;0;;;1;0;;;;;2000;;Qualifikation;;128;265;15;664;113;-399;-2;0;-2
 2115;1999-09-08;MDA;TUR;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;1;;;1;1;;;;;2000;;Qualifikation;;100;372;40;558;60;-186;-2;-1;-1
 2116;1999-09-08;MKD;YUG;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;4;2;;;4;2;;;;;2000;;Qualifikation;;;;22;620;;;;-1;
-2117;1999-09-08;MLT;IRL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;3;2;;;3;2;;;;;2000;;Qualifikation;;123;274;;;;;-1;;
+2117;1999-09-08;MLT;IRL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;3;2;;;3;2;;;;;2000;;Qualifikation;;123;274;38;564;85;-290;-1;-2;1
 2118;1999-09-08;NOR;SVN;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;4;;;0;4;;;;;2000;;Qualifikation;;11;689;61;494;-50;195;-1;1;-2
 2119;1999-09-08;POL;ENG;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;0;;;0;0;;;;;2000;;Qualifikation;;27;606;14;665;13;-59;-1;0;-1
 2120;1999-09-08;ROU;PRT;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;1;;;1;1;;;;;2000;;Qualifikation;;10;694;12;679;-2;15;-1;0;-1
@@ -2132,7 +2132,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2131;1999-10-09;FRA;ISL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;3;;;2;3;;;;;2000;;Qualifikation;;3;766;49;536;-46;230;-1;-1;0
 2132;1999-10-09;HRV;YUG;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;2;;;2;2;;;;;2000;;Qualifikation;;6;727;17;656;-11;71;2;5;-3
 2133;1999-10-09;LIE;ROU;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;3;0;;;3;0;;;;;2000;;Qualifikation;;128;256;11;709;117;-453;5;-1;6
-2134;1999-10-09;MKD;IRL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;1;;;1;1;;;;;2000;;Qualifikation;;;;;;;;;;
+2134;1999-10-09;MKD;IRL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;1;;;1;1;;;;;2000;;Qualifikation;;;;34;576;;;;4;
 2135;1999-10-09;PRT;HUN;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;3;;;0;3;;;;;2000;;Qualifikation;;13;671;43;547;-30;124;-1;7;-8
 2136;1999-10-09;RUS;UKR;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;1;1;;;1;1;;;;;2000;;Qualifikation;;19;642;27;615;-8;27;9;-2;11
 2137;1999-10-09;SCO;LTU;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;3;;;0;3;;;;;2000;;Qualifikation;;28;606;46;543;-18;63;4;1;3
@@ -2143,13 +2143,13 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2142;1999-10-10;ESP;ISR;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;0;3;;;0;3;;;;;2000;;Qualifikation;;4;757;25;618;-21;139;3;1;2
 2143;1999-10-10;SVN;GRC;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;3;0;;;3;0;;;;;2000;;Qualifikation;;52;522;37;568;15;-46;9;0;9
 2144;1999-10-10;WAL;CHE;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;0;;;2;0;;;;;2000;;Qualifikation;;78;443;53;516;25;-73;8;1;7
-2145;1999-11-13;IRL;TUR;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification play-off;;;1;1;;;1;1;;;;;2000;;Qualifikation;;;;37;568;;;;-2;
+2145;1999-11-13;IRL;TUR;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification play-off;;;1;1;;;1;1;;;;;2000;;Qualifikation;;35;578;37;568;-2;10;-1;-2;1
 2146;1999-11-13;ISR;DNK;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification play-off;;;5;0;;;5;0;;;;;2000;;Qualifikation;;27;614;17;660;10;-46;-2;-1;-1
 2147;1999-11-13;SCO;ENG;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification play-off;;;2;0;;;2;0;;;;;2000;;Qualifikation;;20;630;12;688;8;-58;8;0;8
 2148;1999-11-13;SVN;UKR;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification play-off;;;1;2;;;1;2;;;;;2000;;Qualifikation;;53;523;24;618;29;-95;-1;3;-4
 2149;1999-11-17;DNK;ISR;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification play-off;;;0;3;;;0;3;;;;;2000;;Qualifikation;;17;660;27;614;-10;46;-1;-2;1
 2150;1999-11-17;ENG;SCO;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification play-off;;;1;0;;;1;0;;;;;2000;;Qualifikation;;12;688;20;630;-8;58;0;8;-8
-2151;1999-11-17;TUR;IRL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification play-off;;;0;0;;;0;0;;;;;2000;;Qualifikation;;37;568;;;;;-2;;
+2151;1999-11-17;TUR;IRL;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification play-off;;;0;0;;;0;0;;;;;2000;;Qualifikation;;37;568;35;578;2;-10;-2;-1;-1
 2152;1999-11-17;UKR;SVN;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification play-off;;;1;1;;;1;1;;;;;2000;;Qualifikation;;24;618;53;523;-29;95;3;-1;4
 2153;1999-12-12;LVA;NOR;;;;;;;;;;;;;Belgium & Netherlands;;;;;qualification group;;;2;1;;;2;1;;;;;2000;;Qualifikation;;61;488;8;715;53;-227;4;-1;5
 2154;2000-02-13;NGA;CMR;;;;;37;Tunesien;Mourad Daami;;;;;00:00;;Afrika Cup 2000;;Finale;;;;;6;5;;;6;5;;;n.E.;;;Africa Cup;Endrunde;2000;76;444;57;501;19;-57;0;1;-1
@@ -2232,7 +2232,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2231;2002-02-10;SEN;CMR;;;;;44;Ägypten;Gamal Ghandour;;;;;00:00;;Afrika Cup 2002;;Finale;;;;;3;2;;;3;2;;;n.E.;;;Africa Cup;Endrunde;2002;68;536;37;614;31;-78;-3;1;-4
 2232;2002-05-31;FRA;SEN;;;;;42;Vereinigte Arabische Emirate;Ali Bujsaim;Seoul World Cup Stadium;62561;4-1-4-1;4-3-3 defensiv;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe A;;group;;;1;0;;;1;0;1;0;;;2002;WM;Endrunde;2002;1;802;42;599;-41;203;0;1;-1
 2233;2002-06-01;DEU;SAU;;;;;44;Paraguay;Ubaldo Aquino;Sapporo Dome;32218;4-4-2 Raute;3-5-2 offensiv;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe E;;group;;;0;8;;;0;8;0;4;;;2002;WM;Endrunde;2002;11;695;;;;;1;;
-2234;2002-06-01;IRL;CMR;;;;;39;Japan;Toru Kamikawa;Tohoku Denryoku Big Swan Stadium;33679;3-5-2 offensiv;4-4-1-1;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe E;;group;;;1;1;;;1;1;1;0;;;2002;WM;Endrunde;2002;;;17;672;;;;1;
+2234;2002-06-01;IRL;CMR;;;;;39;Japan;Toru Kamikawa;Tohoku Denryoku Big Swan Stadium;33679;3-5-2 offensiv;4-4-1-1;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe E;;group;;;1;1;;;1;1;1;0;;;2002;WM;Endrunde;2002;15;674;17;672;-2;2;4;1;3
 2235;2002-06-01;URY;DNK;;;;;39;Kuwait;Saad Mane;Ulsan-Munsu-Stadium;30157;4-2-3-1;4-3-3 defensiv;18:00;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe A;;group;;;2;1;;;2;1;1;0;;;2002;WM;Endrunde;2002;24;652;20;657;4;-5;-3;0;-3
 2236;2002-06-02;ARG;NGA;;;;;42;Frankreich;Gilles Veissiere;Kashima Stadium;34050;4-1-3-2;3-3-3-1;14:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe F;;group;;;0;1;;;0;1;0;0;;;2002;WM;Endrunde;2002;3;784;27;644;-24;140;0;2;-2
 2237;2002-06-02;ENG;SWE;;;;;36;Brasilien;Carlos Eugênio Simon;Saitama Stadium;52721;;;18:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe F;;group;;;1;1;;;1;1;0;1;;;2002;WM;Endrunde;2002;12;694;19;665;-7;29;-1;-2;1
@@ -2244,7 +2244,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2243;2002-06-04;CHN;CRI;;;;;36;Griechenland;Kyros Vassaras;Gwangju World Cup Stadium;27217;;;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe C;;group;;;2;0;;;2;0;0;0;;;2002;WM;Endrunde;2002;;;29;643;;;;-2;
 2244;2002-06-04;JPN;BEL;;;;;38;Costa Rica;William Mattus;Saitama Stadium;55256;;3-5-2;18:00;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe H;;group;;;2;2;;;2;2;0;0;;;2002;WM;Endrunde;2002;32;634;23;653;9;-19;1;-1;2
 2245;2002-06-04;KOR;POL;;;;;32;Kolumbien;Óscar Julián Ruiz Acosta;Busan-Asia-Main-Stadium;48760;;;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe D;;group;;;0;2;;;0;2;0;1;;;2002;WM;Endrunde;2002;;;38;615;;;;0;
-2246;2002-06-05;DEU;IRL;;;;;41;Dänemark;Kim Milton Nielsen;Kashima Stadium;35854;4-4-2 doppel 6;3-5-2;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe E;;group;;;1;1;;;1;1;0;1;;;2002;WM;Endrunde;2002;11;695;;;;;1;;
+2246;2002-06-05;DEU;IRL;;;;;41;Dänemark;Kim Milton Nielsen;Kashima Stadium;35854;4-4-2 doppel 6;3-5-2;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe E;;group;;;1;1;;;1;1;0;1;;;2002;WM;Endrunde;2002;11;695;15;674;-4;21;1;4;-3
 2247;2002-06-05;RUS;TUN;;;;;35;Jamaika;Peter Prendergast;Home's Stadium Kobe;30957;;;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe H;;group;;;0;2;;;0;2;0;0;;;2002;WM;Endrunde;2002;28;644;31;635;-3;9;-4;-1;-3
 2248;2002-06-05;USA;PRT;;;;;;;;Suwon World Cup Stadion;37306;;;18:00;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe D;;group;;;2;3;;;2;3;1;3;;;2002;WM;Endrunde;2002;13;690;5;726;8;-36;0;0;0
 2249;2002-06-06;CMR;SAU;;;;;36;Norwegen;Terje Hauge;Saitama Stadium;52328;;;18:00;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe E;;group;;;0;1;;;0;1;0;0;;;2002;WM;Endrunde;2002;17;672;;;;;1;;
@@ -2264,7 +2264,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2263;2002-06-10;TUN;BEL;;;;;28;Australien;Mark Shield;Oita Bank Dome;39700;;;18:00;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe H;;group;;;1;1;;;1;1;1;1;;;2002;WM;Endrunde;2002;31;635;23;653;8;-18;-1;-1;0
 2264;2002-06-11;CMR;DEU;;;;;44;Spanien;Antonio Jesús López Nieto;Shizuoka Stadium;47085;3-5-2;5-3-2;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe E;;group;;;2;0;;;2;0;0;0;;;2002;WM;Endrunde;2002;17;672;11;695;6;-23;1;1;0
 2265;2002-06-11;DNK;FRA;;;;;45;Portugal;Vitor Melo Pereira;Incheon Munhak Stadium;48100;;;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe A;;group;;;0;2;;;0;2;0;1;;;2002;WM;Endrunde;2002;20;657;1;802;19;-145;0;0;0
-2266;2002-06-11;SAU;IRL;;;;;42;Senegal;Falla N´doye;Nissan Stadium;65320;;;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe E;;group;;;3;0;;;3;0;1;0;;;2002;WM;Endrunde;2002;;;;;;;;;
+2266;2002-06-11;SAU;IRL;;;;;42;Senegal;Falla N´doye;Nissan Stadium;65320;;;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe E;;group;;;3;0;;;3;0;1;0;;;2002;WM;Endrunde;2002;;;15;674;;;;4;
 2267;2002-06-11;SEN;URY;;;;;40;Niederlande;Jan Wegereef;Suwon World Cup Stadion;33681;;;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe A;;group;;;3;3;;;3;3;0;3;;;2002;WM;Endrunde;2002;42;599;24;652;18;-53;1;-3;4
 2268;2002-06-12;NGA;ENG;;;;;41;Vereinigte Staaten;Brian Hall;Nagai Stadium;44864;;;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe F;;group;;;0;0;;;0;0;0;0;;;2002;WM;Endrunde;2002;27;644;12;694;15;-50;2;-1;3
 2269;2002-06-12;SVN;PRY;;;;;39;Mexiko;Felipe Ramos;Jeju World Cup Stadium;30176;;;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe B;;group;;;3;1;;;3;1;0;1;;;2002;WM;Endrunde;2002;25;649;18;671;7;-22;3;-3;6
@@ -2280,7 +2280,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2279;2002-06-14;TUN;JPN;;;;;42;Frankreich;Gilles Veissiere;Nagai Stadium;45213;3-5-2;;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Gruppe H;;group;;;2;0;;;2;0;0;0;;;2002;WM;Endrunde;2002;31;635;32;634;-1;1;-1;1;-2
 2280;2002-06-15;DEU;PRY;;;;;34;Guatemala;Carlos Batrés;Jeju World Cup Stadium;25176;4-4-2;3-5-2;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Achtelfinale;;round of 16;;;0;1;;;0;1;0;0;;;2002;WM;Endrunde;2002;11;695;18;671;-7;24;1;-3;4
 2281;2002-06-15;DNK;ENG;;;;;40;Deutschland;Dr. Markus Merk;Tohoku Denryoku Big Swan Stadium;40582;;;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Achtelfinale;;round of 16;;;3;0;;;3;0;3;0;;;2002;WM;Endrunde;2002;20;657;12;694;8;-37;0;-1;1
-2282;2002-06-16;ESP;IRL;;;;;39;Schweden;Anders Frisk;Suwon World Cup Stadion;38926;;;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Achtelfinale;;round of 16;;;1;1;2;3;3;4;;;n.E.;;2002;WM;Endrunde;2002;8;713;;;;;0;;
+2282;2002-06-16;ESP;IRL;;;;;39;Schweden;Anders Frisk;Suwon World Cup Stadion;38926;;;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Achtelfinale;;round of 16;;;1;1;2;3;3;4;;;n.E.;;2002;WM;Endrunde;2002;8;713;15;674;-7;39;0;4;-4
 2283;2002-06-16;SWE;SEN;;;;;44;Paraguay;Ubaldo Aquino;Oita Bank Dome;39747;;;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Achtelfinale;;round of 16;;;2;1;;;2;1;;;n.V.;;2002;WM;Endrunde;2002;19;665;42;599;-23;66;-2;1;-3
 2284;2002-06-17;BRA;BEL;;;;;35;Jamaika;Peter Prendergast;Home's Stadium Kobe;40440;;;20:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Achtelfinale;;round of 16;;;0;2;;;0;2;0;0;;;2002;WM;Endrunde;2002;2;784;23;653;-21;131;0;-1;1
 2285;2002-06-17;MEX;USA;;;;;45;Portugal;Vitor Melo Pereira;Jeonju World Cup Stadium;36380;;;15:30;Korea Republic & Japan;Weltmeisterschaft 2002;;Achtelfinale;;round of 16;;;2;0;;;2;0;1;0;;;2002;WM;Endrunde;2002;7;716;13;690;-6;26;0;0;0
@@ -2325,7 +2325,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2324;2002-09-07;LVA;SWE;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;0;;;0;0;;;;;2004;;Qualifikation;;102;414;20;673;82;-259;-6;0;-6
 2325;2002-09-07;NLD;BLR;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;3;;;0;3;;;;;2004;;Qualifikation;;14;693;84;480;-70;213;1;-1;2
 2326;2002-09-07;NOR;DNK;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;2;;;2;2;;;;;2004;;Qualifikation;;35;621;12;703;23;-82;2;1;1
-2327;2002-09-07;RUS;IRL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;4;;;2;4;;;;;2004;;Qualifikation;;30;637;;;;;-2;;
+2327;2002-09-07;RUS;IRL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;4;;;2;4;;;;;2004;;Qualifikation;;30;637;13;699;17;-62;-2;1;-3
 2328;2002-09-07;SMR;POL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;0;;;2;0;;;;;2004;;Qualifikation;;162;195;37;618;125;-423;-3;2;-5
 2329;2002-09-07;SVN;MLT;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;3;;;0;3;;;;;2004;;Qualifikation;;34;629;118;366;-84;263;1;-1;2
 2330;2002-09-07;TUR;SVK;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;3;;;0;3;;;;;2004;;Qualifikation;;11;707;45;577;-34;130;1;1;0
@@ -2358,7 +2358,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2357;2002-10-16;EST;BEL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;0;;;1;0;;;;;2004;;Qualifikation;;67;507;19;672;48;-165;11;-1;12
 2358;2002-10-16;GRC;ARM;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;2;;;0;2;;;;;2004;;Qualifikation;;46;562;99;419;-53;143;3;1;2
 2359;2002-10-16;HUN;SMR;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;3;;;0;3;;;;;2004;;Qualifikation;;64;517;163;195;-99;322;7;-1;8
-2360;2002-10-16;IRL;CHE;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;1;;;2;1;;;;;2004;;Qualifikation;;;;55;532;;;;10;
+2360;2002-10-16;IRL;CHE;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;1;;;2;1;;;;;2004;;Qualifikation;;14;701;55;532;-41;169;-1;10;-11
 2361;2002-10-16;ISL;LTU;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;3;;;0;3;;;;;2004;;Qualifikation;;54;532;101;414;-47;118;0;-2;2
 2362;2002-10-16;LUX;ROU;;;;;;;;;;;;;Portugal;;;;;qualification group;;;7;0;;;7;0;;;;;2004;;Qualifikation;;148;248;26;651;122;-403;-1;1;-2
 2363;2002-10-16;MLT;FRA;;;;;;;;;;;;;Portugal;;;;;qualification group;;;4;0;;;4;0;;;;;2004;;Qualifikation;;120;363;2;774;118;-411;-2;2;-4
@@ -2379,7 +2379,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2378;2003-03-29;CYP;ISR;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;1;;;1;1;;;;;2004;;Qualifikation;;86;470;43;580;43;-110;-3;2;-5
 2379;2003-03-29;DEU;LTU;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;1;;;1;1;;;;;2004;;Qualifikation;;5;758;106;414;-101;344;0;-2;2
 2380;2003-03-29;FRA;MLT;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;6;;;0;6;;;;;2004;;Qualifikation;;3;778;125;349;-122;429;-1;-1;0
-2381;2003-03-29;GEO;IRL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;1;;;2;1;;;;;2004;;Qualifikation;;93;450;;;;;-1;;
+2381;2003-03-29;GEO;IRL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;1;;;2;1;;;;;2004;;Qualifikation;;93;450;14;696;79;-246;-1;0;-1
 2382;2003-03-29;HRV;BEL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;4;;;0;4;;;;;2004;;Qualifikation;;34;622;16;683;18;-61;-1;0;-1
 2383;2003-03-29;ITA;FIN;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;2;;;0;2;;;;;2004;;Qualifikation;;13;699;42;582;-29;117;0;1;-1
 2384;2003-03-29;LIE;ENG;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;0;;;2;0;;;;;2004;;Qualifikation;;152;255;9;725;143;-470;-1;-1;0
@@ -2390,7 +2390,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2389;2003-03-29;SCO;ISL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;2;;;1;2;;;;;2004;;Qualifikation;;64;520;62;521;2;-1;-3;-2;-1
 2390;2003-03-29;UKR;ESP;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;2;;;2;2;;;;;2004;;Qualifikation;;47;576;2;780;45;-204;-1;1;-2
 2391;2003-03-29;WAL;AZE;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;4;;;0;4;;;;;2004;;Qualifikation;;52;551;111;396;-59;155;1;6;-5
-2392;2003-04-02;ALB;IRL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;0;;;0;0;;;;;2004;;Qualifikation;;101;423;;;;;-1;;
+2392;2003-04-02;ALB;IRL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;0;;;0;0;;;;;2004;;Qualifikation;;101;423;14;696;87;-273;-1;0;-1
 2393;2003-04-02;CZE;AUT;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;4;;;0;4;;;;;2004;;Qualifikation;;15;685;57;533;-42;152;0;-2;2
 2394;2003-04-02;DNK;BIH;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;0;;;2;0;;;;;2004;;Qualifikation;;11;704;;;;;0;;
 2395;2003-04-02;ENG;TUR;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;2;;;0;2;;;;;2004;;Qualifikation;;9;725;7;732;2;-7;-1;0;-1
@@ -2420,7 +2420,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2419;2003-06-07;EST;AND;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;2;;;0;2;;;;;2004;;Qualifikation;;61;528;142;297;-81;231;4;0;4
 2420;2003-06-07;FIN;SCG;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;3;;;0;3;;;;;2004;;Qualifikation;;45;577;22;650;23;-73;2;0;2
 2421;2003-06-07;HUN;LVA;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;3;;;1;3;;;;;2004;;Qualifikation;;54;544;79;483;-25;61;4;7;-3
-2422;2003-06-07;IRL;ALB;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;2;;;1;2;;;;;2004;;Qualifikation;;;;89;458;;;;-1;
+2422;2003-06-07;IRL;ALB;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;2;;;1;2;;;;;2004;;Qualifikation;;15;704;89;458;-74;246;0;-1;1
 2423;2003-06-07;ISL;FRO;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;2;;;1;2;;;;;2004;;Qualifikation;;70;509;113;395;-43;114;-2;7;-9
 2424;2003-06-07;ISR;SVN;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;0;;;0;0;;;;;2004;;Qualifikation;;40;596;36;610;4;-14;4;1;3
 2425;2003-06-07;MDA;AUT;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;1;;;0;1;;;;;2004;;Qualifikation;;115;392;61;528;54;-136;0;0;0
@@ -2441,7 +2441,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2440;2003-06-11;FIN;ITA;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;0;;;2;0;;;;;2004;;Qualifikation;;45;577;12;709;33;-132;2;2;0
 2441;2003-06-11;FRO;DEU;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;0;;;2;0;;;;;2004;;Qualifikation;;113;395;4;757;109;-362;7;0;7
 2442;2003-06-11;GRC;UKR;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;1;;;0;1;;;;;2004;;Qualifikation;;45;577;47;570;-2;7;1;-2;3
-2443;2003-06-11;IRL;GEO;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;2;;;0;2;;;;;2004;;Qualifikation;;;;84;469;;;;9;
+2443;2003-06-11;IRL;GEO;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;2;;;0;2;;;;;2004;;Qualifikation;;15;704;84;469;-69;235;0;9;-9
 2444;2003-06-11;LTU;ISL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;3;0;;;3;0;;;;;2004;;Qualifikation;;99;434;70;509;29;-75;-2;-2;0
 2445;2003-06-11;LUX;DNK;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;0;;;2;0;;;;;2004;;Qualifikation;;154;247;10;715;144;-468;0;1;-1
 2446;2003-06-11;NIR;ESP;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;0;;;0;0;;;;;2004;;Qualifikation;;111;399;2;784;109;-385;0;0;0
@@ -2477,7 +2477,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2476;2003-09-06;BLR;CZE;;;;;;;;;;;;;Portugal;;;;;qualification group;;;3;1;;;3;1;;;;;2004;;Qualifikation;;82;482;12;712;70;-230;1;-1;2
 2477;2003-09-06;FRA;CYP;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;5;;;0;5;;;;;2004;;Qualifikation;;2;825;86;464;-84;361;0;-1;1
 2478;2003-09-06;GEO;ALB;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;3;;;0;3;;;;;2004;;Qualifikation;;91;455;89;458;2;-3;-3;-2;-1
-2479;2003-09-06;IRL;RUS;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;1;;;1;1;;;;;2004;;Qualifikation;;;;38;610;;;;-6;
+2479;2003-09-06;IRL;RUS;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;1;;;1;1;;;;;2004;;Qualifikation;;13;710;38;610;-25;100;2;-6;8
 2480;2003-09-06;ISL;DEU;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;0;;;0;0;;;;;2004;;Qualifikation;;56;544;10;728;46;-184;3;-2;5
 2481;2003-09-06;ITA;WAL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;4;;;0;4;;;;;2004;;Qualifikation;;11;721;52;550;-41;171;3;-1;4
 2482;2003-09-06;LIE;TUR;;;;;;;;;;;;;Portugal;;;;;qualification group;;;3;0;;;3;0;;;;;2004;;Qualifikation;;145;286;7;739;138;-453;2;0;2
@@ -2513,7 +2513,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2512;2003-10-11;AUT;CZE;;;;;;;;;;;;;Portugal;;;;;qualification group;;;3;2;;;3;2;;;;;2004;;Qualifikation;;56;542;9;736;47;-194;-6;3;-9
 2513;2003-10-11;BEL;EST;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;2;;;0;2;;;;;2004;;Qualifikation;;16;692;65;523;-49;169;2;-4;6
 2514;2003-10-11;BIH;DNK;;;;;;;;;;;;;Portugal;;;;;qualification group;;;1;1;;;1;1;;;;;2004;;Qualifikation;;;;14;708;;;;1;
-2515;2003-10-11;CHE;IRL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;2;;;0;2;;;;;2004;;Qualifikation;;44;581;;;;;-4;;
+2515;2003-10-11;CHE;IRL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;2;;;0;2;;;;;2004;;Qualifikation;;44;581;14;708;30;-127;-4;-1;-3
 2516;2003-10-11;CYP;SVN;;;;;;;;;;;;;Portugal;;;;;qualification group;;;2;2;;;2;2;;;;;2004;;Qualifikation;;89;463;33;626;56;-163;-3;-4;1
 2517;2003-10-11;DEU;ISL;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;3;;;0;3;;;;;2004;;Qualifikation;;9;736;48;557;-39;179;1;8;-7
 2518;2003-10-11;FRA;ISR;;;;;;;;;;;;;Portugal;;;;;qualification group;;;0;3;;;0;3;;;;;2004;;Qualifikation;;2;829;43;583;-41;246;0;-1;1
@@ -2690,7 +2690,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2689;2005-03-26;FRA;CHE;6;4.26;8.83;1.31;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;0;;;;21:00;;WM;Qualifikation;2006;2;782;49;594;-47;188;0;0;0
 2690;2005-03-26;GEO;GRC;6;3.14;1.98;3.48;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;3;1;;;;18:30;;WM;Qualifikation;2006;100;474;14;711;86;-237;2;-1;3
 2691;2005-03-26;HRV;ISL;5;4.66;9.49;1.25;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;4;;;;18:00;;WM;Qualifikation;2006;24;674;95;488;-71;186;-1;-1;0
-2692;2005-03-26;ISR;IRL;5;3.12;2.24;2.95;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;1;;;;18:50;;WM;Qualifikation;2006;52;588;;;;;-1;;
+2692;2005-03-26;ISR;IRL;5;3.12;2.24;2.95;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;1;;;;18:50;;WM;Qualifikation;2006;52;588;12;714;40;-126;-1;0;-1
 2693;2005-03-26;ITA;SCO;6;5.43;9.99;1.18;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;2;;;;21:00;;WM;Qualifikation;2006;10;736;88;509;-78;227;0;-1;1
 2694;2005-03-26;LIE;RUS;5;6.79;1.10;9.99;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;2;1;;;;17:00;;WM;Qualifikation;2006;144;328;33;644;111;-316;0;-1;1
 2695;2005-03-26;MAR;GIN;2;3.75;6.35;1.42;;;;;;;;;;;World Cup 2006;;Qualification - Group Stage;;;;;;;;0;1;;;;20:30;;WM;Qualifikation;2006;34;640;88;509;-54;131;0;-1;1
@@ -2746,7 +2746,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2745;2005-06-04;ESP;LTU;7;6.15;9.99;1.13;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;1;;;;21:30;;WM;Qualifikation;2006;8;752;98;479;-90;273;-1;0;-1
 2746;2005-06-04;EST;LIE;6;4.66;8.80;1.27;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;2;;;;17:00;;WM;Qualifikation;2006;81;511;141;331;-60;180;1;1;0
 2747;2005-06-04;FRO;CHE;7;5.86;1.16;9.92;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;3;1;;;;17:30;;WM;Qualifikation;2006;133;359;45;603;88;-244;0;0;0
-2748;2005-06-04;IRL;ISR;7;3.65;6.49;1.47;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;2;2;;;;20:30;;WM;Qualifikation;2006;;;50;595;;;;1;
+2748;2005-06-04;IRL;ISR;7;3.65;6.49;1.47;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;2;2;;;;20:30;;WM;Qualifikation;2006;15;709;50;595;-35;114;0;1;-1
 2749;2005-06-04;ISL;HUN;7;3.13;2.27;2.81;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;3;2;;;;20:05;;WM;Qualifikation;2006;97;480;69;552;28;-72;-2;0;-2
 2750;2005-06-04;NLD;ROU;7;3.98;7.32;1.38;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;2;;;;20:30;;WM;Qualifikation;2006;5;759;32;647;-27;112;0;-2;2
 2751;2005-06-04;NOR;ITA;7;2.96;2.27;3.03;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;0;;;;20:30;;WM;Qualifikation;2006;36;627;10;734;26;-107;0;0;0
@@ -2779,7 +2779,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2778;2005-06-08;ESP;BIH;4;6.05;9.99;1.14;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;1;;;;22:00;;WM;Qualifikation;2006;8;752;;;;;-1;;
 2779;2005-06-08;EST;PRT;6;3.83;1.40;7.48;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;0;;;;19:15;;WM;Qualifikation;2006;81;511;9;740;72;-229;1;0;1
 2780;2005-06-08;FIN;NLD;6;3.47;1.55;5.58;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;4;0;;;;20:00;;WM;Qualifikation;2006;37;626;5;759;32;-133;0;0;0
-2781;2005-06-08;FRO;IRL;4;6.81;1.11;9.99;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;2;0;;;;20:30;;WM;Qualifikation;2006;133;359;;;;;0;;
+2781;2005-06-08;FRO;IRL;4;6.81;1.11;9.99;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;2;0;;;;20:30;;WM;Qualifikation;2006;133;359;15;709;118;-350;0;0;0
 2782;2005-06-08;GRC;UKR;5;3.08;3.75;1.94;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;0;;;;20:30;;WM;Qualifikation;2006;12;727;39;617;-27;110;0;3;-3
 2783;2005-06-08;IRN;BHR;5;3.64;6.34;1.45;;;;;;;;;;;World Cup 2006;;Qualification - Second stage;;;;;;;;0;1;;;;16:35;;WM;Qualifikation;2006;18;699;49;596;-31;103;1;1;0
 2784;2005-06-08;ISL;MLT;4;5.86;9.99;1.14;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;4;;;;20:05;;WM;Qualifikation;2006;97;480;136;344;-39;136;-2;1;-3
@@ -2871,7 +2871,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2870;2005-09-07;FIN;MKD;7;3.95;7.00;1.39;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;5;;;;18:00;;WM;Qualifikation;2006;43;617;;;;;0;;
 2871;2005-09-07;FRO;ISR;7;5.77;1.17;9.86;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;2;0;;;;19:00;;WM;Qualifikation;2006;126;360;47;596;79;-236;0;1;-1
 2872;2005-09-07;HUN;SWE;7;3.43;1.64;4.71;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;0;;;;20:45;;WM;Qualifikation;2006;65;557;15;708;50;-151;1;2;-1
-2873;2005-09-07;IRL;FRA;7;3.06;2.04;3.48;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;0;;;;20:45;;WM;Qualifikation;2006;;;9;737;;;;-2;
+2873;2005-09-07;IRL;FRA;7;3.06;2.04;3.48;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;0;;;;20:45;;WM;Qualifikation;2006;14;709;9;737;5;-28;1;-2;3
 2874;2005-09-07;KAZ;GRC;7;6.78;1.11;9.99;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;2;1;;;;15:00;;WM;Qualifikation;2006;148;296;18;696;130;-400;0;1;-1
 2875;2005-09-07;LIE;LUX;7;4.31;8.39;1.32;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;3;;;;19:30;;WM;Qualifikation;2006;139;331;155;252;-16;79;-1;0;-1
 2876;2005-09-07;LTU;BIH;7;3.17;2.72;2.33;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;0;;;;19:00;;WM;Qualifikation;2006;92;488;;;;;2;;
@@ -2895,7 +2895,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2894;2005-10-08;CMR;EGY;5;4.16;7.70;1.35;;;;;;;;;;;World Cup 2006;;Qualification - Group Stage;;;;;;;;1;1;;;;17:00;;WM;Qualifikation;2006;22;688;31;662;-9;26;6;-5;11
 2895;2005-10-08;COG;TGO;5;2.67;1.94;4.28;;;;;;;;;;;World Cup 2006;;Qualification - Group Stage;;;;;;;;3;2;;;;17:00;;WM;Qualifikation;2006;113;415;54;585;59;-170;-2;12;-14
 2896;2005-10-08;COL;CHL;2;3.38;4.46;1.66;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;1;;;;23:00;;WM;Qualifikation;2006;26;677;76;538;-50;139;-2;-3;1
-2897;2005-10-08;CYP;IRL;7;4.81;1.25;9.49;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;0;;;;19:00;;WM;Qualifikation;2006;103;462;;;;;2;;
+2897;2005-10-08;CYP;IRL;7;4.81;1.25;9.49;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;0;;;;19:00;;WM;Qualifikation;2006;103;462;21;694;82;-232;2;-7;9
 2898;2005-10-08;CZE;NLD;7;3.01;2.81;2.37;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;2;0;;;;20:30;;WM;Qualifikation;2006;4;777;2;785;2;-8;0;1;-1
 2899;2005-10-08;DNK;GRC;7;3.50;3.83;1.78;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;1;;;;20:00;;WM;Qualifikation;2006;14;721;20;699;-6;22;4;-2;6
 2900;2005-10-08;ECU;URY;4;2.95;3.56;2.03;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;0;;;;23:00;;WM;Qualifikation;2006;33;658;25;680;8;-22;0;0;0
@@ -2936,7 +2936,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 2935;2005-10-12;FRA;CYP;3;9.16;9.99;1.03;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;4;;;;20:45;;WM;Qualifikation;2006;6;770;103;462;-97;308;3;2;1
 2936;2005-10-12;GRC;GEO;6;5.72;9.91;1.18;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;1;;;;18:00;;WM;Qualifikation;2006;20;699;104;461;-84;238;-2;-1;-1
 2937;2005-10-12;HUN;HRV;6;3.05;2.10;3.23;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;0;;;;19:30;;WM;Qualifikation;2006;66;557;24;686;42;-129;-1;-4;3
-2938;2005-10-12;IRL;CHE;7;3.15;3.30;2.06;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;0;;;;20:45;;WM;Qualifikation;2006;;;38;643;;;;4;
+2938;2005-10-12;IRL;CHE;7;3.15;3.30;2.06;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;0;0;;;;20:45;;WM;Qualifikation;2006;21;694;38;643;-17;51;-7;4;-11
 2939;2005-10-12;ITA;MDA;6;6.58;9.99;1.12;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;2;;;;20:30;;WM;Qualifikation;2006;13;725;107;436;-94;289;0;6;-6
 2940;2005-10-12;KAZ;DNK;4;6.88;1.11;9.99;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;2;1;;;;18:00;;WM;Qualifikation;2006;146;304;14;721;132;-417;2;4;-2
 2941;2005-10-12;LTU;BEL;6;3.13;2.33;2.75;;;;;;;;;;;World Cup 2006;;Qualification;;;;;;;;1;1;;;;20:30;;WM;Qualifikation;2006;95;476;47;608;48;-132;-3;5;-8
@@ -3065,7 +3065,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3064;2006-08-16;FRO;GEO;3;3.62;1.54;5.37;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;6;0;;;6;0;;;;20:00;2008;EM;Qualifikation;2008;169;54;87;359;82;-305;-30;14;-44
 3065;2006-09-02;BLR;ALB;5;3.48;5.45;1.57;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;2;;;2;2;;;;19:00;2008;EM;Qualifikation;2008;69;453;62;478;7;-25;4;3;1
 3066;2006-09-02;CZE;WAL;5;4.66;8.75;1.28;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;2;;;1;2;;;;20:15;2008;EM;Qualifikation;2008;10;1223;56;547;-46;676;0;2;-2
-3067;2006-09-02;DEU;IRL;4;4.12;8.74;1.33;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;20:45;2008;EM;Qualifikation;2008;9;1229;;;;;0;;
+3067;2006-09-02;DEU;IRL;4;4.12;8.74;1.33;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;20:45;2008;EM;Qualifikation;2008;9;1229;38;694;-29;535;0;1;-1
 3068;2006-09-02;ENG;AND;5;10.60;64.80;1.01;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;5;;;0;5;;;;18:00;2008;EM;Qualifikation;2008;5;1434;132;142;-127;1292;0;-1;1
 3069;2006-09-02;ESP;LIE;6;9.52;55.51;1.01;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;4;;;0;4;;;;22:00;2008;EM;Qualifikation;2008;7;1309;124;170;-117;1139;0;0;0
 3070;2006-09-02;EST;ISR;4;3.16;2.06;3.23;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;0;;;1;0;;;;20:30;2008;EM;Qualifikation;2008;78;386;51;577;27;-191;4;0;4
@@ -3107,7 +3107,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3106;2006-09-06;UKR;GEO;5;5.00;11.04;1.22;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;3;;;2;3;;;;18:00;2008;EM;Qualifikation;2008;15;954;84;359;-69;595;0;3;-3
 3107;2006-10-07;ARM;FIN;5;3.48;1.54;5.84;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;0;;;0;0;;;;18:00;2008;EM;Qualifikation;2008;112;221;61;482;51;-261;-8;6;-14
 3108;2006-10-07;BGR;NLD;5;3.22;1.75;4.31;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;1;;;1;1;;;;20:00;2008;EM;Qualifikation;2008;37;728;6;1327;31;-599;-1;0;-1
-3109;2006-10-07;CYP;IRL;4;3.91;1.39;7.19;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;5;;;2;5;;;;18:30;2008;EM;Qualifikation;2008;103;261;;;;;-13;;
+3109;2006-10-07;CYP;IRL;4;3.91;1.39;7.19;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;5;;;2;5;;;;18:30;2008;EM;Qualifikation;2008;103;261;43;658;60;-397;-13;-5;-8
 3110;2006-10-07;CZE;SMR;5;10.70;63.00;1.01;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;7;;;0;7;;;;17:15;2008;EM;Qualifikation;2008;7;1312;194;10;-187;1302;3;-3;6
 3111;2006-10-07;DNK;NIR;3;5.33;10.67;1.21;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;0;;;0;0;;;;20:00;2008;EM;Qualifikation;2008;16;940;58;486;-42;454;1;14;-13
 3112;2006-10-07;ENG;MKD;4;7.75;26.00;1.06;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;0;;;0;0;;;;18:00;2008;EM;Qualifikation;2008;4;1477;;;;;1;;
@@ -3135,7 +3135,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3134;2006-10-11;FRA;FRO;5;10.70;65.80;1.01;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;5;;;0;5;;;;21:00;2008;EM;Qualifikation;2008;2;1534;179;38;-177;1496;2;-10;12
 3135;2006-10-11;GEO;ITA;4;4.39;1.28;10.00;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;3;1;;;3;1;;;;20:00;2008;EM;Qualifikation;2008;93;326;5;1474;88;-1148;-9;-3;-6
 3136;2006-10-11;HRV;ENG;4;2.99;2.35;2.83;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;2;;;0;2;;;;19:00;2008;EM;Qualifikation;2008;24;825;4;1477;20;-652;-3;1;-4
-3137;2006-10-11;IRL;CZE;4;3.08;1.89;3.91;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;1;;;1;1;;;;20:30;2008;EM;Qualifikation;2008;;;7;1312;;;;3;
+3137;2006-10-11;IRL;CZE;4;3.08;1.89;3.91;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;1;;;1;1;;;;20:30;2008;EM;Qualifikation;2008;43;658;7;1312;36;-654;-5;3;-8
 3138;2006-10-11;ISL;SWE;4;3.64;1.46;6.68;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;1;;;2;1;;;;20:05;2008;EM;Qualifikation;2008;87;349;18;888;69;-539;19;2;17
 3139;2006-10-11;KAZ;FIN;5;3.48;1.51;6.29;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;0;;;2;0;;;;18:00;2008;EM;Qualifikation;2008;120;195;61;482;59;-287;21;6;15
 3140;2006-10-11;LIE;DNK;5;7.69;1.07;19.92;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;4;0;;;4;0;;;;20:15;2008;EM;Qualifikation;2008;155;97;16;940;139;-843;-31;1;-32
@@ -3154,11 +3154,11 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3153;2006-11-15;BEL;POL;5;3.12;2.90;2.25;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;0;;;1;0;;;;20:30;2008;EM;Qualifikation;2008;47;583;27;804;20;-221;3;8;-5
 3154;2006-11-15;CYP;DEU;5;5.94;1.15;12.78;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;1;;;1;1;;;;20:00;2008;EM;Qualifikation;2008;80;412;6;1339;74;-927;23;2;21
 3155;2006-11-15;FIN;ARM;5;5.72;12.30;1.16;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;18:00;2008;EM;Qualifikation;2008;56;530;119;212;-63;318;5;-7;12
-3156;2006-11-15;IRL;SMR;5;9.90;47.40;1.02;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;5;;;0;5;;;;20:30;2008;EM;Qualifikation;2008;;;194;10;;;;0;
+3156;2006-11-15;IRL;SMR;5;9.90;47.40;1.02;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;5;;;0;5;;;;20:30;2008;EM;Qualifikation;2008;49;568;194;10;-145;558;-6;0;-6
 3157;2006-11-15;ISR;HRV;5;3.07;2.34;2.80;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;4;3;;;4;3;;;;18:00;2008;EM;Qualifikation;2008;36;741;19;882;17;-141;0;5;-5
 3158;2006-11-15;MKD;RUS;5;3.11;1.86;3.89;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;0;;;2;0;;;;17:00;2008;EM;Qualifikation;2008;;;33;764;;;;6;
 3159;2006-11-15;PRT;KAZ;5;8.90;28.00;1.04;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;3;;;0;3;;;;22:00;2008;EM;Qualifikation;2008;9;1224;135;173;-126;1051;0;-15;15
-3160;2007-02-07;SMR;IRL;4;9.75;1.02;47.25;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;1;;;2;1;;;;20:45;2008;EM;Qualifikation;2008;195;11;;;;;-1;;
+3160;2007-02-07;SMR;IRL;4;9.75;1.02;47.25;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;1;;;2;1;;;;20:45;2008;EM;Qualifikation;2008;195;11;49;596;146;-585;-1;0;-1
 3161;2007-02-08;GTM;NIC;;;;;35;Honduras;José Pineda;Estadio Cuscatlán;;;;00:00;;UNCAF Nations Cup 2007;;Gruppe A;;;;;0;1;;;0;1;0;1;;;;UNCAF Nations Cup;Endrunde;2007;105;282;168;69;-63;213;0;0;0
 3162;2007-02-08;SLV;BLZ;;;;;36;Costa Rica;Walter Quesada;Estadio Cuscatlán;;;;00:00;;UNCAF Nations Cup 2007;;Gruppe A;;;;;1;2;;;1;2;0;1;;;;UNCAF Nations Cup;Endrunde;2007;156;91;199;0;-43;91;0;-1;1
 3163;2007-02-09;CRI;HND;;;;;40;Mexiko;Armando Archundia;Estadio Cuscatlán;;;;00:00;;UNCAF Nations Cup 2007;;Gruppe B;;;;;1;3;;;1;3;0;1;;;;UNCAF Nations Cup;Endrunde;2007;66;460;56;538;10;-78;2;0;2
@@ -3181,7 +3181,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3180;2007-03-24;FRO;UKR;7;7.20;1.08;18.97;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;0;;;2;0;;;;16:00;2008;EM;Qualifikation;2008;182;32;11;1037;171;-1005;1;0;1
 3181;2007-03-24;GRC;TUR;5;3.00;3.28;2.04;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;4;1;;;4;1;;;;20:30;2008;EM;Qualifikation;2008;13;961;27;815;-14;146;0;-1;1
 3182;2007-03-24;HRV;MKD;5;4.61;9.16;1.26;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;2;;;1;2;;;;20:15;2008;EM;Qualifikation;2008;12;982;;;;;0;;
-3183;2007-03-24;IRL;WAL;4;3.31;4.70;1.65;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;16:00;2008;EM;Qualifikation;2008;;;77;419;;;;-2;
+3183;2007-03-24;IRL;WAL;4;3.31;4.70;1.65;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;16:00;2008;EM;Qualifikation;2008;51;577;77;419;-26;158;-5;-2;-3
 3184;2007-03-24;ISR;ENG;5;3.16;1.71;4.53;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;0;;;0;0;;;;19:30;2008;EM;Qualifikation;2008;38;689;6;1339;32;-650;2;0;2
 3185;2007-03-24;KAZ;SRB;7;4.39;1.29;9.15;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;2;;;1;2;;;;14:00;2008;EM;Qualifikation;2008;143;144;28;768;115;-624;2;1;1
 3186;2007-03-24;LIE;NIR;6;3.73;1.43;6.77;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;4;1;;;4;1;;;;20:15;2008;EM;Qualifikation;2008;162;84;47;615;115;-531;-2;2;-4
@@ -3200,7 +3200,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3199;2007-03-28;ESP;ISL;4;6.61;18.75;1.10;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;22:00;2008;EM;Qualifikation;2008;10;1161;86;367;-76;794;0;9;-9
 3200;2007-03-28;GEO;FRO;7;6.80;17.75;1.10;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;3;;;1;3;;;;18:00;2008;EM;Qualifikation;2008;85;374;182;32;-97;342;1;1;0
 3201;2007-03-28;HUN;MDA;5;3.72;7.11;1.43;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;2;;;0;2;;;;18:00;2008;EM;Qualifikation;2008;64;474;94;342;-30;132;0;-11;11
-3202;2007-03-28;IRL;SVK;4;3.19;3.59;1.93;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;20:30;2008;EM;Qualifikation;2008;;;37;693;;;;-4;
+3202;2007-03-28;IRL;SVK;4;3.19;3.59;1.93;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;20:30;2008;EM;Qualifikation;2008;51;577;37;693;14;-116;-5;-4;-1
 3203;2007-03-28;ISR;EST;7;4.43;8.95;1.30;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;4;;;0;4;;;;19:00;2008;EM;Qualifikation;2008;38;689;106;266;-68;423;2;0;2
 3204;2007-03-28;ITA;SCO;4;4.28;8.94;1.31;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;2;;;0;2;;;;20:50;2008;EM;Qualifikation;2008;2;1592;16;911;-14;681;-1;4;-5
 3205;2007-03-28;LIE;LVA;7;3.82;1.40;7.45;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;19:30;2008;EM;Qualifikation;2008;162;84;98;314;64;-230;-2;-2;0
@@ -3353,7 +3353,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3352;2007-09-08;SCO;LTU;8;4.25;9.04;1.35;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;3;;;1;3;;;;16:00;2008;EM;Qualifikation;2008;23;913;78;401;-55;512;-1;0;-1
 3353;2007-09-08;SMR;CZE;5;11.60;1.01;52.20;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;3;0;;;3;0;;;;20:15;2008;EM;Qualifikation;2008;195;6;9;1158;186;-1152;0;2;-2
 3354;2007-09-08;SRB;FIN;8;4.03;7.23;1.44;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;0;;;0;0;;;;20:15;2008;EM;Qualifikation;2008;18;965;38;732;-20;233;-1;3;-4
-3355;2007-09-08;SVK;IRL;8;3.18;2.73;2.46;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;2;;;2;2;;;;20:30;2008;EM;Qualifikation;2008;39;728;;;;;-1;;
+3355;2007-09-08;SVK;IRL;8;3.18;2.73;2.46;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;2;;;2;2;;;;20:30;2008;EM;Qualifikation;2008;39;728;37;737;2;-9;-1;2;-3
 3356;2007-09-08;SWE;DNK;8;3.23;3.55;2.02;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;0;;;0;0;;;;20:30;2008;EM;Qualifikation;2008;19;950;30;850;-11;100;1;-4;5
 3357;2007-09-08;WAL;DEU;8;4.05;1.42;7.27;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;0;;;2;0;;;;20:30;2008;EM;Qualifikation;2008;74;428;5;1337;69;-909;0;0;0
 3358;2007-09-12;ALB;NLD;9;5.18;1.25;10.73;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;0;;;1;0;;;;20:45;2008;EM;Qualifikation;2008;66;462;7;1211;59;-749;1;-1;2
@@ -3361,7 +3361,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3360;2007-09-12;BGR;LUX;7;12.01;50.58;1.02;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;3;;;0;3;;;;19:30;2008;EM;Qualifikation;2008;29;856;174;44;-145;812;1;0;1
 3361;2007-09-12;BIH;MDA;9;4.66;9.42;1.30;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;0;;;1;0;;;;20:00;2008;EM;Qualifikation;2008;;;106;292;;;;-4;
 3362;2007-09-12;CYP;SMR;7;9.91;28.86;1.05;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;3;;;0;3;;;;19:00;2008;EM;Qualifikation;2008;82;395;195;6;-113;389;-1;0;-1
-3363;2007-09-12;CZE;IRL;9;3.41;5.15;1.67;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;20:30;2008;EM;Qualifikation;2008;9;1158;;;;;2;;
+3363;2007-09-12;CZE;IRL;9;3.41;5.15;1.67;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;20:30;2008;EM;Qualifikation;2008;9;1158;37;737;-28;421;2;2;0
 3364;2007-09-12;DNK;LIE;7;12.40;47.78;1.02;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;4;;;0;4;;;;20:00;2008;EM;Qualifikation;2008;30;850;133;180;-103;670;-4;0;-4
 3365;2007-09-12;ENG;RUS;9;3.58;6.36;1.54;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;3;;;0;3;;;;21:00;2008;EM;Qualifikation;2008;12;1091;24;909;-12;182;0;-1;1
 3366;2007-09-12;ESP;LVA;9;9.88;34.00;1.07;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;2;;;0;2;;;;22:00;2008;EM;Qualifikation;2008;8;1165;110;274;-102;891;1;1;0
@@ -3398,7 +3398,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3397;2007-10-13;GRC;BIH;9;4.93;10.61;1.28;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;3;;;2;3;;;;20:30;2008;EM;Qualifikation;2008;15;940;;;;;-1;;
 3398;2007-10-13;HRV;ISR;9;4.59;8.67;1.34;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;20:15;2008;EM;Qualifikation;2008;10;1151;33;732;-23;419;-4;0;-4
 3399;2007-10-13;HUN;MLT;9;6.38;14.87;1.16;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;2;;;0;2;;;;16:20;2008;EM;Qualifikation;2008;55;544;124;250;-69;294;10;-9;19
-3400;2007-10-13;IRL;DEU;10;3.23;1.96;3.77;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;0;;;0;0;;;;20:45;2008;EM;Qualifikation;2008;;;4;1330;;;;1;
+3400;2007-10-13;IRL;DEU;10;3.23;1.96;3.77;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;0;;;0;0;;;;20:45;2008;EM;Qualifikation;2008;32;733;4;1330;28;-597;5;1;4
 3401;2007-10-13;ISL;LVA;9;3.26;3.66;1.99;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;4;2;;;4;2;;;;18:00;2008;EM;Qualifikation;2008;80;414;94;364;-14;50;37;16;21
 3402;2007-10-13;ITA;GEO;9;8.57;23.01;1.09;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;2;;;0;2;;;;20:50;2008;EM;Qualifikation;2008;1;1488;104;327;-103;1161;2;-1;3
 3403;2007-10-13;LIE;SWE;9;8.17;1.09;20.97;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;3;0;;;3;0;;;;19:00;2008;EM;Qualifikation;2008;142;166;20;888;122;-722;-9;-1;-8
@@ -3424,7 +3424,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3423;2007-10-17;DNK;LVA;9;5.18;11.00;1.25;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;3;;;1;3;;;;20:00;2008;EM;Qualifikation;2008;28;794;94;364;-66;430;2;16;-14
 3424;2007-10-17;FRA;LTU;8;10.15;26.58;1.07;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;2;;;0;2;;;;21:00;2008;EM;Qualifikation;2008;6;1220;84;398;-78;822;-2;-6;4
 3425;2007-10-17;GEO;SCO;9;3.49;1.67;5.12;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;2;;;0;2;;;;19:00;2008;EM;Qualifikation;2008;104;327;14;1025;90;-698;-1;9;-10
-3426;2007-10-17;IRL;CYP;9;5.11;9.99;1.27;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;1;;;1;1;;;;20:30;2008;EM;Qualifikation;2008;;;68;452;;;;14;
+3426;2007-10-17;IRL;CYP;9;5.11;9.99;1.27;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;1;1;;;1;1;;;;20:30;2008;EM;Qualifikation;2008;32;733;68;452;-36;281;5;14;-9
 3427;2007-10-17;KAZ;PRT;9;7.34;1.12;17.68;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;1;;;2;1;;;;16:00;2008;EM;Qualifikation;2008;120;259;8;1169;112;-910;-5;2;-7
 3428;2007-10-17;LIE;ISL;9;3.67;1.57;5.73;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;3;;;0;3;;;;20:00;2008;EM;Qualifikation;2008;142;166;80;414;62;-248;-9;37;-46
 3429;2007-10-17;LUX;ROU;9;10.48;1.06;26.61;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;0;;;2;0;;;;20:15;2008;EM;Qualifikation;2008;176;44;12;1037;164;-993;-2;1;-3
@@ -3492,7 +3492,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3491;2007-11-17;POL;BEL;10;4.21;7.62;1.41;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;2;;;0;2;;;;20:30;2008;EM;Qualifikation;2008;20;837;54;577;-34;260;-4;6;-10
 3492;2007-11-17;PRT;ARM;10;9.94;31.10;1.06;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;0;1;;;0;1;;;;22:00;2008;EM;Qualifikation;2008;8;1203;82;400;-74;803;0;5;-5
 3493;2007-11-17;SCO;ITA;10;2.92;2.00;3.97;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;1;;;2;1;;;;18:00;2008;EM;Qualifikation;2008;13;1049;3;1387;10;-338;1;-2;3
-3494;2007-11-17;WAL;IRL;10;3.17;2.41;2.83;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;2;;;2;2;;;;16:00;2008;EM;Qualifikation;2008;58;521;;;;;-5;;
+3494;2007-11-17;WAL;IRL;10;3.17;2.41;2.83;;;;;;;;;Austria & Switzerland;;Euro 2008;;Qualification;qualification group;;;2;2;;;2;2;;;;16:00;2008;EM;Qualifikation;2008;58;521;32;722;26;-201;-5;0;-5
 3495;2007-11-18;PER;BRA;8;3.58;1.48;6.88;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;1;;;;22:10;;WM;Qualifikation;2010;61;497;2;1459;59;-962;-9;1;-10
 3496;2007-11-18;PRY;ECU;8;3.56;6.10;1.52;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;5;;;;01:10;;WM;Qualifikation;2010;26;799;59;517;-33;282;5;-2;7
 3497;2007-11-18;SYR;IDN;5;6.04;12.48;1.14;;;;;;;;;;;World Cup 2010;;Qualification - Second round;;;;;;;;0;7;;;;12:00;;WM;Qualifikation;2010;126;232;125;242;1;-10;-3;1;-4
@@ -3821,7 +3821,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3820;2008-09-06;ECU;BOL;7;3.84;7.14;1.48;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;3;;;;23:10;;WM;Qualifikation;2010;52;556;71;443;-19;113;4;-2;6
 3821;2008-09-06;ESP;BIH;6;6.08;15.67;1.19;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;1;;;;22:00;;WM;Qualifikation;2010;1;1565;;;;;0;;
 3822;2008-09-06;FJI;VUT;3;3.50;4.52;1.64;;;;;;;;;;;World Cup 2010;;Qualification - Second stage;;;;;;;;0;2;;;;05:00;;WM;Qualifikation;2010;143;185;150;171;-7;14;3;1;2
-3823;2008-09-06;GEO;IRL;6;3.38;1.78;4.55;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;1;;;;18:00;;WM;Qualifikation;2010;77;421;;;;;9;;
+3823;2008-09-06;GEO;IRL;6;3.38;1.78;4.55;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;1;;;;18:00;;WM;Qualifikation;2010;77;421;38;662;39;-241;9;3;6
 3824;2008-09-06;GMB;LBR;5;3.80;8.41;1.40;;;;;;;;;;;World Cup 2010;;Qualification - First stage;;;;;;;;0;3;;;;19:00;;WM;Qualifikation;2010;90;386;144;183;-54;203;-2;-2;0
 3825;2008-09-06;HRV;KAZ;6;8.25;21.17;1.09;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;3;;;;20:15;;WM;Qualifikation;2010;5;1266;120;270;-115;996;0;5;-5
 3826;2008-09-06;HUN;DNK;6;3.28;2.10;3.29;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;0;;;;19:45;;WM;Qualifikation;2010;50;561;36;696;14;-135;0;0;0
@@ -3884,7 +3884,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3883;2008-09-10;LVA;GRC;6;3.26;1.93;4.02;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;0;;;;20:15;;WM;Qualifikation;2010;63;479;18;921;45;-442;2;0;2
 3884;2008-09-10;MDA;ISR;6;3.23;2.09;3.57;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;1;;;;19:30;;WM;Qualifikation;2010;48;573;19;874;29;-301;1;1;0
 3885;2008-09-10;MKD;NLD;6;3.81;1.48;7.21;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;1;;;;20:30;;WM;Qualifikation;2010;;;4;1295;;;;0;
-3886;2008-09-10;MNE;IRL;6;3.22;2.15;3.73;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;0;;;;19:00;;WM;Qualifikation;2010;136;198;;;;;7;;
+3886;2008-09-10;MNE;IRL;6;3.22;2.15;3.73;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;0;;;;19:00;;WM;Qualifikation;2010;136;198;38;662;98;-464;7;3;4
 3887;2008-09-10;NIR;CZE;6;3.26;1.88;4.22;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;0;;;;20:45;;WM;Qualifikation;2010;32;761;8;1134;24;-373;0;0;0
 3888;2008-09-10;NZL;NCL;3;5.83;9.33;1.19;;;;;;;;;;;World Cup 2010;;Qualification - Second stage;;;;;;;;0;3;;;;09:35;;WM;Qualifikation;2010;111;316;95;368;16;-52;0;21;-21
 3889;2008-09-10;PRK;KOR;6;3.08;2.13;3.43;;;;;;;;;;;World Cup 2010;;Qualification - Final Group;;;;;;;;1;1;;;;14:00;;WM;Qualifikation;2010;;;;;;;;;
@@ -3979,7 +3979,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 3978;2008-10-15;GEO;BGR;8;3.41;1.72;4.97;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;0;;;;18:30;;WM;Qualifikation;2010;97;368;15;969;82;-601;-20;1;-21
 3979;2008-10-15;GRC;CHE;8;3.31;4.56;1.80;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;1;;;;20:30;;WM;Qualifikation;2010;17;945;45;641;-28;304;1;-2;3
 3980;2008-10-15;HRV;AND;7;14.21;51.86;1.01;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;4;;;;20:15;;WM;Qualifikation;2010;6;1223;184;36;-178;1187;-1;2;-3
-3981;2008-10-15;IRL;CYP;8;4.36;8.60;1.37;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;1;;;;20:45;;WM;Qualifikation;2010;;;80;430;;;;-15;
+3981;2008-10-15;IRL;CYP;8;4.36;8.60;1.37;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;1;;;;20:45;;WM;Qualifikation;2010;38;701;80;430;-42;271;0;-15;15
 3982;2008-10-15;IRN;PRK;7;3.75;6.46;1.47;;;;;;;;;;;World Cup 2010;;Qualification - Final Group;;;;;;;;1;2;;;;15:30;;WM;Qualifikation;2010;48;619;;;;;-2;;
 3983;2008-10-15;ISL;MKD;7;3.19;2.71;2.54;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;1;;;;20:00;;WM;Qualifikation;2010;103;345;;;;;4;;
 3984;2008-10-15;ITA;MNE;8;6.27;13.19;1.19;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;2;;;;20:50;;WM;Qualifikation;2010;2;1365;117;294;-115;1071;0;19;-19
@@ -4047,7 +4047,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4046;2009-01-30;HND;PAN;;;;;40;Guatemala;Carlos Batrés;Estadio Tiburcio Carías Andino;20000;;;00:00;;UNCAF Nations Cup 2009;;Halbfinale;;;;;1;0;;;1;0;1;0;;;;UNCAF Nations Cup;Endrunde;2009;40;689;83;417;-43;272;0;5;-5
 4047;2009-02-01;CRI;PAN;;;;;40;Guatemala;Carlos Batrés;Estadio Tiburcio Carías Andino;900;;;00:00;;UNCAF Nations Cup 2009;;Finale;;;;;0;0;5;3;5;3;;;n.E.;;;UNCAF Nations Cup;Endrunde;2009;47;606;83;417;-36;189;6;5;1
 4048;2009-02-01;HND;SLV;;;;;38;Costa Rica;Walter Quesada;Estadio Tiburcio Carías Andino;900;;;00:00;;UNCAF Nations Cup 2009;;Spiel um Platz Drei;;;;;0;1;;;0;1;0;1;;;;UNCAF Nations Cup;Endrunde;2009;40;689;110;315;-70;374;0;1;-1
-4049;2009-02-11;IRL;GEO;10;4.45;8.92;1.34;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;2;;;;20:45;;WM;Qualifikation;2010;;;108;328;;;;0;
+4049;2009-02-11;IRL;GEO;10;4.45;8.92;1.34;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;2;;;;20:45;;WM;Qualifikation;2010;37;711;108;328;-71;383;1;0;1
 4050;2009-02-11;IRN;KOR;10;3.11;3.36;2.09;;;;;;;;;;;World Cup 2010;;Qualification - Final Group;;;;;;;;1;1;;;;12:30;;WM;Qualifikation;2010;46;613;;;;;-3;;
 4051;2009-02-11;JPN;AUS;10;3.10;3.07;2.23;;;;;;;;;;;World Cup 2010;;Qualification - Final Group;;;;;;;;0;0;;;;11:20;;WM;Qualifikation;2010;34;734;29;777;5;-43;1;-1;2
 4052;2009-02-11;MLT;ALB;10;3.61;1.55;6.22;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;0;;;;19:30;;WM;Qualifikation;2010;148;151;78;424;70;-273;-1;3;-4
@@ -4066,7 +4066,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4065;2009-03-28;CYP;GEO;9;3.30;3.85;1.93;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;2;;;;19:00;;WM;Qualifikation;2010;84;407;111;314;-27;93;14;-3;17
 4066;2009-03-28;DEU;LIE;9;15.67;58.50;1.01;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;4;;;;20:00;;WM;Qualifikation;2010;2;1366;151;145;-149;1221;0;0;0
 4067;2009-03-28;ESP;TUR;9;4.46;8.66;1.35;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;1;;;;22:00;;WM;Qualifikation;2010;1;1666;11;1009;-10;657;0;-1;1
-4068;2009-03-28;IRL;BGR;9;3.30;4.47;1.84;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;1;;;;20:45;;WM;Qualifikation;2010;;;27;756;;;;-1;
+4068;2009-03-28;IRL;BGR;9;3.30;4.47;1.84;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;1;;;;20:45;;WM;Qualifikation;2010;26;773;27;756;-1;17;3;-1;4
 4069;2009-03-28;IRN;SAU;9;3.26;3.79;1.89;;;;;;;;;;;World Cup 2010;;Qualification - Final Group;;;;;;;;2;1;;;;15:30;;WM;Qualifikation;2010;42;619;;;;;2;;
 4070;2009-03-28;ISR;GRC;9;3.07;2.95;2.42;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;1;;;;19:00;;WM;Qualifikation;2010;18;888;19;863;-1;25;0;0;0
 4071;2009-03-28;JPN;BHR;9;4.16;7.84;1.37;;;;;;;;;;;World Cup 2010;;Qualification - Final Group;;;;;;;;0;1;;;;11:20;;WM;Qualifikation;2010;35;709;67;484;-32;225;2;7;-5
@@ -4117,7 +4117,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4116;2009-04-01;GEO;MNE;9;3.19;2.74;2.50;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;0;;;;19:00;;WM;Qualifikation;2010;111;314;112;310;-1;4;-3;-1;-2
 4117;2009-04-01;GRC;ISR;9;3.39;4.94;1.72;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;2;;;;20:30;;WM;Qualifikation;2010;19;863;18;888;1;-25;0;0;0
 4118;2009-04-01;HUN;MLT;9;7.64;17.23;1.12;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;3;;;;19:00;;WM;Qualifikation;2010;48;596;146;169;-98;427;-5;8;-13
-4119;2009-04-01;ITA;IRL;8;4.04;7.99;1.44;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;1;;;;20:50;;WM;Qualifikation;2010;4;1284;;;;;0;;
+4119;2009-04-01;ITA;IRL;8;4.04;7.99;1.44;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;1;;;;20:50;;WM;Qualifikation;2010;4;1284;26;773;-22;511;0;3;-3
 4120;2009-04-01;KAZ;BLR;9;3.26;2.14;3.28;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;5;1;;;;16:30;;WM;Qualifikation;2010;130;243;88;393;42;-150;10;2;8
 4121;2009-04-01;KOR;PRK;9;3.20;5.41;1.70;;;;;;;;;;;World Cup 2010;;Qualification - Final Group;;;;;;;;0;1;;;;13:00;;WM;Qualifikation;2010;;;;;;;;;
 4122;2009-04-01;LIE;RUS;9;10.58;1.04;31.07;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;0;;;;19:30;;WM;Qualifikation;2010;151;145;8;1128;143;-983;0;1;-1
@@ -4140,7 +4140,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4139;2009-06-06;ARE;KOR;8;3.83;1.53;5.97;;;;;;;;;;;World Cup 2010;;Qualification - Final Group;;;;;;;;2;0;;;;18:15;;WM;Qualifikation;2010;122;268;;;;;-2;;
 4140;2009-06-06;ARG;COL;9;5.31;12.36;1.23;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;1;;;;23:00;;WM;Qualifikation;2010;7;1203;45;678;-38;525;-1;-1;0
 4141;2009-06-06;AZE;WAL;9;3.15;2.24;3.17;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;0;;;;17:00;;WM;Qualifikation;2010;140;201;74;468;66;-267;2;-1;3
-4142;2009-06-06;BGR;IRL;9;3.17;3.60;2.06;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;1;;;;19:30;;WM;Qualifikation;2010;23;838;;;;;-3;;
+4142;2009-06-06;BGR;IRL;9;3.17;3.60;2.06;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;1;;;;19:30;;WM;Qualifikation;2010;23;838;34;762;-11;76;-3;0;-3
 4143;2009-06-06;BLR;AND;9;10.14;30.14;1.04;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;5;;;;18:00;;WM;Qualifikation;2010;81;432;196;17;-115;415;1;0;1
 4144;2009-06-06;BOL;VEN;9;4.63;9.37;1.32;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;0;;;;22:50;;WM;Qualifikation;2010;58;565;56;568;2;-3;0;0;0
 4145;2009-06-06;CYP;MNE;9;3.19;2.87;2.39;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;2;;;;19:30;;WM;Qualifikation;2010;79;441;110;331;-31;110;-4;7;-11
@@ -4260,7 +4260,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4259;2009-09-05;CHE;GRC;10;3.15;3.53;2.11;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;2;;;;20:30;;WM;Qualifikation;2010;15;898;12;971;3;-73;-2;-1;-1
 4260;2009-09-05;CIV;BFA;9;5.43;11.21;1.22;;;;;;;;;;;World Cup 2010;;Qualification - Second stage;;;;;;;;0;5;;;;19:00;;WM;Qualifikation;2010;20;852;52;602;-32;250;-2;-1;-1
 4261;2009-09-05;COL;ECU;9;3.28;4.04;1.90;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;2;;;;22:30;;WM;Qualifikation;2010;48;657;36;749;12;-92;-3;0;-3
-4262;2009-09-05;CYP;IRL;10;3.33;1.98;3.70;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;1;;;;20:30;;WM;Qualifikation;2010;76;429;;;;;-3;;
+4262;2009-09-05;CYP;IRL;10;3.33;1.98;3.70;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;1;;;;20:30;;WM;Qualifikation;2010;76;429;38;743;38;-314;-3;-1;-2
 4263;2009-09-05;DNK;PRT;10;3.30;2.07;3.45;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;1;;;;20:00;;WM;Qualifikation;2010;16;892;17;880;-1;12;-1;0;-1
 4264;2009-09-05;ESP;BEL;10;6.58;16.54;1.17;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;5;;;;22:00;;WM;Qualifikation;2010;2;1588;68;479;-66;1109;0;-6;6
 4265;2009-09-05;FRA;ROU;10;4.04;8.28;1.41;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;1;;;;21:00;;WM;Qualifikation;2010;10;1040;26;827;-16;213;-1;1;-2
@@ -4342,7 +4342,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4341;2009-10-10;FRA;FRO;9;14.86;51.00;1.01;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;5;;;;21:00;;WM;Qualifikation;2010;10;1040;163;96;-153;944;-1;0;-1
 4342;2009-10-10;GAB;MAR;10;3.13;3.07;2.19;;;;;;;;;;;World Cup 2010;;Qualification - Second stage;;;;;;;;1;3;;;;16:30;;WM;Qualifikation;2010;35;759;57;560;-22;199;-4;-2;-2
 4343;2009-10-10;GRC;LVA;10;4.53;8.13;1.36;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;5;;;;20:30;;WM;Qualifikation;2010;12;971;58;555;-46;416;-1;-2;1
-4344;2009-10-10;IRL;ITA;10;2.69;2.37;3.53;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;2;;;;21:00;;WM;Qualifikation;2010;;;4;1186;;;;1;
+4344;2009-10-10;IRL;ITA;10;2.69;2.37;3.53;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;2;;;;21:00;;WM;Qualifikation;2010;38;743;4;1186;34;-443;-1;1;-2
 4345;2009-10-10;ISR;MDA;10;6.45;12.66;1.18;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;3;;;;21:00;;WM;Qualifikation;2010;22;844;88;390;-66;454;3;-1;4
 4346;2009-10-10;LIE;AZE;10;3.11;2.72;2.58;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;0;;;;20:00;;WM;Qualifikation;2010;151;125;139;173;12;-48;-1;-2;1
 4347;2009-10-10;LUX;CHE;9;8.07;1.10;20.97;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;3;0;;;;17:45;;WM;Qualifikation;2010;116;282;15;898;101;-616;3;-2;5
@@ -4381,7 +4381,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4380;2009-10-14;EST;BEL;10;3.35;1.86;4.10;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;2;;;;20:30;;WM;Qualifikation;2010;114;287;68;479;46;-192;-2;-6;4
 4381;2009-10-14;FRA;AUT;10;4.74;9.42;1.31;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;3;;;;21:00;;WM;Qualifikation;2010;10;1040;70;473;-60;567;-1;-2;1
 4382;2009-10-14;GRC;LUX;10;12.39;40.57;1.03;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;1;2;;;;20:00;;WM;Qualifikation;2010;12;971;116;282;-104;689;-1;3;-4
-4383;2009-10-14;IRL;MNE;10;3.56;5.97;1.59;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;0;;;;20:00;;WM;Qualifikation;2010;;;89;380;;;;7;
+4383;2009-10-14;IRL;MNE;10;3.56;5.97;1.59;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;0;0;;;;20:00;;WM;Qualifikation;2010;38;743;89;380;-51;363;-1;7;-8
 4384;2009-10-14;ITA;CYP;10;5.05;9.25;1.29;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;3;;;;20:00;;WM;Qualifikation;2010;4;1186;76;429;-72;757;1;-3;4
 4385;2009-10-14;KAZ;HRV;10;4.92;1.32;8.38;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;1;;;;17:30;;WM;Qualifikation;2010;136;181;9;1101;127;-920;-6;1;-7
 4386;2009-10-14;LIE;WAL;10;3.67;1.60;5.55;;;;;;;;;;;World Cup 2010;;Qualification;;;;;;;;2;0;;;;20:00;;WM;Qualifikation;2010;151;125;67;481;84;-356;-1;0;-1
@@ -4405,7 +4405,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4404;2009-11-14;CIV;GIN;10;4.25;6.90;1.41;;;;;;;;;;;World Cup 2010;;Qualification - Second stage;;;;;;;;0;3;;;;17:00;;WM;Qualifikation;2010;19;903;71;461;-52;442;1;-16;17
 4405;2009-11-14;EGY;DZA;10;3.82;5.70;1.52;;;;;;;;;;;World Cup 2010;;Qualification - Second stage;;;;;;;;0;2;;;;18:30;;WM;Qualifikation;2010;28;798;29;781;-1;17;4;15;-11
 4406;2009-11-14;GRC;UKR;10;3.03;3.18;2.36;;;;;;;;;;;World Cup 2010;;Qualification - Promotion;;;;;;;;0;0;;;;19:00;;WM;Qualifikation;2010;16;921;22;857;-6;64;-4;3;-7
-4407;2009-11-14;IRL;FRA;10;2.97;2.31;3.35;;;;;;;;;;;World Cup 2010;;Qualification - Promotion;;;;;;;;1;0;;;;21:00;;WM;Qualifikation;2010;;;9;1049;;;;1;
+4407;2009-11-14;IRL;FRA;10;2.97;2.31;3.35;;;;;;;;;;;World Cup 2010;;Qualification - Promotion;;;;;;;;1;0;;;;21:00;;WM;Qualifikation;2010;34;755;9;1049;25;-294;4;1;3
 4408;2009-11-14;IRN;JOR;7;5.21;9.48;1.24;;;;;;;;;;;Asian Cup 2011;;Qualification;;;;;;;;0;1;;;;15:30;;Asian Cup;Qualifikation;2011;62;518;128;204;-66;314;-2;1;-3
 4409;2009-11-14;KEN;NGA;10;3.95;1.47;6.37;;;;;;;;;;;World Cup 2010;;Qualification - Second stage;;;;;;;;3;2;;;;14:00;;WM;Qualifikation;2010;104;304;32;763;72;-459;0;2;-2
 4410;2009-11-14;KWT;IDN;6;4.47;9.65;1.28;;;;;;;;;;;Asian Cup 2011;;Qualification;;;;;;;;1;2;;;;16:40;;Asian Cup;Qualifikation;2011;109;283;129;201;-20;82;1;4;-3
@@ -4427,7 +4427,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4426;2009-11-18;BHR;YEM;7;6.21;11.71;1.16;;;;;;;;;;;Asian Cup 2011;;Qualification;;;;;;;;0;4;;;;15:45;;Asian Cup;Qualifikation;2011;61;519;139;158;-78;361;3;3;0
 4427;2009-11-18;BIH;PRT;10;3.31;2.19;3.21;;;;;;;;;;;World Cup 2010;;Qualification - Promotion;;;;;;;;1;0;;;;20:45;;WM;Qualifikation;2010;;;10;1042;;;;7;
 4428;2009-11-18;DZA;EGY;10;3.18;1.99;3.74;;;;;;;;;;;World Cup 2010;;Qualification - Promotion;;;;;;;;0;1;;;;18:30;;WM;Qualifikation;2010;29;781;28;798;1;-17;15;4;11
-4429;2009-11-18;FRA;IRL;10;3.91;7.14;1.48;;;;;;;;;;;World Cup 2010;;Qualification - Promotion;;;ET;;;;;1;1;;;;21:00;;WM;Qualifikation;2010;9;1049;;;;;1;;
+4429;2009-11-18;FRA;IRL;10;3.91;7.14;1.48;;;;;;;;;;;World Cup 2010;;Qualification - Promotion;;;ET;;;;;1;1;;;;21:00;;WM;Qualifikation;2010;9;1049;34;755;-25;294;1;4;-3
 4430;2009-11-18;HKG;JPN;7;6.70;1.13;15.90;;;;;;;;;;;Asian Cup 2011;;Qualification;;;;;;;;4;0;;;;11:30;;Asian Cup;Qualifikation;2011;127;207;40;735;87;-528;1;0;1
 4431;2009-11-18;IDN;KWT;7;3.30;1.92;3.57;;;;;;;;;;;Asian Cup 2011;;Qualification;;;;;;;;1;1;;;;12:30;;Asian Cup;Qualifikation;2011;129;201;109;283;20;-82;4;1;3
 4432;2009-11-18;MYS;UZB;7;4.67;1.31;7.96;;;;;;;;;;;Asian Cup 2011;;Qualification;;;;;;;;3;1;;;;10:30;;Asian Cup;Qualifikation;2011;150;128;80;403;70;-275;2;5;-3
@@ -4564,7 +4564,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4563;2010-08-11;TCD;TUN;5;3.67;1.51;5.80;;;;;;;;;;;Africa Cup of Nations 2012;;Qualification;;;;;;;;3;1;;;;16:30;;Africa Cup;Qualifikation;2012;124;185;65;519;59;-334;19;-10;29
 4564;2010-09-02;ISR;MLT;10;9.57;28.22;1.07;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;3;;;1;3;;;;20:15;2012;EM;Qualifikation;2012;38;733;151;105;-113;628;-1;1;-2
 4565;2010-09-03;AND;RUS;10;15.68;1.01;49.72;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;0;;;2;0;;;;18:30;2012;EM;Qualifikation;2012;201;2;16;956;185;-954;0;1;-1
-4566;2010-09-03;ARM;IRL;;;;;;;;;;;;;Poland & Ukraine;;;;;qualification group;;;1;0;;;1;0;;;;;2012;;Qualifikation;;96;318;;;;;0;;
+4566;2010-09-03;ARM;IRL;;;;;;;;;;;;;Poland & Ukraine;;;;;qualification group;;;1;0;;;1;0;;;;;2012;;Qualifikation;;96;318;36;734;60;-416;0;0;0
 4567;2010-09-03;BEL;DEU;10;3.76;1.61;5.53;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;0;;;1;0;;;;20:45;2012;EM;Qualifikation;2012;48;589;4;1464;44;-875;0;0;0
 4568;2010-09-03;DZA;TZA;9;5.49;10.48;1.20;;;;;;;;;;;Africa Cup of Nations 2012;;Qualification;;;;;;;;1;1;;;;23:00;;Africa Cup;Qualifikation;2012;33;759;111;235;-78;524;0;1;-1
 4569;2010-09-03;ENG;BGR;10;5.23;11.61;1.27;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;4;;;0;4;;;;21:00;2012;EM;Qualifikation;2012;7;1125;43;672;-36;453;0;0;0
@@ -4617,7 +4617,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4616;2010-09-07;GEO;ISR;10;3.17;2.42;3.01;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;0;;;0;0;;;;19:00;2012;EM;Qualifikation;2012;110;237;38;733;72;-496;1;-1;2
 4617;2010-09-07;HRV;GRC;10;3.75;6.48;1.54;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;0;;;0;0;;;;20:30;2012;EM;Qualifikation;2012;14;968;12;975;2;-7;1;0;1
 4618;2010-09-07;HUN;MDA;10;3.79;6.37;1.55;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;2;;;1;2;;;;20:30;2012;EM;Qualifikation;2012;62;534;89;350;-27;184;0;0;0
-4619;2010-09-07;IRL;AND;10;16.51;57.87;1.02;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;3;;;1;3;;;;20:45;2012;EM;Qualifikation;2012;;;201;2;;;;0;
+4619;2010-09-07;IRL;AND;10;16.51;57.87;1.02;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;3;;;1;3;;;;20:45;2012;EM;Qualifikation;2012;36;734;201;2;-165;732;0;0;0
 4620;2010-09-07;ITA;FRO;10;16.46;50.62;1.02;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;5;;;0;5;;;;20:50;2012;EM;Qualifikation;2012;11;982;118;206;-107;776;0;-1;1
 4621;2010-09-07;MKD;ARM;10;3.80;6.77;1.52;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;2;;;2;2;;;;20:00;2012;EM;Qualifikation;2012;;;96;318;;;;0;
 4622;2010-09-07;MLT;LVA;10;3.31;1.91;4.17;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;0;;;2;0;;;;19:30;2012;EM;Qualifikation;2012;151;105;49;579;102;-474;1;1;0
@@ -4639,7 +4639,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4638;2010-10-08;GEO;MLT;10;5.02;10.43;1.30;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;1;;;0;1;;;;19:00;2012;EM;Qualifikation;2012;89;357;150;96;-61;261;21;1;20
 4639;2010-10-08;GRC;LVA;10;4.03;7.74;1.46;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;1;;;0;1;;;;20:45;2012;EM;Qualifikation;2012;12;973;68;494;-56;479;0;-19;19
 4640;2010-10-08;HUN;SMR;8;16.66;51.48;1.02;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;8;;;0;8;;;;19:00;2012;EM;Qualifikation;2012;51;567;203;0;-152;567;11;-1;12
-4641;2010-10-08;IRL;RUS;10;3.12;2.84;2.59;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;3;2;;;3;2;;;;20:45;2012;EM;Qualifikation;2012;;;25;868;;;;-9;
+4641;2010-10-08;IRL;RUS;10;3.12;2.84;2.59;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;3;2;;;3;2;;;;20:45;2012;EM;Qualifikation;2012;33;745;25;868;8;-123;3;-9;12
 4642;2010-10-08;KAZ;BEL;10;3.55;1.67;5.48;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;0;;;2;0;;;;18:00;2012;EM;Qualifikation;2012;126;172;62;526;64;-354;-1;-14;13
 4643;2010-10-08;LUX;BLR;10;5.30;1.27;11.65;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;0;;;0;0;;;;20:15;2012;EM;Qualifikation;2012;130;153;55;554;75;-401;-13;23;-36
 4644;2010-10-08;MDA;NLD;9;5.64;1.23;13.55;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;0;;;1;0;;;;20:30;2012;EM;Qualifikation;2012;80;398;2;1663;78;-1265;9;0;9
@@ -4693,7 +4693,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4692;2010-10-12;NLD;SWE;10;3.72;5.65;1.62;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;4;;;1;4;;;;20:30;2012;EM;Qualifikation;2012;2;1663;32;760;-30;903;0;3;-3
 4693;2010-10-12;SCO;ESP;10;4.85;1.33;9.65;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;3;2;;;3;2;;;;21:00;2012;EM;Qualifikation;2012;47;617;1;1824;46;-1207;-6;0;-6
 4694;2010-10-12;SMR;MDA;10;7.09;1.14;18.58;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;0;;;2;0;;;;20:30;2012;EM;Qualifikation;2012;203;0;80;398;123;-398;-1;9;-10
-4695;2010-10-12;SVK;IRL;10;3.11;3.10;2.40;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;1;;;1;1;;;;20:30;2012;EM;Qualifikation;2012;16;919;;;;;11;;
+4695;2010-10-12;SVK;IRL;10;3.11;3.10;2.40;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;1;;;1;1;;;;20:30;2012;EM;Qualifikation;2012;16;919;33;745;-17;174;11;3;8
 4696;2010-11-17;BWA;TUN;8;2.97;2.71;2.49;;;;;;;;;;;Africa Cup of Nations 2012;;Qualification;;;;;;;;0;1;;;;14:00;;Africa Cup;Qualifikation;2012;79;412;45;588;34;-176;3;11;-8
 4697;2010-11-17;FIN;SMR;9;15.50;48.29;1.02;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;8;;;0;8;;;;17:30;2012;EM;Qualifikation;2012;86;401;203;0;-117;401;-22;0;-22
 4698;2010-11-17;HRV;MLT;9;14.17;48.83;1.02;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;3;;;0;3;;;;17:30;2012;EM;Qualifikation;2012;9;1086;168;76;-159;1010;2;-18;20
@@ -4784,7 +4784,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4783;2011-03-26;DEU;KAZ;10;17.63;56.52;1.02;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;4;;;0;4;;;;20:00;2012;EM;Qualifikation;2012;3;1486;132;178;-129;1308;0;5;-5
 4784;2011-03-26;GEO;HRV;10;3.57;1.65;5.87;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;1;;;0;1;;;;18:00;2012;EM;Qualifikation;2012;72;469;8;1071;64;-602;-1;1;-2
 4785;2011-03-26;GNB;UGA;7;3.11;2.12;3.24;;;;;;;;;;;Africa Cup of Nations 2012;;Qualification;;;;;;;;1;0;;;;17:30;;Africa Cup;Qualifikation;2012;136;168;86;385;50;-217;10;0;10
-4786;2011-03-26;IRL;MKD;10;3.96;7.38;1.49;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;2;;;1;2;;;;20:45;2012;EM;Qualifikation;2012;;;;;;;;;
+4786;2011-03-26;IRL;MKD;10;3.96;7.38;1.49;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;2;;;1;2;;;;20:45;2012;EM;Qualifikation;2012;34;699;;;;;1;;
 4787;2011-03-26;ISR;LVA;10;4.08;6.45;1.52;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;2;;;1;2;;;;19:05;2012;EM;Qualifikation;2012;58;532;75;448;-17;84;-6;1;-7
 4788;2011-03-26;KEN;AGO;8;3.17;3.16;2.21;;;;;;;;;;;Africa Cup of Nations 2012;;Qualification;;;;;;;;1;2;;;;14:00;;Africa Cup;Qualifikation;2012;129;202;104;299;25;-97;-2;3;-5
 4789;2011-03-26;MLI;ZWE;8;4.24;7.95;1.36;;;;;;;;;;;Africa Cup of Nations 2012;;Qualification;;;;;;;;0;1;;;;20:00;;Africa Cup;Qualifikation;2012;85;389;127;214;-42;175;0;-14;14
@@ -4835,7 +4835,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4834;2011-06-04;ISL;DNK;10;3.61;1.70;5.00;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;0;;;2;0;;;;20:45;2012;EM;Qualifikation;2012;116;254;27;808;89;-554;0;1;-1
 4835;2011-06-04;LVA;ISR;10;3.29;2.14;3.39;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;1;;;2;1;;;;18:30;2012;EM;Qualifikation;2012;78;438;33;709;45;-271;-2;0;-2
 4836;2011-06-04;MAR;DZA;10;3.26;4.49;1.77;;;;;;;;;;;Africa Cup of Nations 2012;;Qualification;;;;;;;;0;4;;;;22:00;;Africa Cup;Qualifikation;2012;73;445;41;609;32;-164;-1;-1;0
-4837;2011-06-04;MKD;IRL;10;3.12;2.42;3.02;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;0;;;2;0;;;;21:30;2012;EM;Qualifikation;2012;;;;;;;;;
+4837;2011-06-04;MKD;IRL;10;3.12;2.42;3.02;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;0;;;2;0;;;;21:30;2012;EM;Qualifikation;2012;;;34;681;;;;0;
 4838;2011-06-04;MNE;BGR;10;3.21;3.46;2.15;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;1;;;1;1;;;;20:30;2012;EM;Qualifikation;2012;24;820;46;591;-22;229;0;-1;1
 4839;2011-06-04;NAM;BFA;8;3.25;2.19;2.98;;;;;;;;;;;Africa Cup of Nations 2012;;Qualification;;;;;;;;4;1;;;;16:00;;Africa Cup;Qualifikation;2012;140;150;44;600;96;-450;1;-2;3
 4840;2011-06-04;PRT;NOR;10;4.93;10.11;1.31;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;1;;;0;1;;;;22:00;2012;EM;Qualifikation;2012;8;1052;11;987;-3;65;0;0;0
@@ -4987,7 +4987,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 4986;2011-09-02;GRD;BLZ;7;4.73;8.14;1.30;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;3;0;;;;21:30;;WM;Qualifikation;2014;118;249;148;146;-30;103;2;0;2
 4987;2011-09-02;HTI;VIR;6;9.50;22.20;1.06;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;0;6;;;;22:00;;WM;Qualifikation;2014;116;259;149;144;-33;115;1;0;1
 4988;2011-09-02;HUN;SWE;10;3.55;1.81;4.44;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;2;;;1;2;;;;19:45;2012;EM;Qualifikation;2012;45;613;18;889;27;-276;2;1;1
-4989;2011-09-02;IRL;SVK;10;3.41;4.92;1.77;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;0;;;0;0;;;;20:45;2012;EM;Qualifikation;2012;;;26;806;;;;3;
+4989;2011-09-02;IRL;SVK;10;3.41;4.92;1.77;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;0;;;0;0;;;;20:45;2012;EM;Qualifikation;2012;31;754;26;806;5;-52;2;3;-1
 4990;2011-09-02;IRN;IDN;10;7.82;17.95;1.10;38;Japan;Masaaki Iemoto;Azadi Stadium;75800;;;17:30;;WM-Qualifikation Asien;World Cup 2014;Gruppe E;Qualification - Second stage;;;;0;3;;;0;3;0;0;;17:30;;WM;Qualifikation;2014;53;559;131;207;-78;352;1;6;-5
 4991;2011-09-02;IRQ;JOR;10;3.46;5.17;1.66;34;Bahrain;Nawaf Shukralla;Al-Shaab Stadium;24000;;;16:00;;WM-Qualifikation Asien;World Cup 2014;Gruppe A;Qualification - Second stage;;;;2;0;;;2;0;1;0;;16:00;;WM;Qualifikation;2014;109;293;92;348;17;-55;-1;-1;0
 4992;2011-09-02;ISR;GRC;10;3.12;3.35;2.24;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;0;;;1;0;;;;15:05;2012;EM;Qualifikation;2012;32;746;14;937;18;-191;0;-1;1
@@ -5060,7 +5060,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5059;2011-09-06;PRK;TJK;6;6.07;12.70;1.15;39;Vietnam;Minh Tri Vo;Pjöngjang Yanggakdo Stadion;28000;;;00:00;;WM-Qualifikation Asien;World Cup 2014;Gruppe C;Qualification - Second stage;;;;0;1;;;0;1;0;1;;09:30;;WM;Qualifikation;2014;;;153;132;;;;-12;
 5060;2011-09-06;QAT;IRN;10;3.11;2.13;3.28;35;Südkorea;Myung-Yong Choi;Jassim Bin Hamad;8125;;;18:30;;WM-Qualifikation Asien;World Cup 2014;Gruppe E;Qualification - Second stage;;;;1;1;;;1;1;0;0;;18:30;;WM;Qualifikation;2014;88;364;53;559;35;-195;1;1;0
 5061;2011-09-06;ROU;FRA;10;3.29;1.93;4.15;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;0;;;0;0;;;;20:30;2012;EM;Qualifikation;2012;54;558;15;918;39;-360;-1;1;-2
-5062;2011-09-06;RUS;IRL;10;3.56;5.14;1.71;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;0;;;0;0;;;;17:00;2012;EM;Qualifikation;2012;13;940;;;;;4;;
+5062;2011-09-06;RUS;IRL;10;3.56;5.14;1.71;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;0;;;0;0;;;;17:00;2012;EM;Qualifikation;2012;13;940;31;754;-18;186;4;2;2
 5063;2011-09-06;SAU;AUS;10;3.13;2.27;3.03;39;Japan;Yuichi Nishimura;King Fahd International Stadium;15000;4-4-1-1;;00:00;;WM-Qualifikation Asien;World Cup 2014;Gruppe D;Qualification - Second stage;;;;3;1;;;3;1;1;0;;19:30;;WM;Qualifikation;2014;;;22;837;;;;0;
 5064;2011-09-06;SCO;LTU;10;3.74;6.22;1.59;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;0;1;;;0;1;;;;21:00;2012;EM;Qualifikation;2012;55;554;56;552;-1;2;6;2;4
 5065;2011-09-06;SGP;IRQ;10;3.32;1.87;3.85;35;Japan;Minoru Tojo;Jalan Besar Stadium;5504;;;13:30;;WM-Qualifikation Asien;World Cup 2014;Gruppe A;Qualification - Second stage;;;;2;0;;;2;0;0;0;;13:30;;WM;Qualifikation;2014;129;209;109;293;20;-84;2;-1;3
@@ -5078,7 +5078,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5077;2011-09-07;NIC;PAN;5;5.04;1.24;9.75;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;2;1;;;;03:00;;WM;Qualifikation;2014;179;75;62;524;117;-449;-1;3;-4
 5078;2011-09-07;PRI;CAN;1;5.50;1.20;10.50;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;3;0;;;;02:00;;WM;Qualifikation;2014;144;167;102;319;42;-152;-3;3;-6
 5079;2011-09-18;VCT;GRD;4;3.12;3.35;2.03;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;1;2;;;;21:00;;WM;Qualifikation;2014;;;118;249;;;;2;
-5080;2011-10-07;AND;IRL;10;11.13;1.06;34.66;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;0;;;2;0;;;;21:30;2012;EM;Qualifikation;2012;203;0;;;;;0;;
+5080;2011-10-07;AND;IRL;10;11.13;1.06;34.66;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;2;0;;;2;0;;;;21:30;2012;EM;Qualifikation;2012;203;0;29;749;174;-749;0;2;-2
 5081;2011-10-07;ARM;MKD;10;3.78;5.53;1.62;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;4;;;1;4;;;;17:00;2012;EM;Qualifikation;2012;44;610;;;;;27;;
 5082;2011-10-07;AZE;AUT;10;3.38;1.96;3.83;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;4;1;;;4;1;;;;18:00;2012;EM;Qualifikation;2012;97;359;77;442;20;-83;15;-9;24
 5083;2011-10-07;BEL;KAZ;10;9.07;25.95;1.09;;;;;;;;;Poland & Ukraine;;Euro 2012;;Qualification;qualification group;;;1;4;;;1;4;;;;20:45;2012;EM;Qualifikation;2012;34;729;132;198;-98;531;3;-6;9
@@ -5150,7 +5150,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5149;2011-10-11;HTI;CUF;6;8.00;18.67;1.09;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;2;2;;;;22:00;;WM;Qualifikation;2014;108;305;;;;;8;;
 5150;2011-10-11;HUN;FIN;10;3.46;4.31;1.85;38;Spanien;Alberto Undiano Mallenco;Ferenc-Puskás-Stadion;29000;;;20:00;Poland & Ukraine;EM-Qualifikation;Euro 2012;Gruppe E;Qualification;qualification group;;;0;0;;;0;0;0;0;;20:00;2012;EM;Qualifikation;2012;27;754;72;471;-45;283;18;7;11
 5151;2011-10-11;IDN;QAT;10;3.67;1.64;4.80;43;Singapur;Abdul Malik;Gelora Bung Karno Stadium;28000;;;14:00;;WM-Qualifikation Asien;World Cup 2014;Gruppe E;Qualification - Second stage;;;;3;2;;;3;2;2;2;;14:00;;WM;Qualifikation;2014;139;182;100;350;39;-168;-8;-12;4
-5152;2011-10-11;IRL;ARM;10;3.77;5.25;1.65;44;Spanien;Eduardo Iturralde González;Aviva Stadium;45200;4-2-3-1;4-4-2;19:45;Poland & Ukraine;EM-Qualifikation;Euro 2012;Gruppe B;Qualification;qualification group;;;1;2;;;1;2;0;1;;19:45;2012;EM;Qualifikation;2012;;;44;610;;;;27;
+5152;2011-10-11;IRL;ARM;10;3.77;5.25;1.65;44;Spanien;Eduardo Iturralde González;Aviva Stadium;45200;4-2-3-1;4-4-2;19:45;Poland & Ukraine;EM-Qualifikation;Euro 2012;Gruppe B;Qualification;qualification group;;;1;2;;;1;2;0;1;;19:45;2012;EM;Qualifikation;2012;29;749;44;610;-15;139;2;27;-25
 5153;2011-10-11;IRN;BHR;10;4.30;8.20;1.36;33;Australien;Peter Green;Azadi Stadium;60000;;;18:00;;WM-Qualifikation Asien;World Cup 2014;Gruppe E;Qualification - Second stage;;;;0;6;;;0;6;0;3;;18:00;;WM;Qualifikation;2014;50;576;102;335;-52;241;3;-1;4
 5154;2011-10-11;ITA;NIR;10;6.86;17.36;1.17;34;Spanien;Antonio Miguel Matéu Lahoz;Adriatico;19480;;;20:45;Poland & Ukraine;EM-Qualifikation;Euro 2012;Gruppe C;Qualification;qualification group;;;0;3;;;0;3;0;1;;20:45;2012;EM;Qualifikation;2012;6;1142;70;477;-64;665;1;-11;12
 5155;2011-10-11;JPN;TJK;10;10.80;27.39;1.04;34;Australien;Benjamin Williams;Nagai Stadium;44688;;4-2-3-1;12:45;;WM-Qualifikation Asien;World Cup 2014;Gruppe C;Qualification - Second stage;;;;0;8;;;0;8;0;4;;12:45;;WM;Qualifikation;2014;15;924;124;250;-109;674;0;29;-29
@@ -5199,7 +5199,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5198;2011-11-11;DJI;NAM;7;6.96;1.11;16.57;;;;;;;;;;;World Cup 2014;;Qualification - First stage;;;;;;;;4;0;;;;13:00;;WM;Qualifikation;2014;;;127;248;;;;-8;
 5199;2011-11-11;DOM;CYM;6;6.32;13.75;1.14;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;0;4;;;;20:00;;WM;Qualifikation;2014;128;245;;;;;11;;
 5200;2011-11-11;ERI;RWA;7;3.21;1.92;3.64;;;;;;;;;;;World Cup 2014;;Qualification - First stage;;;;;;;;1;1;;;;13:30;;WM;Qualifikation;2014;190;28;112;277;78;-249;0;31;-31
-5201;2011-11-11;EST;IRL;10;2.98;2.24;3.59;36;Ungarn;Viktor Kassai;A.Le Coq Arena;9600;4-4-2;4-2-3-1;20:45;Poland & Ukraine;EM-Qualifikation Play-Offs;Euro 2012;Relegation Hinspiele;Qualification - Promotion;qualification play-off;;;4;0;;;4;0;1;0;;20:45;2012;EM;Qualifikation;2012;59;542;;;;;-1;;
+5201;2011-11-11;EST;IRL;10;2.98;2.24;3.59;36;Ungarn;Viktor Kassai;A.Le Coq Arena;9600;4-4-2;4-2-3-1;20:45;Poland & Ukraine;EM-Qualifikation Play-Offs;Euro 2012;Relegation Hinspiele;Qualification - Promotion;qualification play-off;;;4;0;;;4;0;1;0;;20:45;2012;EM;Qualifikation;2012;59;542;25;812;34;-270;-1;4;-5
 5202;2011-11-11;GNB;TGO;7;3.07;3.03;2.22;;;;;;;;;;;World Cup 2014;;Qualification - First stage;;;;;;;;1;1;;;;17:00;;WM;Qualifikation;2014;167;106;94;359;73;-253;-4;1;-5
 5203;2011-11-11;GNQ;MDG;6;3.55;5.67;1.53;;;;;;;;;;;World Cup 2014;;Qualification - First stage;;;;;;;;0;2;;;;16:00;;WM;Qualifikation;2014;;;165;111;;;;-7;
 5204;2011-11-11;IRQ;CHN;10;3.23;2.96;2.28;33;Australien;Peter Green;Al-Shaab Stadium;5000;;;15:15;;WM-Qualifikation Asien;World Cup 2014;Gruppe A;Qualification - Second stage;;;;0;1;;;0;1;0;0;;15:15;;WM;Qualifikation;2014;91;379;;;;;16;;
@@ -5239,7 +5239,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5238;2011-11-15;HRV;TUR;10;3.65;5.64;1.66;41;Portugal;Pedro Proenca;Maksimir;30000;4-3-3 offensiv;4-4-2;20:05;Poland & Ukraine;EM-Qualifikation Play-Offs;Euro 2012;Relegation Rückspiele;Qualification - Promotion;qualification play-off;;;0;0;;;0;0;0;0;;20:05;2012;EM;Qualifikation;2012;12;1015;26;803;-14;212;-3;1;-4
 5239;2011-11-15;HTI;ATG;8;3.40;3.46;1.91;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;1;2;;;;21:00;;WM;Qualifikation;2014;107;307;90;381;17;-74;1;11;-10
 5240;2011-11-15;IDN;IRN;10;5.53;1.21;13.22;40;China;Hai Tan;Gelora Bung Karno Stadium;6000;;;13:00;;WM-Qualifikation Asien;World Cup 2014;Gruppe E;Qualification - Second stage;;;;4;1;;;4;1;3;1;;13:00;;WM;Qualifikation;2014;140;184;42;626;98;-442;-1;8;-9
-5241;2011-11-15;IRL;EST;10;4.73;10.12;1.34;38;Niederlande;Björn Kuipers;Aviva Stadium;51000;4-5-1 flach;4-4-2;20:45;Poland & Ukraine;EM-Qualifikation Play-Offs;Euro 2012;Relegation Rückspiele;Qualification - Promotion;qualification play-off;;;1;1;;;1;1;0;1;;20:45;2012;EM;Qualifikation;2012;;;59;542;;;;-1;
+5241;2011-11-15;IRL;EST;10;4.73;10.12;1.34;38;Niederlande;Björn Kuipers;Aviva Stadium;51000;4-5-1 flach;4-4-2;20:45;Poland & Ukraine;EM-Qualifikation Play-Offs;Euro 2012;Relegation Rückspiele;Qualification - Promotion;qualification play-off;;;1;1;;;1;1;0;1;;20:45;2012;EM;Qualifikation;2012;25;812;59;542;-34;270;4;-1;5
 5242;2011-11-15;JOR;IRQ;10;2.80;3.17;2.46;38;Vereinigte Arabische Emirate;Ali Hamad Al Badwawi;Amman International Stadium;13000;;;17:00;;WM-Qualifikation Asien;World Cup 2014;Gruppe A;Qualification - Second stage;;;;3;1;;;3;1;0;1;;17:00;;WM;Qualifikation;2014;81;428;91;379;-10;49;4;16;-12
 5243;2011-11-15;KEN;SYC;7;6.44;12.00;1.16;;;;;;;;;;;World Cup 2014;;Qualification - First stage;;;;;;;;0;4;;;;14:00;;WM;Qualifikation;2014;136;205;178;82;-42;123;-5;-1;-4
 5244;2011-11-15;KWT;ARE;10;3.70;5.60;1.59;41;Oman;Abdullah Al Hilali;Al-Sadaqua Walsalam Stadium;10000;;;15:30;;WM-Qualifikation Asien;World Cup 2014;Gruppe B;Qualification - Second stage;;;;1;2;;;1;2;1;0;;15:30;;WM;Qualifikation;2014;96;350;113;276;-17;74;3;-1;4
@@ -5402,7 +5402,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5401;2012-06-10;ESP;ITA;10;3.40;5.50;1.75;36;Ungarn;Viktor Kassai;PGE Arena;38869;3-5-2 flach;4-3-3 offensiv;18:00;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe C;;group;;;1;1;;;1;1;0;0;;18:00;2012;EM;Endrunde;2012;1;1456;12;977;-11;479;0;0;0
 5402;2012-06-10;ETH;CAF;10;3.23;4.24;1.86;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;0;2;;;;15:00;;WM;Qualifikation;2014;130;249;93;366;37;-117;8;30;-22
 5403;2012-06-10;GIN;EGY;10;3.03;2.52;2.76;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;3;2;;;;19:00;;WM;Qualifikation;2014;67;502;48;588;19;-86;1;9;-8
-5404;2012-06-10;IRL;HRV;10;3.15;2.02;4.15;39;Niederlande;Björn Kuipers;INEA Stadion;39550;4-4-2 doppel 6;4-4-2 doppel 6;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe C;;group;;;3;1;;;3;1;2;1;;20:45;2012;EM;Endrunde;2012;;;8;1053;;;;0;
+5404;2012-06-10;IRL;HRV;10;3.15;2.02;4.15;39;Niederlande;Björn Kuipers;INEA Stadion;39550;4-4-2 doppel 6;4-4-2 doppel 6;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe C;;group;;;3;1;;;3;1;2;1;;20:45;2012;EM;Endrunde;2012;18;907;8;1053;10;-146;0;0;0
 5405;2012-06-10;LBR;AGO;10;2.95;2.80;2.58;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;0;0;;;;18:00;;WM;Qualifikation;2014;124;277;84;416;40;-139;-12;-6;-6
 5406;2012-06-10;LBY;CMR;10;3.01;1.98;3.98;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;1;2;;;;18:00;;WM;Qualifikation;2014;42;608;64;515;-22;93;4;0;4
 5407;2012-06-10;LSO;SDN;10;3.86;1.51;6.14;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;0;0;;;;15:00;;WM;Qualifikation;2014;170;109;101;338;69;-229;-7;12;-19
@@ -5429,7 +5429,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5428;2012-06-13;NLD;DEU;10;3.24;2.48;2.96;38;Schweden;Jonas Eriksson;OSK Metalist;37750;4-2-3-1;4-2-3-1;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe B;;group;;;2;1;;;2;1;2;0;;20:45;2012;EM;Endrunde;2012;4;1234;3;1288;1;-54;0;-1;1
 5429;2012-06-13;PAN;CUB;10;6.29;14.68;1.18;;;;;;;;;;;World Cup 2014;;Qualification - Third stage;;;;;;;;0;1;;;;03:05;;WM;Qualifikation;2014;46;591;145;197;-99;394;6;-9;15
 5430;2012-06-13;SLV;MEX;10;4.82;1.34;8.24;;;;;;;;;;;World Cup 2014;;Qualification - Third stage;;;;;;;;2;1;;;;03:30;;WM;Qualifikation;2014;55;550;19;889;36;-339;-6;1;-7
-5431;2012-06-14;ESP;IRL;10;6.31;13.80;1.23;41;Portugal;Pedro Proenca;PGE Arena;39150;4-4-2 doppel 6;4-3-3 offensiv;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe C;;group;;;0;4;;;0;4;0;1;;20:45;2012;EM;Endrunde;2012;1;1456;;;;;0;;
+5431;2012-06-14;ESP;IRL;10;6.31;13.80;1.23;41;Portugal;Pedro Proenca;PGE Arena;39150;4-4-2 doppel 6;4-3-3 offensiv;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe C;;group;;;0;4;;;0;4;0;1;;20:45;2012;EM;Endrunde;2012;1;1456;18;907;-17;549;0;0;0
 5432;2012-06-14;ITA;HRV;10;3.12;3.14;2.45;40;England;Howard Webb;INEA Stadion;37096;4-4-2 doppel 6;3-5-2 flach;18:00;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe C;;group;;;1;1;;;1;1;0;1;;18:00;2012;EM;Endrunde;2012;12;977;8;1053;4;-76;0;0;0
 5433;2012-06-15;COD;SYC;;;;;38;Uganda;Fredrick Kayindi-Ngobi;Stade des Martyrs;;;;00:00;;Afrika Cup Quali;;1.Runde Rückspiele;;;;;0;3;;;0;3;0;2;;;;Africa Cup;Qualifikation;;59;496;189;48;-130;448;1;0;1
 5434;2012-06-15;DZA;GMB;10;4.61;8.87;1.31;42;Tunesien;Slim Jedidi;Stade Moustapha Tchaker;35000;;4-4-1-1;21:30;;Afrika Cup Quali;Africa Cup of Nations;1.Runde Rückspiele;Qualification;;;;1;4;;;1;4;1;2;;21:20;;Africa Cup;Qualifikation;;32;734;108;320;-76;414;6;5;1
@@ -5457,7 +5457,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5456;2012-06-17;TGO;KEN;10;3.67;5.46;1.58;;;;;;;;;;;Africa Cup of Nations;;Qualification;;;;;;;;0;1;;;;17:30;;Africa Cup;Qualifikation;;98;343;111;303;-13;40;-10;6;-16
 5457;2012-06-17;ZWE;BDI;10;3.65;5.93;1.55;;;;;;;;;;;Africa Cup of Nations;;Qualification;;;;;;;;0;1;;;;15:00;;Africa Cup;Qualifikation;;106;329;131;248;-25;81;-2;-4;2
 5458;2012-06-18;HRV;ESP;10;3.76;1.47;9.49;42;Deutschland;Wolfgang Stark;PGE Arena;39076;4-3-3 offensiv;4-2-3-1;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe C;;group;;;1;0;;;1;0;0;0;;20:45;2012;EM;Endrunde;2012;8;1053;1;1456;7;-403;0;0;0
-5459;2012-06-18;ITA;IRL;10;4.71;8.31;1.39;35;Türkei;Cüneyt Cakir;Stadion Miejski;39000;4-4-2 doppel 6;4-1-3-2;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe C;;group;;;0;2;;;0;2;0;1;;20:45;2012;EM;Endrunde;2012;12;977;;;;;0;;
+5459;2012-06-18;ITA;IRL;10;4.71;8.31;1.39;35;Türkei;Cüneyt Cakir;Stadion Miejski;39000;4-4-2 doppel 6;4-1-3-2;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe C;;group;;;0;2;;;0;2;0;1;;20:45;2012;EM;Endrunde;2012;12;977;18;907;-6;70;0;0;0
 5460;2012-06-19;ENG;UKR;10;3.32;4.10;1.98;36;Ungarn;Viktor Kassai;Donbass Arena;48000;4-4-2 doppel 6;4-4-2 doppel 6;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe D;;group;;;0;1;;;0;1;0;0;;20:45;2012;EM;Endrunde;2012;6;1145;52;572;-46;573;1;-2;3
 5461;2012-06-19;SWE;FRA;10;3.69;1.73;5.07;41;Portugal;Pedro Proenca;NSK Olimpisky;60000;4-3-3 offensiv;4-2-3-1;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Gruppe D;;group;;;0;2;;;0;2;0;0;;20:45;2012;EM;Endrunde;2012;17;910;14;964;3;-54;0;2;-2
 5462;2012-06-21;CZE;PRT;10;3.62;1.67;5.86;40;England;Howard Webb;Stadion Narodowy;55590;4-3-3 offensiv;4-2-3-1;20:45;Poland & Ukraine;Europameisterschaft 2012;Euro 2012;Viertelfinale;Play Offs;quarter final;;;1;0;;;1;0;0;0;;20:45;2012;EM;Endrunde;2012;27;771;10;996;17;-225;-1;-5;4
@@ -5481,7 +5481,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5480;2012-09-07;GEO;BLR;12;3.17;2.78;2.60;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;1;;;;19:00;;WM;Qualifikation;2014;86;405;76;443;10;-38;11;0;11
 5481;2012-09-07;HRV;MKD;12;5.31;11.52;1.28;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;1;;;;20:15;;WM;Qualifikation;2014;9;1020;;;;;0;;
 5482;2012-09-07;ISL;NOR;12;3.40;1.96;3.92;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;2;;;;20:45;;WM;Qualifikation;2014;118;283;34;682;84;-399;12;-9;21
-5483;2012-09-07;KAZ;IRL;12;3.55;1.66;5.71;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;1;;;;18:00;;WM;Qualifikation;2014;142;196;;;;;3;;
+5483;2012-09-07;KAZ;IRL;12;3.55;1.66;5.71;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;1;;;;18:00;;WM;Qualifikation;2014;142;196;26;768;116;-572;3;0;3
 5484;2012-09-07;LIE;BIH;12;6.39;1.19;15.14;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;8;1;;;;19:00;;WM;Qualifikation;2014;149;168;;;;;-1;;
 5485;2012-09-07;LTU;SVK;12;3.22;2.15;3.51;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;1;;;;20:15;;WM;Qualifikation;2014;116;290;45;616;71;-326;-31;-3;-28
 5486;2012-09-07;LUX;PRT;12;16.77;1.02;40.13;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;1;;;;20:45;;WM;Qualifikation;2014;106;326;4;1232;102;-906;4;1;3
@@ -5573,7 +5573,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5572;2012-10-12;FIN;GEO;12;3.49;4.71;1.77;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;1;;;;17:30;;WM;Qualifikation;2014;88;407;65;501;23;-94;8;21;-13
 5573;2012-10-12;FRO;SWE;12;9.62;1.08;25.47;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;1;;;;18:00;;WM;Qualifikation;2014;158;135;21;859;137;-724;-4;-3;-1
 5574;2012-10-12;GRC;BIH;12;3.24;3.31;2.22;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;0;;;;20:45;;WM;Qualifikation;2014;10;1029;;;;;1;;
-5575;2012-10-12;IRL;DEU;12;4.59;1.38;8.17;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;6;1;;;;20:45;;WM;Qualifikation;2014;;;2;1459;;;;0;
+5575;2012-10-12;IRL;DEU;12;4.59;1.38;8.17;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;6;1;;;;20:45;;WM;Qualifikation;2014;28;757;2;1459;26;-702;-2;0;-2
 5576;2012-10-12;KAZ;AUT;12;3.66;1.71;4.96;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;0;;;;18:00;;WM;Qualifikation;2014;147;178;59;528;88;-350;-5;-10;5
 5577;2012-10-12;LIE;LTU;12;3.60;1.65;5.53;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;0;;;;19:30;;WM;Qualifikation;2014;155;150;110;311;45;-161;-6;6;-12
 5578;2012-10-12;LUX;ISR;12;4.33;1.43;7.18;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;6;0;;;;21:00;;WM;Qualifikation;2014;142;191;82;423;60;-232;-36;-7;-29
@@ -5623,7 +5623,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5622;2012-10-16;CZE;BGR;12;3.50;5.36;1.70;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;0;;;;20:00;;WM;Qualifikation;2014;22;837;55;565;-33;272;-3;34;-37
 5623;2012-10-16;DEU;SWE;12;5.53;10.32;1.28;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;4;4;;;;20:45;;WM;Qualifikation;2014;2;1459;21;859;-19;600;0;-3;3
 5624;2012-10-16;ESP;FRA;12;4.39;7.65;1.43;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;1;;;;21:00;;WM;Qualifikation;2014;1;1611;13;1011;-12;600;0;2;-2
-5625;2012-10-16;FRO;IRL;12;4.75;1.35;9.10;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;4;1;;;;20:00;;WM;Qualifikation;2014;158;135;;;;;-4;;
+5625;2012-10-16;FRO;IRL;12;4.75;1.35;9.10;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;4;1;;;;20:00;;WM;Qualifikation;2014;158;135;28;757;130;-622;-4;-2;-2
 5626;2012-10-16;HND;CAN;12;3.51;5.56;1.66;;;;;;;;;;;World Cup 2014;;Qualification - Third stage;;;;;;;;1;8;;;;22:00;;WM;Qualifikation;2014;66;500;61;516;5;-16;6;12;-6
 5627;2012-10-16;HRV;WAL;12;5.53;12.59;1.25;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;2;;;;20:00;;WM;Qualifikation;2014;11;1023;57;551;-46;472;-2;-12;10
 5628;2012-10-16;HUN;TUR;12;3.27;2.45;2.88;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;3;;;;20:30;;WM;Qualifikation;2014;49;593;36;689;13;-96;-12;-1;-11
@@ -5775,7 +5775,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5774;2013-02-06;HND;USA;12;3.20;2.40;2.93;;;;;;;;;;;World Cup 2014;;Qualification - Fourth stage;;;;;;;;1;2;;;;22:00;;WM;Qualifikation;2014;59;543;28;782;31;-239;-1;0;-1
 5775;2013-02-06;HRV;KOR;12;3.28;3.54;2.10;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;4;;;;15:00;;Friendly International;;2013;10;1064;;;;;0;;
 5776;2013-02-06;IND;PSE;8;3.15;3.01;2.38;;;;;;;;;;;Friendly International 2013;;;;;;;;;;4;2;;;;14:00;;Friendly International;;2013;166;100;152;154;14;-54;0;0;0
-5777;2013-02-06;IRL;POL;12;3.13;2.52;2.90;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;2;;;;20:45;;Friendly International;;2013;;;56;555;;;;-1;
+5777;2013-02-06;IRL;POL;12;3.13;2.52;2.90;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;2;;;;20:45;;Friendly International;;2013;41;609;56;555;-15;54;1;-1;2
 5778;2013-02-06;IRN;LBN;12;6.16;16.08;1.15;;;;;;;;;;;Asian Cup;;Qualification;;;;;;;;0;5;;;;13:00;;Asian Cup;Qualifikation;;60;537;130;253;-70;284;-1;-3;2
 5779;2013-02-06;IRQ;IDN;11;7.72;22.05;1.08;;;;;;;;;;;Asian Cup;;Qualification;;;;;;;;0;1;;;;14:30;;Asian Cup;Qualifikation;;89;392;156;145;-67;247;3;0;3
 5780;2013-02-06;ISL;RUS;12;4.64;1.38;8.65;;;;;;;;;;;Friendly International 2013;;;;;;;;;;2;0;;;;20:30;;Friendly International;;2013;89;392;9;1070;80;-678;1;0;1
@@ -5856,7 +5856,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5855;2013-03-22;SMR;ENG;11;19.44;1.01;66.66;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;8;0;;;;21:00;;WM;Qualifikation;2014;207;0;4;1174;203;-1174;0;0;0
 5856;2013-03-22;SVK;LTU;11;4.01;7.29;1.49;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;1;;;;20:10;;WM;Qualifikation;2014;55;574;115;287;-60;287;-6;2;-8
 5857;2013-03-22;SVN;ISL;11;3.65;5.41;1.67;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;1;;;;18:00;;WM;Qualifikation;2014;56;567;92;392;-36;175;-2;6;-8
-5858;2013-03-22;SWE;IRL;11;4.04;6.81;1.51;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;0;;;;20:45;;WM;Qualifikation;2014;21;849;;;;;0;;
+5858;2013-03-22;SWE;IRL;11;4.04;6.81;1.51;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;0;;;;20:45;;WM;Qualifikation;2014;21;849;40;627;-19;222;0;-1;1
 5859;2013-03-22;URY;PRY;11;3.71;5.70;1.61;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;1;;;;23:00;;WM;Qualifikation;2014;16;950;38;640;-22;310;0;-3;3
 5860;2013-03-23;ARG;VEN;11;7.55;17.78;1.14;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;3;;;;01:00;;WM;Qualifikation;2014;3;1309;43;622;-40;687;0;2;-2
 5861;2013-03-23;BFA;NER;11;4.10;8.82;1.39;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;0;4;;;;19:00;;WM;Qualifikation;2014;50;588;93;389;-43;199;5;4;1
@@ -5898,7 +5898,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5897;2013-03-26;EGY;ZWE;11;6.53;16.11;1.17;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;1;2;;;;18:00;;WM;Qualifikation;2014;75;478;100;361;-25;117;-5;0;-5
 5898;2013-03-26;EST;AND;11;7.02;15.94;1.17;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;2;;;;18:00;;WM;Qualifikation;2014;89;408;204;11;-115;397;-7;0;-7
 5899;2013-03-26;FRA;ESP;11;3.19;2.19;3.45;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;0;;;;21:00;;WM;Qualifikation;2014;17;921;1;1610;16;-689;0;0;0
-5900;2013-03-26;IRL;AUT;11;3.16;3.06;2.43;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;2;;;;20:45;;WM;Qualifikation;2014;;;79;453;;;;-3;
+5900;2013-03-26;IRL;AUT;11;3.16;3.06;2.43;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;2;;;;20:45;;WM;Qualifikation;2014;40;627;79;453;-39;174;-1;-3;2
 5901;2013-03-26;JOR;JPN;11;3.60;1.67;5.35;35;Iran;Alireza Faghani;King Abdullah International Stadium;;4-2-3-1;4-2-3-1;15:00;;WM-Qualifikation Asien;World Cup 2014;Gruppe 2;Qualification - Third stage;;;;1;2;;;1;2;0;1;;15:00;;WM;Qualifikation;2014;90;394;26;811;64;-417;2;2;0
 5902;2013-03-26;KOR;QAT;11;5.45;12.50;1.25;40;Japan;Yuichi Nishimura;Seoul World Cup Stadium;;;4-2-3-1;12:00;;WM-Qualifikation Asien;World Cup 2014;Gruppe 1;Qualification - Third stage;;;;1;2;;;1;2;0;0;;12:00;;WM;Qualifikation;2014;;;98;364;;;;3;
 5903;2013-03-26;KWT;IRN;11;3.06;2.20;3.30;;;;;;;;;;;Asian Cup;;Qualification;;;;;;;;1;1;;;;17:35;;Asian Cup;Qualifikation;;113;294;57;540;56;-246;-3;1;-4
@@ -5933,7 +5933,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5932;2013-05-28;TUR;LVA;11;5.16;9.59;1.30;;;;;;;;;;;Friendly International 2013;;;;;;;;;;3;3;;;;20:45;;Friendly International;;2013;44;634;110;322;-66;312;0;0;0
 5933;2013-05-29;CAN;CRI;11;3.09;2.49;2.94;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;0;;;;02:00;;Friendly International;;2013;80;457;48;616;32;-159;-1;-1;0
 5934;2013-05-29;DEU;ECU;11;3.44;3.69;1.96;;;;;;;;;;;Friendly International 2013;;;;;;;;;;2;4;;;;20:30;;Friendly International;;2013;2;1428;10;1058;-8;370;0;0;0
-5935;2013-05-29;ENG;IRL;11;4.23;7.21;1.46;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;1;;;;21:00;;Friendly International;;2013;7;1135;;;;;0;;
+5935;2013-05-29;ENG;IRL;11;4.23;7.21;1.46;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;1;;;;21:00;;Friendly International;;2013;7;1135;39;662;-32;473;0;0;0
 5936;2013-05-29;QAT;AZE;10;3.28;3.60;2.03;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;1;;;;18:15;;Friendly International;;2013;101;345;120;276;-19;69;1;0;1
 5937;2013-05-30;JPN;BGR;11;3.70;5.54;1.63;;;;;;;;;;;Friendly International 2013;;;;;;;;;;2;0;;;;12:20;;Friendly International;;2013;30;773;52;583;-22;190;-1;-1;0
 5938;2013-05-30;USA;BEL;11;3.35;2.13;3.35;;;;;;;;;;;Friendly International 2013;;;;;;;;;;4;2;;;;02:00;;Friendly International;;2013;29;779;15;953;14;-174;-1;1;-2
@@ -5944,7 +5944,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5943;2013-06-02;BRA;ENG;11;4.19;6.24;1.51;;;;;;;;;;;Friendly International 2013;;;;;;;;;;2;2;;;;21:00;;Friendly International;;2013;19;902;7;1135;12;-233;0;0;0
 5944;2013-06-02;DZA;BFA;10;3.22;3.94;1.94;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;2;;;;18:00;;Friendly International;;2013;35;735;50;587;-15;148;0;0;0
 5945;2013-06-02;HND;ISR;11;3.24;2.41;2.91;;;;;;;;;;;Friendly International 2013;;;;;;;;;;2;0;;;;23:30;;Friendly International;;2013;50;587;59;536;-9;51;2;-1;3
-5946;2013-06-02;IRL;GEO;11;3.65;5.97;1.60;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;4;;;;18:30;;Friendly International;;2013;;;96;394;;;;-5;
+5946;2013-06-02;IRL;GEO;11;3.65;5.97;1.60;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;4;;;;18:30;;Friendly International;;2013;39;662;96;394;-57;268;0;-5;5
 5947;2013-06-02;LSO;ZAF;9;4.26;1.40;7.69;;;;;;;;;;;Friendly International 2013;;;;;;;;;;2;0;;;;15:00;;Friendly International;;2013;155;154;56;541;99;-387;1;6;-5
 5948;2013-06-02;UKR;CMR;11;3.84;5.83;1.58;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;0;;;;20:00;;Friendly International;;2013;37;675;62;533;-25;142;0;-2;2
 5949;2013-06-02;USA;DEU;11;3.50;1.99;3.63;;;;;;;;;;;Friendly International 2013;;;;;;;;;;3;4;;;;20:30;;Friendly International;;2013;29;779;2;1428;27;-649;-1;0;-1
@@ -5981,7 +5981,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 5980;2013-06-07;FIN;BLR;11;3.33;3.16;2.24;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;1;;;;18:00;;WM;Qualifikation;2014;84;442;67;506;17;-64;-1;2;-3
 5981;2013-06-07;HRV;SCO;11;4.83;9.56;1.34;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;0;;;;20:15;;WM;Qualifikation;2014;4;1222;74;481;-70;741;0;4;-4
 5982;2013-06-07;IDN;NLD;11;11.59;1.05;30.56;;;;;;;;;;;Friendly International 2013;;;;;;;;;;3;0;;;;15:30;;Friendly International;;2013;170;116;5;1158;165;-1042;0;4;-4
-5983;2013-06-07;IRL;FRO;11;10.83;32.65;1.06;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;3;;;;20:45;;WM;Qualifikation;2014;;;162;138;;;;-1;
+5983;2013-06-07;IRL;FRO;11;10.83;32.65;1.06;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;3;;;;20:45;;WM;Qualifikation;2014;41;659;162;138;-121;521;-2;-1;-1
 5984;2013-06-07;ISL;SVN;11;3.24;2.59;2.74;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;4;2;;;;21:00;;WM;Qualifikation;2014;61;541;55;568;6;-27;12;0;12
 5985;2013-06-07;LAO;SGP;9;5.37;1.27;9.21;;;;;;;;;;;Friendly International 2013;;;;;;;;;;5;2;;;;13:00;;Friendly International;;2013;168;118;165;134;3;-16;0;0;0
 5986;2013-06-07;LBY;COD;11;3.25;4.12;1.88;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;0;0;;;;17:30;;WM;Qualifikation;2014;69;498;59;496;10;2;-4;1;-5
@@ -6034,7 +6034,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 6033;2013-06-11;QAT;PRK;11;3.03;3.26;2.29;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;0;;;;15:30;;Friendly International;;2013;104;338;;;;;-3;;
 6034;2013-06-11;SWE;FRO;11;15.83;45.67;1.02;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;2;;;;19:15;;WM;Qualifikation;2014;27;830;162;138;-135;692;-3;-1;-2
 6035;2013-06-12;CHL;BOL;11;6.46;14.48;1.19;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;3;;;;02:30;;WM;Qualifikation;2014;25;841;53;578;-28;263;-2;5;-7
-6036;2013-06-12;ESP;IRL;11;6.01;13.45;1.22;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;2;;;;02:00;;Friendly International;;2013;1;1614;;;;;0;;
+6036;2013-06-12;ESP;IRL;11;6.01;13.45;1.22;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;2;;;;02:00;;Friendly International;;2013;1;1614;41;659;-40;955;0;-2;2
 6037;2013-06-12;GHA;CIV;8;3.06;2.74;2.65;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;2;;;;18:00;;Friendly International;;2013;21;887;13;1022;8;-135;1;-1;2
 6038;2013-06-12;HND;JAM;11;3.72;6.47;1.54;;;;;;;;;;;World Cup 2014;;Qualification - Fourth stage;;;;;;;;0;2;;;;03:00;;WM;Qualifikation;2014;52;582;49;602;3;-20;-2;4;-6
 6039;2013-06-12;MEX;CRI;11;4.65;9.82;1.32;;;;;;;;;;;World Cup 2014;;Qualification - Fourth stage;;;;;;;;0;0;;;;02:00;;WM;Qualifikation;2014;17;928;48;617;-31;311;-1;0;-1
@@ -6166,7 +6166,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 6165;2013-08-14;TUN;COG;10;3.68;5.84;1.57;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;3;;;;21:30;;Friendly International;;2013;53;596;92;385;-39;211;-6;-2;-4
 6166;2013-08-14;TUR;GHA;9;3.28;3.58;2.08;;;;;;;;;;;Friendly International 2013;;;;;;;;;;2;2;;;;20:00;;Friendly International;;2013;58;573;24;830;34;-257;-1;0;-1
 6167;2013-08-14;UKR;ISR;10;3.60;5.02;1.71;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;2;;;;20:00;;Friendly International;;2013;28;774;63;540;-35;234;0;1;-1
-6168;2013-08-14;WAL;IRL;11;3.21;2.53;2.82;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;0;;;;20:45;;Friendly International;;2013;46;630;;;;;0;;
+6168;2013-08-14;WAL;IRL;11;3.21;2.53;2.82;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;0;;;;20:45;;Friendly International;;2013;46;630;44;639;2;-9;0;0;0
 6169;2013-08-14;ZAF;NGA;7;3.24;2.73;2.53;;;;;;;;;;;Friendly International 2013;;;;;;;;;;2;0;;;;20:15;;Friendly International;;2013;67;530;35;700;32;-170;-8;0;-8
 6170;2013-08-14;ZMB;SEN;9;3.13;2.36;3.01;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;1;;;;19:00;;Friendly International;;2013;60;550;78;452;-18;98;0;-4;4
 6171;2013-08-15;DOM;CRI;2;4.05;1.44;6.63;;;;;;;;;;;Friendly International 2013;;;;;;;;;;4;0;;;;02:00;;Friendly International;;2013;86;421;42;651;44;-230;4;-3;7
@@ -6189,7 +6189,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 6188;2013-09-06;FIN;ESP;11;6.11;1.22;14.47;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;0;;;;20:30;;WM;Qualifikation;2014;65;537;1;1484;64;-947;0;0;0
 6189;2013-09-06;GEO;FRA;11;4.50;1.39;8.92;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;0;;;;20:15;;WM;Qualifikation;2014;97;369;23;838;74;-469;1;0;1
 6190;2013-09-06;GHA;ZMB;10;3.67;6.63;1.54;;;;;;;;;;;World Cup 2014;;Qualification - Second stage;;;;;;;;1;2;;;;18:00;;WM;Qualifikation;2014;24;830;60;550;-36;280;0;0;0
-6191;2013-09-06;IRL;SWE;11;3.20;2.67;2.73;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;1;;;;20:45;;WM;Qualifikation;2014;;;30;765;;;;1;
+6191;2013-09-06;IRL;SWE;11;3.20;2.67;2.73;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;1;;;;20:45;;WM;Qualifikation;2014;44;639;30;765;14;-126;0;1;-1
 6192;2013-09-06;ITA;BGR;11;4.32;8.83;1.40;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;1;;;;20:45;;WM;Qualifikation;2014;6;1142;53;596;-47;546;0;-1;1
 6193;2013-09-06;JOR;UZB;10;2.93;2.57;2.95;41;Japan;Yuichi Nishimura;King Abdullah International Stadium;16819;;;18:00;;WM-Qualifikation Asien;World Cup 2014;5. Runde Hinspiele;Qualification - Fourth stage;;;;1;1;;;1;1;1;1;;18:00;;WM;Qualifikation;2014;71;495;59;566;12;-71;5;-1;6
 6194;2013-09-06;JPN;GTM;10;7.00;14.77;1.15;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;3;;;;12:25;;Friendly International;;2013;37;695;93;377;-56;318;0;0;0
@@ -6241,7 +6241,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 6240;2013-09-09;SAU;TTO;9;3.48;4.11;1.76;;;;;;;;;;;Friendly International 2013;;;;;;;;;;3;1;;;;17:45;;Friendly International;;2013;;;78;452;;;;9;
 6241;2013-09-10;AND;NLD;11;22.48;1.01;73.50;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;0;;;;20:30;;WM;Qualifikation;2014;205;8;5;1165;200;-1157;0;0;0
 6242;2013-09-10;ARM;DNK;11;3.47;2.16;3.30;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;0;;;;18:00;;WM;Qualifikation;2014;66;534;27;788;39;-254;0;0;0
-6243;2013-09-10;AUT;IRL;11;3.49;4.14;1.89;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;1;;;;20:45;;WM;Qualifikation;2014;55;595;;;;;-1;;
+6243;2013-09-10;AUT;IRL;11;3.49;4.14;1.89;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;1;;;;20:45;;WM;Qualifikation;2014;55;595;44;639;11;-44;-1;0;-1
 6244;2013-09-10;BLR;FRA;11;3.78;1.56;6.72;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;4;2;;;;21:00;;WM;Qualifikation;2014;73;482;23;838;50;-356;5;0;5
 6245;2013-09-10;BOL;ECU;10;3.38;1.96;3.87;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;1;;;;22:00;;WM;Qualifikation;2014;64;538;17;972;47;-434;4;1;3
 6246;2013-09-10;CAN;MRT;7;3.55;4.45;1.76;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;0;;;;17:30;;Friendly International;;2013;91;386;151;159;-60;227;-3;21;-24
@@ -6292,7 +6292,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 6291;2013-10-11;AZE;NIR;13;3.06;2.55;2.95;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;2;;;;18:00;;WM;Qualifikation;2014;107;315;86;431;21;-116;8;23;-15
 6292;2013-10-11;BIH;LIE;13;18.91;52.25;1.02;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;4;;;;20:00;;WM;Qualifikation;2014;;;156;142;;;;-8;
 6293;2013-10-11;COL;CHL;13;3.33;3.91;1.96;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;3;3;;;;23:00;;WM;Qualifikation;2014;5;1180;16;967;-11;213;-2;5;-7
-6294;2013-10-11;DEU;IRL;13;7.88;17.11;1.15;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;3;;;;20:45;;WM;Qualifikation;2014;3;1261;;;;;-1;;
+6294;2013-10-11;DEU;IRL;13;7.88;17.11;1.15;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;3;;;;20:45;;WM;Qualifikation;2014;3;1261;59;570;-56;691;-1;-15;14
 6295;2013-10-11;DNK;ITA;13;3.34;2.93;2.40;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;2;2;;;;20:15;;WM;Qualifikation;2014;23;825;4;1199;19;-374;4;2;2
 6296;2013-10-11;ECU;URY;13;3.19;3.33;2.22;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;0;1;;;;23:00;;WM;Qualifikation;2014;20;851;7;1126;13;-275;-3;5;-8
 6297;2013-10-11;ENG;MNE;13;5.24;11.84;1.28;;;;;;;;;;;World Cup 2014;;Qualification;;;;;;;;1;4;;;;21:00;;WM;Qualifikation;2014;17;947;27;766;-10;181;-3;1;-4
@@ -6345,7 +6345,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 6344;2013-10-15;HKG;ARE;12;4.38;1.34;8.36;;;;;;;;;;;Asian Cup;;Qualification;;;;;;;;4;0;;;;14:00;;Asian Cup;Qualifikation;;148;174;82;456;66;-282;-4;2;-6
 6345;2013-10-15;HUN;AND;13;19.82;49.25;1.02;36;Polen;Daniel Stefanski;Ferenc-Puskás-Stadion;;;4-4-2 doppel 6;20:00;;WM-Qualifikation Europa;World Cup 2014;Gruppe D;Qualification;;;;0;2;;;0;2;0;0;;20:00;;WM;Qualifikation;2014;30;744;200;16;-170;728;1;5;-4
 6346;2013-10-15;IDN;CHN;13;5.25;1.24;10.98;;;;;;;;;;;Asian Cup;;Qualification;;;;;;;;1;1;;;;14:00;;Asian Cup;Qualifikation;;170;102;;;;;-1;;
-6347;2013-10-15;IRL;KAZ;13;5.70;13.41;1.23;32;Lettland;Vadims Direktorenko;Aviva Stadium;;;;20:45;;WM-Qualifikation Europa;World Cup 2014;Gruppe C;Qualification;;;;1;3;;;1;3;1;2;;20:45;;WM;Qualifikation;2014;;;132;227;;;;17;
+6347;2013-10-15;IRL;KAZ;13;5.70;13.41;1.23;32;Lettland;Vadims Direktorenko;Aviva Stadium;;;;20:45;;WM-Qualifikation Europa;World Cup 2014;Gruppe C;Qualification;;;;1;3;;;1;3;1;2;;20:45;;WM;Qualifikation;2014;59;570;132;227;-73;343;-15;17;-32
 6348;2013-10-15;IRN;THA;13;7.49;14.07;1.13;;;;;;;;;;;Asian Cup;;Qualification;;;;;;;;1;2;;;;17:30;;Asian Cup;Qualifikation;;48;633;139;206;-91;427;4;-2;6
 6349;2013-10-15;IRQ;SAU;13;2.91;2.75;2.62;;;;;;;;;;;Asian Cup;;Qualification;;;;;;;;2;0;;;;18:30;;Asian Cup;Qualifikation;;105;325;;;;;-1;;
 6350;2013-10-15;ISR;NIR;13;4.16;6.50;1.50;45;Frankreich;Laurent Duhamel;Ramat Gan;;4-2-3-1;4-2-3-1;19:00;;WM-Qualifikation Europa;World Cup 2014;Gruppe F;Qualification;;;;1;1;;;1;1;0;1;;19:00;;WM;Qualifikation;2014;69;522;86;431;-17;91;-6;23;-29
@@ -6395,7 +6395,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 6394;2013-11-15;EST;AZE;12;3.18;3.28;2.22;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;2;;;;17:45;;Friendly International;;2013;99;351;88;407;11;-56;-11;19;-30
 6395;2013-11-15;GRC;ROU;13;3.15;4.32;1.98;;;;;;;;;;;World Cup 2014;;Qualification - Promotion;;;;;;;;1;3;;;;20:45;;WM;Qualifikation;2014;15;983;29;767;-14;216;-3;2;-5
 6396;2013-11-15;IND;PHL;10;3.22;2.76;2.44;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;1;;;;13:30;;Friendly International;;2013;154;151;137;213;17;-62;1;4;-3
-6397;2013-11-15;IRL;LVA;13;5.19;11.31;1.28;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;3;;;;20:45;;Friendly International;;2013;;;117;277;;;;-2;
+6397;2013-11-15;IRL;LVA;13;5.19;11.31;1.28;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;3;;;;20:45;;Friendly International;;2013;60;550;117;277;-57;273;-1;-2;1
 6398;2013-11-15;ISL;HRV;13;3.30;1.94;4.24;;;;;;;;;;;World Cup 2014;;Qualification - Promotion;;;;;;;;0;0;;;;20:00;;WM;Qualifikation;2014;46;633;18;901;28;-268;8;-8;16
 6399;2013-11-15;ITA;DEU;12;3.40;2.37;2.87;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;1;;;;20:45;;Friendly International;;2013;8;1136;2;1311;6;-175;-4;1;-5
 6400;2013-11-15;KOR;CHE;13;3.20;2.40;2.98;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;2;;;;12:00;;Friendly International;;2013;;;7;1138;;;;7;
@@ -6448,7 +6448,7 @@ X;b_date;b_team_home;b_team_away;b_bookie_num_sources;b_bookie_quote_draw;b_book
 6447;2013-11-19;NAM;MOZ;9;3.13;3.43;2.08;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;0;;;;19:00;;Friendly International;;2013;128;246;115;282;13;-36;-1;1;-2
 6448;2013-11-19;NLD;COL;12;3.32;3.26;2.21;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;0;;;;20:30;;Friendly International;;2013;8;1136;4;1178;4;-42;1;1;0
 6449;2013-11-19;NOR;SCO;13;3.26;3.42;2.16;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;0;;;;19:00;;Friendly International;;2013;47;632;35;715;12;-83;-8;28;-36
-6450;2013-11-19;POL;IRL;12;3.27;3.46;2.12;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;0;;;;20:45;;Friendly International;;2013;69;503;;;;;-4;;
+6450;2013-11-19;POL;IRL;12;3.27;3.46;2.12;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;0;;;;20:45;;Friendly International;;2013;69;503;60;550;9;-47;-4;-1;-3
 6451;2013-11-19;ROU;GRC;13;3.18;3.22;2.35;40;Serbien;Milorad Mazic;National Arena;53174;4-3-3 defensiv;4-4-2 Raute;20:00;;WM-Qualifikation Play-Offs;World Cup 2014;Qualifikationsrunde - Rückspiele;Qualification - Promotion;;;;1;1;;;1;1;1;0;;20:00;;WM;Qualifikation;2014;29;767;15;983;14;-216;2;-3;5
 6452;2013-11-19;RUS;KOR;13;3.27;3.73;2.06;;;;;;;;;;;Friendly International 2013;;;;;;;;;;1;2;;;;15:00;;Friendly International;;2013;19;874;;;;;-4;;
 6453;2013-11-19;SVK;GIB;9;12.38;26.22;1.04;;;;;;;;;;;Friendly International 2013;;;;;;;;;;0;0;;;;19:30;;Friendly International;;2013;65;528;;;;;-5;;
