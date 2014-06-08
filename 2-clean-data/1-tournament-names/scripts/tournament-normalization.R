@@ -1,4 +1,4 @@
-data <- read.csv2("input/games.csv", colClasses="character")
+data <- read.csv2("../../1-merge-data/output/games.csv", colClasses="character")
 
 remove_year <- function(s) {
   s <- gsub("[0-9]","",s)

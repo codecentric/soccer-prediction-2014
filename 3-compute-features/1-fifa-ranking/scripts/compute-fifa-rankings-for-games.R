@@ -1,5 +1,5 @@
 # Daten zu vergangenen Spielen einlesen und type-casten
-data <- read.csv("../../1-merge-data/output/games.csv", sep=";", colClasses="character")
+data <- read.csv("../../2-clean-data/1-tournament-names/output/games.csv", sep=";", colClasses="character")
 spiele <- data
 spiele$date <-strptime(spiele$b_date, format="%Y-%m-%d")
 
