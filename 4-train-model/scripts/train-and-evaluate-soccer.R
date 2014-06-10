@@ -1,5 +1,6 @@
 source("scripts/train-and-evaluate-runner.R")
 source("scripts/prepare-soccer-data.R")
+source("scripts/multiplot.R")
 library(caret)
 
 
@@ -29,7 +30,6 @@ configurations = build_run_configurations(
 train_results <- lapply(configurations, run_train)
 test_results <- lapply(train_results, run_evaluate)
 
-source("multiplot.R")
 plots <- lapply(test_results,function(test_result) {
   ggplot(test_result$fitted) +  
     ggtitle(test_result$title) +
