@@ -1,17 +1,22 @@
+source("scripts/prepare-soccer-data.R")
 source("scripts/multiplot.R")
 library(caret)
 
 load(file="output/trained-random-forest-models.RData")
 
-plots <- lapply(test_results,function(test_result) {
-  #TODO: Parameter-Plot mit dem "all"-model, wm-2010-accuracy-plot mit dem "pre-2014"-model
-  ggplot(test_result$fitted) +  
-    ggtitle(test_result$title) +
-    coord_cartesian(ylim=c(.5,.8)) +
-    geom_hline(
-      yintercept=test_result$confusionMatrix$overall["Accuracy"],
-      color="red")
-})
+plots <- list()
+for (datasetName in names(soccer.datasets)) {
+  for (featuresetName in names(soccer.featuresets)) {
+    allModel = test_results[[paste(datasetName, ".all.",featuresetName,".randomForest", sep="")]]
+    wm2010Model = test_results[[paste(datasetName, ".wm2010.",featuresetName,".randomForest", sep="")]]
+    plots <- append(plots, list(ggplot(allModel$fitted) +  
+      ggtitle(allModel$title) +
+      coord_cartesian(ylim=c(.5,.8)) +
+      geom_hline(
+        yintercept=wm2010Model$confusionMatrix$overall["Accuracy"],
+        color="red")))
+  }
+}
 
 png("output/random-forest-models-comparison.png", width=1600,height=900)
 multiplot(plotlist=plots, cols=3)
