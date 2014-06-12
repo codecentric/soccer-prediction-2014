@@ -60,6 +60,10 @@ def fix_country(input, line):
     assert country_name_to_iso.has_key(input.lower()), "Unknown country %r" % input
     return country_name_to_iso[input.lower()]
 
+def read_wm2014(fn):
+    data = CSV(fn)
+    return data.get_as_map(None, "b_date", "b_team_home", "b_team_away")
+
 
 def read_michael(fn):
     data = CSV(fn)
@@ -192,7 +196,6 @@ def read_valentin(fn):
     data.rename_column("tournament", "b_tournament_name2")
     data.rename_column("tournamentStageName", "b_tournament_phase2")
     data.rename_column("extraTime/Penalties", "r_extra_time_penalties")
-
     return data.get_as_map(None, "b_date", "b_team_home", "b_team_away")
 
 
@@ -226,21 +229,22 @@ def show_conflicting_information(s1, s2, s3):
                 print
 
 
-def write_combined_files(filename, s1, s2, s3):
+def write_combined_files(filename, s1, s2, s3, s4):
     all = {}
-    for key in sorted(list(set(s1.keys() + s2.keys() + s3.keys()))):
-        transfer_markt = s1.get(key, None)
+    for key in sorted(list(set(s1.keys() + s2.keys() + s3.keys() + s4.keys()))):
+        v1 = s1.get(key, None)
         v2 = s2.get(key, None)
         v3 = s3.get(key, None)
+        v4 = s4.get(key, None)
 
         m = {}
-        # transfer markt has the best data quality so use it last
-        v = [v3, v2, transfer_markt]
+        # v1  has the best data quality so use it last
+        v = [v4, v3, v2, v1]
         v = [x for x in v if x]
         for i in v:
             m.update(i)
         all[key] = m
-    new_cols = sorted(list(set(s1.values()[0].keys() + s2.values()[0].keys() + s3.values()[0].keys())))
+    new_cols = sorted(list(set(s1.values()[0].keys() + s2.values()[0].keys() + s3.values()[0].keys() + s4.values()[0].keys())))
     new_cols.remove("b_date")
     new_cols.remove("b_team_home")
     new_cols.remove("b_team_away")
@@ -265,6 +269,7 @@ s1 = read_michael("../0-raw-sources/from-michael.csv")
 s2 = read_dataminingsoccer("../0-raw-sources/european_cups.csv",
                            "../0-raw-sources/world_cups.csv")
 s3 = read_valentin("../0-raw-sources/from-valentin.csv")
+s4 = read_wm2014("../0-raw-sources/wm-2014.csv")
 
 show_conflicting_information(s1, s2, s3)
-write_combined_files("output/games.csv", s1, s2, s3)
+write_combined_files("output/games.csv", s1, s2, s3, s4)
