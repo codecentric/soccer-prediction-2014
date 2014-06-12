@@ -49,13 +49,19 @@ public class Matches implements Iterable<Match>{
                 } else {
                     assert values.length == columnNames.size();
                     Map<String, String> asMap = asMap(values);
-                    if (asMap.get("r_goals_before_penalties_home").length() > 0 && asMap.get("r_goals_before_penalties_away").length() > 0) {
-                        try {
-                            matches.add(new Match(values, asMap));
-                        } catch (ParseException e) {
-                            throw new RuntimeException(e);
-                        }
-                    }
+
+		    if (asMap.get("r_goals_before_penalties_home").length() == 0 || asMap.get("r_goals_before_penalties_away").length() == 0) {
+			// A small hack to work around the problem, that we don't have results for the championship 2014 (yet)
+		        asMap.put("r_goals_before_penalties_home","0");
+			asMap.put("r_goals_before_penalties_away","0");
+		        asMap.put("r_goals_before_penalties_home","0");
+			asMap.put("r_goals_before_penalties_away","0");
+		    }
+		    try {
+			matches.add(new Match(values, asMap));
+		    } catch (ParseException e) {
+			throw new RuntimeException(e);
+		    }
                 }
             }
         });
