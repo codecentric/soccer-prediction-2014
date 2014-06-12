@@ -97,6 +97,13 @@ soccer.splits <- list(
   #    trainData=dataset[trainIndex,],
   #    testData=dataset[-trainIndex,])
   #},
+  all=function(dataset, target) {
+    list(
+      trainData=dataset,
+      testData=dataset[c(),]
+    )
+  }
+  ,
   wm2010=function(dataset, target) {
     list(
       trainData=dataset[dataset$b_date < as.Date("2010-06-11"),],

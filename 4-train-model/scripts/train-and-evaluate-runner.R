@@ -63,6 +63,9 @@ run_train <- function(configuration) {
 }
 
 run_evaluate <- function(configuration) {
+  if (nrow(configuration$testData) == 0) {
+    return(configuration)
+  }
   predictionProb <- predict(
     configuration$fitted, 
     newdata=configuration$testData,
