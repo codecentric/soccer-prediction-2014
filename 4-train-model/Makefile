@@ -1,3 +1,5 @@
+all: train plot predict
+
 train:
 	Rscript scripts/train-and-evaluate-soccer.R
 
