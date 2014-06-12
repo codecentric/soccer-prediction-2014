@@ -30,9 +30,12 @@ configurations = build_run_configurations(
 train_results <- lapply(configurations, run_train)
 test_results <- lapply(train_results, run_evaluate)
 
+load("output/wm-2010-models.RData")
+
 plots <- lapply(test_results,function(test_result) {
   ggplot(test_result$fitted) +  
     ggtitle(test_result$title) +
+    coord_cartesian(ylim=c(.5,.8)) +
     geom_hline(
       yintercept=test_result$confusionMatrix$overall["Accuracy"],
       color="red")
