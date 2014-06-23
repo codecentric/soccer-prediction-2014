@@ -62,7 +62,7 @@ def fix_country(input, line):
 
 def read_wm2014(fn):
     data = CSV(fn)
-    return data.get_as_map(None, "b_date", "b_team_home", "b_team_away")
+    return data.get_as_map(None, "b_date", "b_team_home", "b_team_away","b_tournament_group","b_tournament_name1","b_tournament_country","b_tournament_phase1")
 
 
 def read_michael(fn):

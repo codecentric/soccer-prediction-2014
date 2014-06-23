@@ -54,8 +54,7 @@ run_train <- function(configuration) {
     data=configuration$trainData,
     method=configuration$modelConfiguration$method,
     trControl=configuration$modelConfiguration$trControl,
-    tuneGrid=configuration$modelConfiguration$tuneGrid,
-    verbose=FALSE
+    tuneGrid=configuration$modelConfiguration$tuneGrid
   )
   append(
     configuration,

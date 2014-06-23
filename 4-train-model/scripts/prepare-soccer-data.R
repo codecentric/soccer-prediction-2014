@@ -1,5 +1,4 @@
 library(caret)
-
 data <- read.csv2("../3-compute-features/3-graph-based/output/games-with-graph-features.csv", colClasses="character")
   
 data$b_date <- as.Date(data$b_date)
@@ -79,7 +78,7 @@ build_soccer_data <- function(tournaments=NULL, since=NULL, include_qualificatio
   if (length(features) == 1 && features == "all") {
     features <- all_features
   }
-  return(thedata[,c("b_date", "b_team_home","b_team_away", "b_tournament_name", "b_tournament_phase", "b_tournament_year", possible_targets, features)])
+  return(thedata[,c("b_date", "b_team_home","b_team_away", "b_tournament_name", "b_tournament_phase", "b_tournament_year", "b_tournament_group", possible_targets, features)])
 }
 
 soccer.datasets <- list(
@@ -122,7 +121,8 @@ soccer.featuresets <- list(
   #graph=graph_features,
   notgraph=notgraph_features,
   diff=diff_features,
-  notdiff=notdiff_features
+  notdiff=notdiff_features,
+  selected=c("b_fifa_ranking_home","b_fifa_ranking_away","b_last_3_games_goal_average_home_team")
 )
 
 soccer.targets <- list(
