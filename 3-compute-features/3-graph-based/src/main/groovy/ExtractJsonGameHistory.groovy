@@ -54,6 +54,10 @@ games[1..-1].eachWithIndex { item, index ->
     def teamAway = item[teamAwayIndex]
 
     def teamHomeNode = graphIndex.get("teamName", teamHome).getSingle()
+    if (teamHomeNode == null) {
+       println("HomeNode does not exist");
+       return
+    }      
 
     def traversal = graphDatabase.traversalDescription()
             .relationships(graphfeatures.RelTypes.GAME, Direction.OUTGOING)

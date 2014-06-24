@@ -11,7 +11,7 @@ prediction <- predict(
   test_results$em_and_wm_with_qualification.all.notdiff.randomForest$fitted, 
   newdata=wm2014_group,
   type="prob")
-result <- cbind(wm2014_group[,c("b_date", "b_team_home","b_team_away")], prediction[c("HOME_WIN","AWAY_WIN")])
+result <- cbind(wm2014_group[,c("b_date", "b_team_home","b_team_away", "r_game_outcome_after_penalties")], prediction[c("HOME_WIN","AWAY_WIN")])
 print(result)
 
 predict_all <- function(model) {

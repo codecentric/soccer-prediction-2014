@@ -62,7 +62,7 @@ def fix_country(input, line):
 
 def read_wm2014(fn):
     data = CSV(fn)
-    return data.get_as_map(None, "b_date", "b_team_home", "b_team_away","b_tournament_group","b_tournament_name1","b_tournament_country","b_tournament_phase1")
+    return data.get_as_map(None, "b_date", "b_team_home", "b_team_away")
 
 
 def read_michael(fn):
@@ -229,22 +229,23 @@ def show_conflicting_information(s1, s2, s3):
                 print
 
 
-def write_combined_files(filename, s1, s2, s3, s4):
+def write_combined_files(filename, s1, s2, s3, s4, s5):
     all = {}
-    for key in sorted(list(set(s1.keys() + s2.keys() + s3.keys() + s4.keys()))):
+    for key in sorted(list(set(s1.keys() + s2.keys() + s3.keys() + s4.keys() + s5.keys()))):
         v1 = s1.get(key, None)
         v2 = s2.get(key, None)
         v3 = s3.get(key, None)
         v4 = s4.get(key, None)
+        v5 = s5.get(key, None)
 
         m = {}
         # v1  has the best data quality so use it last
-        v = [v4, v3, v2, v1]
+        v = [v5, v4, v3, v2, v1]
         v = [x for x in v if x]
         for i in v:
             m.update(i)
         all[key] = m
-    new_cols = sorted(list(set(s1.values()[0].keys() + s2.values()[0].keys() + s3.values()[0].keys() + s4.values()[0].keys())))
+    new_cols = sorted(list(set(s1.values()[0].keys() + s2.values()[0].keys() + s3.values()[0].keys() + s4.values()[0].keys() + s5.values()[0].keys())))
     new_cols.remove("b_date")
     new_cols.remove("b_team_home")
     new_cols.remove("b_team_away")
@@ -270,6 +271,7 @@ s2 = read_dataminingsoccer("../0-raw-sources/european_cups.csv",
                            "../0-raw-sources/world_cups.csv")
 s3 = read_valentin("../0-raw-sources/from-valentin.csv")
 s4 = read_wm2014("../0-raw-sources/wm-2014.csv")
+s5 = read_wm2014("../0-raw-sources/wm-2014-vorrunde.csv")
 
 show_conflicting_information(s1, s2, s3)
-write_combined_files("output/games.csv", s1, s2, s3, s4)
+write_combined_files("output/games.csv", s1, s2, s3, s4, s5)

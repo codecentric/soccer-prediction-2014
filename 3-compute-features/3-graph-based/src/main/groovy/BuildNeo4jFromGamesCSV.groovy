@@ -46,8 +46,13 @@ lines[1..-1].eachWithIndex { item,index ->
     dateNumeric = DATE_FORMAT.parse(date)
     teamHome = item[teamHomeIndex]
     teamAway = item[teamAwayIndex]
-    goalsHome = Integer.parseInt(item[goalsHomeIndex])
-    goalsAway = Integer.parseInt(item[goalsAwayIndex])
+    try {
+    	goalsHome = Integer.parseInt(item[goalsHomeIndex])
+    	goalsAway = Integer.parseInt(item[goalsAwayIndex])
+    } catch (NumberFormatException e) {
+        println("Skip item because of NumberFormatException when reading goals")
+        return;
+    }	  
     goalDifference = goalsHome - goalsAway;
 
     println "$date $teamHome:$teamAway $goalDifference"

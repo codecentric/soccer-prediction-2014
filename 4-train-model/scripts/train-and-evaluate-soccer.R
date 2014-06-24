@@ -37,6 +37,7 @@ configurations = build_run_configurations(
   soccer.targets,
   soccer.models)
 train_results <- lapply(configurations, run_train)
-test_results <- lapply(train_results, run_evaluate)
+save(train_results, file="output/trained-models.RData")
 
-save(test_results, file="output/trained-models.RData")
+test_results <- lapply(train_results, run_evaluate)
+save(test_results, file="output/tested-models.RData")
