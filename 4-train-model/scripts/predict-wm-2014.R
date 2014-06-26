@@ -48,7 +48,8 @@ dists <- function(model, sorted=FALSE) {
 wm_heatmap <- function(data) {
   max_from_middle <- max(max(range(data)) - 0.5, 0.5-min(range(data)))
   max_rounded = ceiling(max_from_middle *10)/10
-  levelplot(data, 
+  # why do I have to transpose the data to see rows in the matrix as rows in the image?
+  levelplot(t(data), 
             col.regions=colorRampPalette(c("red","white","blue"))(50), 
             xlab="", ylab="", 
             scales=list(x=list(rot=90)),
@@ -60,26 +61,39 @@ prediction_em_wm <- predict_all(
 write.csv2(prediction_em_wm,"output/game-predictions-emwm.csv")
 
 prediction_all <- predict_all(
-  test_results$all_since_1994.all.notdiff.randomForest$fitted)
+  test_results$em_and_wm_with_qualification.all.notdiff.randomForest$fitted)
 write.csv2(prediction_em_wm,"output/game-predictions-all.csv")
 
 dist_em_wm <- dists(
   test_results$em_and_wm_with_qualification.all.notdiff.randomForest$fitted,
   TRUE)
-
-dist_em_wm_middle <- (dist_em_wm + (1-t(dist_em_wm))) / 2
+dist_em_wm_mean <- (dist_em_wm + (1-t(dist_em_wm))) / 2
 
 dist_all <- dists(
   test_results$all_since_1994.all.notdiff.randomForest$fitted)
-dist_all <- dists_all[colnames(dist_em_wm),colnames(dist_em_wm)]
+dist_all <- dist_all[colnames(dist_em_wm),colnames(dist_em_wm)]
+dist_all_mean <- (dist_all + (1-t(dist_all)))/2
 
-dist_all_middle <- (dist_all + (1-t(dist_all)))/2
-
-png("output/all-teams-winprob-heatmap.png", width=900,height=800)
+png("output/winprob-heatmap-emwm.png", width=900,height=800)
 wm_heatmap(dist_em_wm)
 dev.off()
 
+png("output/winprob-heatmap-emwm-mean.png", width=900,height=800)
+wm_heatmap(dist_em_wm_mean)
+dev.off()
 
-png("output/all-teams-winprob-diff.png", width=900,height=800)
-levelplot(t(dist_em_wm - dists_all), col.regions=topo.colors, xlab="", ylab="")
+png("/tmp/test.png", width=900,height=800)
+wm_heatmap(dist_em_wm - (1-t(dist_em_wm)))
+dev.off()
+
+png("output/winprob-heatmap-allgames.png", width=900,height=800)
+wm_heatmap(dist_all)
+dev.off()
+
+png("output/winprob-heatmap-allgames-mean.png", width=900,height=800)
+wm_heatmap(dist_all_mean)
+dev.off()
+
+png("output/winprob-diff-allgames-minus-emwm.png", width=900,height=800)
+wm_heatmap(dist_all - dist_em_wm)
 dev.off()
