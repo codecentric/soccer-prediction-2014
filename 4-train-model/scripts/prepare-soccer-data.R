@@ -63,7 +63,7 @@ build_soccer_data <- function(tournaments=NULL, since=NULL, include_qualificatio
 soccer.datasets <- list(
   #all=data,
   all_since_1994=build_soccer_data(since="1994-01-01"),
-  #em_and_wm_final_rounds=build_soccer_data(tournaments=c("EM","WM"),since="1994-01-01",include_qualification=FALSE),
+  em_and_wm_final_rounds=build_soccer_data(tournaments=c("EM","WM"),since="1994-01-01",include_qualification=FALSE),
   em_and_wm_with_qualification=build_soccer_data(tournaments=c("EM","WM"),since="1994-01-01",include_qualification=TRUE)
 )
 
@@ -98,9 +98,9 @@ soccer.splits <- list(
 soccer.featuresets <- list(
   #all=all_features,
   #graph=graph_features,
-  notgraph=notgraph_features
-  #diff=diff_features,
-  #notdiff=notdiff_features,
+  notgraph=notgraph_features,
+  diff=diff_features,
+  notdiff=notdiff_features
   #selected=c("b_fifa_ranking_home","b_fifa_ranking_away","b_last_3_games_goal_average_home_team")
 )
 
