@@ -1,6 +1,3 @@
-null
-
-
 b_last_1games_points_average_weighted_home_team, b_last_1games_points_average_weighted_away_team, b_last_1games_points_average_weighted_home_minus_away_team,    Computes the weighted averages from the last 1 games. Based on the points   gained (three for win, one for draw).    Points are weighted based on the position of the competing team in the league table    For convenience also the difference between these scores for home and away team are included   For convenience 0 is written instead of NaN when no previous games are known.
 
 

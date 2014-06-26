@@ -7,13 +7,6 @@ wm2014 <- subset(data, b_tournament_name=="WM" & b_tournament_year=="2014" & b_t
 wm2014_group <- subset(wm2014, b_tournament_group != "")
 wm2014_all <- subset(wm2014, b_tournament_group == "")
 
-prediction <- predict(
-  test_results$em_and_wm_with_qualification.all.notdiff.randomForest$fitted, 
-  newdata=wm2014_group,
-  type="prob")
-result <- cbind(wm2014_group[,c("b_date", "b_team_home","b_team_away", "r_game_outcome_after_penalties")], prediction[c("HOME_WIN","AWAY_WIN")])
-print(result)
-
 predict_all <- function(model) {
   prediction <- predict(
     model,
@@ -62,9 +55,13 @@ wm_heatmap <- function(data) {
             at=seq(0.5-max_rounded, 0.5+max_rounded, length.out=50))
 }
 
-result_all <- predict_all(
+prediction_em_wm <- predict_all(
   test_results$em_and_wm_with_qualification.all.notdiff.randomForest$fitted)
-write.csv2(result_all,"output/game-predictions.csv")
+write.csv2(prediction_em_wm,"output/game-predictions-emwm.csv")
+
+prediction_all <- predict_all(
+  test_results$all_since_1994.all.notdiff.randomForest$fitted)
+write.csv2(prediction_em_wm,"output/game-predictions-all.csv")
 
 dist_em_wm <- dists(
   test_results$em_and_wm_with_qualification.all.notdiff.randomForest$fitted,
