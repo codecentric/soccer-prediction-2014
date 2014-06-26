@@ -39,7 +39,8 @@ public class Main {
 
     private static List<FeatureComputer> getFeatureComputers(LeagueTables leagueTables) {
         List<FeatureComputer> featureComputers = new ArrayList<>();
-        featureComputers.add(new FeatureGameOutcome());
+        //game outcome is easier to compute in R and belongs to cleanup
+	//featureComputers.add(new FeatureGameOutcome());
         featureComputers.add(new FeatureLastNGamesPointsAverageWeighted(1, leagueTables.getLeagueTable("weighted_points_league_table")));
         featureComputers.add(new FeatureLastNGamesPointsAverageWeighted(3, leagueTables.getLeagueTable("weighted_points_league_table")));
         featureComputers.add(new FeatureLastNGamesPointsAverageWeighted(10, leagueTables.getLeagueTable("weighted_points_league_table")));
