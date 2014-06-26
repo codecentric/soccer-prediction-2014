@@ -1,10 +1,9 @@
-source("scripts/prepare-soccer-data.R")
+source("../4-train-model/scripts/prepare-soccer-data.R")
 library(caret)
 
-load(file="output/trained-random-forest-models.RData")
+load(file="../4-train-model/output/trained-random-forest-models.RData")
 
 wm2014 <- subset(data, b_tournament_name=="WM" & b_tournament_year=="2014" & b_tournament_phase=="Endrunde")
-wm2014_group <- subset(wm2014, b_tournament_group != "")
 wm2014_all <- subset(wm2014, b_tournament_group == "")
 
 predict_all <- function(model) {

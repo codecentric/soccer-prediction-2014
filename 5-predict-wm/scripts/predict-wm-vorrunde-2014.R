@@ -1,7 +1,7 @@
-source("scripts/prepare-soccer-data.R")
+source("../4-train-model/scripts/prepare-soccer-data.R")
 library(caret)
 
-load(file="output/trained-random-forest-models.RData")
+load(file="../4-train-model/output/trained-random-forest-models.RData")
 
 wm2014 <- subset(data, b_tournament_name=="WM" & b_tournament_year=="2014" & b_tournament_phase=="Endrunde")
 wm2014_group <- subset(wm2014, b_tournament_group != "")
@@ -18,20 +18,9 @@ prediction_raw <- predict(
 result <- cbind(
   wm2014_group[,c("b_team_home","b_team_away")], 
   prediction_prob[c("HOME_WIN","AWAY_WIN")],
-  predicted_class=prediction_raw,
-  actual_class=wm2014_group$r_game_outcome_before_penalties
+  predicted_class=prediction_raw
 )
 
 print("Vorhersage für die Vorrunde")
 print("===========================")
 print(result);
-
-result$predicted_class <- factor(result$predicted_class, levels=c("AWAY_WIN","DRAW","HOME_WIN"))
-result$actual_class <- factor(result$actual_class, levels=c("AWAY_WIN","DRAW","HOME_WIN"))
-notmissing <- !is.na(result$actual_class)
-
-result_confusion <- confusionMatrix(
-  data=result$predicted_class[notmissing], 
-  reference=result$actual_class[notmissing])
-
-print(result_confusion)

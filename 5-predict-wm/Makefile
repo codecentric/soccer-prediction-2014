@@ -1,10 +1,4 @@
-all: train plot predict-vorrunde predict-all
-
-train:
-	Rscript scripts/train-and-evaluate-soccer.R
-
-plot:
-	Rscript scripts/plot-model-comparison.R
+all: predict-vorrunde predict-ko predict-all
 
 predict-vorrunde:
 	Rscript scripts/predict-wm-vorrunde-2014.R

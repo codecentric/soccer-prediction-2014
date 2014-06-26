@@ -38,7 +38,7 @@ possible_targets <- c(
   "r_game_outcome_after_penalties_draw")
 
 for (possible_target in possible_targets) {
-  data[[possible_target]] <- as.factor(data[[possible_target]])
+  data[[possible_target]] <- factor(as.character(data[[possible_target]]), exclude=c(""))
 }
 
 build_soccer_data <- function(tournaments=NULL, since=NULL, include_qualification=TRUE, features="all") {

@@ -6,7 +6,7 @@ library(caret)
 trControl <- trainControl(
   method="repeatedcv",
   number=10,
-  repeats=2)
+  repeats=1)
 soccer.models <- list(
   #logisticRegression = list(
   #  method="glm",
@@ -20,7 +20,7 @@ soccer.models <- list(
   #,
   randomForest=list(
     method="rf",
-    tuneGrid=expand.grid(mtry=c(1,2,3,5,7)),
+    tuneGrid=expand.grid(mtry=c(1,3,5)),
     trControl=trControl
   )
   #,
