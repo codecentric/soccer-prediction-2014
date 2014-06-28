@@ -1,13 +1,11 @@
-all: predict-vorrunde predict-ko predict-all
+all: games ko-runde
 
-predict-vorrunde:
-	Rscript scripts/predict-wm-vorrunde-2014.R
+games:
+	$(MAKE) -C 1-games
 
-predict-ko:
-	Rscript scripts/predict-wm-ko-2014.R
-
-predict-all:
-	Rscript scripts/predict-wm-2014.R
+ko-runde:
+	$(MAKE) -C 2-ko-runde
 
 clean:
-	rm -rf output/*
+	$(MAKE) -C 1-games clean
+	$(MAKE) -C 2-ko-runde clean

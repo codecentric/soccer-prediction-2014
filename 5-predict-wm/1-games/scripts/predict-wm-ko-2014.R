@@ -1,7 +1,10 @@
-source("../4-train-model/scripts/prepare-soccer-data.R")
+wd <- getwd()
+setwd("../../4-train-model")
+source("scripts/prepare-soccer-data.R")
+setwd(wd)
 library(caret)
 
-load(file="../4-train-model/output/trained-random-forest-models.RData")
+load(file="../../4-train-model/output/trained-random-forest-models.RData")
 
 ko_teams <- c("BRA","MEX","NLD","CHL","COL","GRC", "CRI","URY","FRA","CHE","ARG","NGA","DEU","USA","BEL","DZA")
 
@@ -47,7 +50,7 @@ dists <- function(model, sorted=FALSE) {
   if (sorted) {
     # simply add up all winning probabilities
     best_teams <- rowSums(dist_matrix)
-    teams_sorted <- sort(best_teams)
+    teams_sorted <- sort(best_teams,decreasing=TRUE)
     dist_sorted <- dist_matrix[names(teams_sorted),names(teams_sorted)]
     return(dist_sorted)
   }
@@ -59,7 +62,7 @@ wm_heatmap <- function(data) {
   max_rounded = ceiling(max_from_middle *10)/10
   # why do I have to transpose the data to see rows in the matrix as rows in the image?
   levelplot(t(data), 
-            col.regions=colorRampPalette(c("red","white","blue"))(50), 
+            col.regions=colorRampPalette(c("blue", "white","red"))(50), 
             xlab="", ylab="", 
             scales=list(x=list(rot=90)),
             at=seq(0.5-max_rounded, 0.5+max_rounded, length.out=50))
@@ -73,32 +76,49 @@ prediction_all <- predict_ko(
   test_results$em_and_wm_with_qualification.all.notdiff.randomForest$fitted)
 write.csv2(prediction_em_wm,"output/game-predictions-ko-allgames.csv")
 
+prediction_all_mean <- prediction_all
+for (n in 1:nrow(prediction_all_mean)) {
+  home_team <- prediction_all[n,"b_team_home"]
+  away_team <- prediction_all[n,"b_team_away"]
+  winprobhome <- prediction_all[n,"HOME_WIN"]
+  winprobaway <- subset(prediction_all, b_team_home==away_team & b_team_away==home_team)[1,"AWAY_WIN"]
+  meanprob <- (winprobhome + winprobaway) / 2 
+  prediction_all_mean["HOME_WIN"] <- meanprob
+  prediction_all_mean["AWAY_WIN"] <- 1-meanprob
+}
+write.csv2(prediction_all_mean, "output/game-predictions-ko-allgames-mean.csv")
+
 dist_em_wm <- dists(
   test_results$em_and_wm_with_qualification.all.notdiff.randomForest$fitted,
   TRUE)
 dist_em_wm_mean <- (dist_em_wm + (1-t(dist_em_wm))) / 2
 
 dist_allgames <- dists(
-  test_results$all_since_1994.all.notdiff.randomForest$fitted)
-dist_allgames <- dist_allgames[colnames(dist_em_wm),colnames(dist_em_wm)]
+  test_results$all_since_1994.all.notdiff.randomForest$fitted,
+  TRUE)
 dist_allgames_mean <- (dist_allgames + (1-t(dist_allgames)))/2
 
-png("output/winprob-heatmap-ko-emwm.png", width=900,height=800)
+print("SIEGWAHRSCHEINLICHKEITEN FÜR HEIMSPIELE")
+print("Jede Zelle enthält die Siegwahrscheinlichkeit für die 'Zeilenmannschaft'")
+print(dist_allgames)
+
+png("output/winprob-heatmap-ko-emwm.png", width=600,height=500)
 wm_heatmap(dist_em_wm)
 dev.off()
 
-png("output/winprob-heatmap-ko-emwm-mean.png", width=900,height=800)
+png("output/winprob-heatmap-ko-emwm-mean.png", width=600,height=500)
 wm_heatmap(dist_em_wm_mean)
 dev.off()
 
-png("output/winprob-heatmap-ko-allgames.png", width=900,height=800)
+png("output/winprob-heatmap-ko-allgames.png", width=600,height=500)
 wm_heatmap(dist_allgames)
 dev.off()
 
-png("output/winprob-heatmap-ko-allgames-mean.png", width=900,height=800)
+png("output/winprob-heatmap-ko-allgames-mean.png", width=600,height=500)
 wm_heatmap(dist_allgames_mean)
 dev.off()
 
-png("output/winprob-diff-ko-allgames-minus-emwm.png", width=900,height=800)
+dist_allgames <- dist_allgames[colnames(dist_em_wm),colnames(dist_em_wm)]
+png("output/winprob-diff-ko-allgames-minus-emwm.png", width=600,height=500)
 wm_heatmap(dist_allgames - dist_em_wm)
 dev.off()

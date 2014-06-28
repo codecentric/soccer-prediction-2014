@@ -1,7 +1,10 @@
-source("../4-train-model/scripts/prepare-soccer-data.R")
+wd <- getwd()
+setwd("../../4-train-model")
+source("scripts/prepare-soccer-data.R")
+setwd(wd)
 library(caret)
 
-load(file="../4-train-model/output/trained-random-forest-models.RData")
+load(file="../../4-train-model/output/trained-random-forest-models.RData")
 
 wm2014 <- subset(data, b_tournament_name=="WM" & b_tournament_year=="2014" & b_tournament_phase=="Endrunde")
 wm2014_group <- subset(wm2014, b_tournament_group != "")

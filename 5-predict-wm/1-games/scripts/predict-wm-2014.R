@@ -1,7 +1,11 @@
-source("../4-train-model/scripts/prepare-soccer-data.R")
+wd <- getwd()
+setwd("../../4-train-model")
+source("scripts/prepare-soccer-data.R")
+setwd(wd)
+
 library(caret)
 
-load(file="../4-train-model/output/trained-random-forest-models.RData")
+load(file="../../4-train-model/output/trained-random-forest-models.RData")
 
 wm2014 <- subset(data, b_tournament_name=="WM" & b_tournament_year=="2014" & b_tournament_phase=="Endrunde")
 wm2014_all <- subset(wm2014, b_tournament_group == "")
@@ -37,7 +41,7 @@ dists <- function(model, sorted=FALSE) {
   if (sorted) {
     # simply add up all winning probabilities
     best_teams <- rowSums(dist_matrix)
-    teams_sorted <- sort(best_teams)
+    teams_sorted <- sort(best_teams,decreasing=TRUE)
     dist_sorted <- dist_matrix[names(teams_sorted),names(teams_sorted)]
     return(dist_sorted)
   }
@@ -49,7 +53,7 @@ wm_heatmap <- function(data) {
   max_rounded = ceiling(max_from_middle *10)/10
   # why do I have to transpose the data to see rows in the matrix as rows in the image?
   levelplot(t(data), 
-            col.regions=colorRampPalette(c("red","white","blue"))(50), 
+            col.regions=colorRampPalette(c("blue", "white","red"))(50),
             xlab="", ylab="", 
             scales=list(x=list(rot=90)),
             at=seq(0.5-max_rounded, 0.5+max_rounded, length.out=50))

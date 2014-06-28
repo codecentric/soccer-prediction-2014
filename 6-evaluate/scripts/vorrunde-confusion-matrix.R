@@ -31,4 +31,7 @@ result_confusion <- confusionMatrix(
   data=full_result$predicted_class[notmissing], 
   reference=full_result$actual_class[notmissing])
 
+
+print("CONFUSION MATRIX FOR RANDOM FOREST TRAINED WITH EM AND WM-DATE (INCL. QUALIFICATION)")
+print("====================================================================================")
 print(result_confusion)
